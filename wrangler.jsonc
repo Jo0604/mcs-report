@@ -1,0 +1,6 @@
+{
+  // Cloudflare Workers の静的サイト設定（このフォルダをそのまま公開する）
+  "name": "mcs-report",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./" }
+}
