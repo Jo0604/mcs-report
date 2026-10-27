@@ -1,0 +1,872 @@
+[
+ {
+  "id": "2026-10-27",
+  "date": "2026-10-27",
+  "items": [
+   {
+    "p": "P",
+    "title": "行政違反処理法改正案、罰金上限を個人1.5倍・組織3億ドンへ",
+    "summary": "10月26日、国会で行政違反処理法（改正）案（6章128条）の提案説明が行われた。罰金の上限を個人10億ドン→15億ドン、組織20億ドン→30億ドンに引き上げ、一部分野で処分の時効を2〜3年に延ばす案。出国一時停止や電気・水道・通信の停止などの強制措置の追加も提案されている。",
+    "impact": "成立すれば、日系企業（組織）の行政違反に対する罰金リスクが上がる可能性がある。審議段階のため、最終条文と施行日を確認し、許認可・労務・環境などの社内コンプライアンス点検に備えたい。",
+    "src": {
+     "t": "Vietnam+（VNA）「NA deputies propose adding enforcement measures to administrative penalties」",
+     "url": "https://en.vietnamplus.vn/na-deputies-propose-adding-enforcement-measures-to-administrative-penalties-post354304.vnp",
+     "d": "2026-10-26"
+    }
+   },
+   {
+    "p": "P",
+    "title": "ベトナムとポーランド、戦略的パートナーシップに格上げ",
+    "summary": "10月26日、ハノイでの首脳会談で両国関係を戦略的パートナーシップに格上げし、共同声明を発表した。2025年の二国間貿易は約40億ドル（前年比14.8%増）で、2030年までに60億ドルへ拡大する目標で一致した。科学技術・イノベーション・デジタル転換を新たな協力の柱とする。",
+    "impact": "EU域内の生産・販売拠点との取引を持つ日系企業にとって、ベトナム－中東欧間の物流・投資案件が増える可能性がある。EU向け輸出ではEVFTAの活用状況も併せて確認したい。",
+    "src": {
+     "t": "Vietnam+（VNA）「Vietnam, Poland establish Strategic Partnership」",
+     "url": "https://en.vietnamplus.vn/vietnam-poland-establish-strategic-partnership-post354314.vnp",
+     "d": "2026-10-26"
+    }
+   },
+   {
+    "p": "E",
+    "title": "中心レート1ドル＝2万5627ドン、週明けも据え置き",
+    "summary": "国家銀行は10月26日の対ドル中心レートを1ドル＝2万5627ドンとし、前週末から据え置いた。商業銀行の取引上限は2万6908ドン、下限は2万4346ドン（±5%）。ベトコムバンク等の店頭レートは前営業日比10ドン下がった。",
+    "impact": "ドン相場は安定しており、ドル建ての輸入代金や外貨建て給与・手当の円換算は当面大きく動きにくい。円ドン相場は日米の金利動向で変わるため、手当の見直しは円相場と合わせて確認したい。",
+    "src": {
+     "t": "Vietnam+（VNA）「Reference exchange rates remain unchanged at the start of the week」",
+     "url": "https://en.vietnamplus.vn/reference-exchange-unchanged-at-weeks-beginning-post354289.vnp",
+     "d": "2026-10-26"
+    }
+   },
+   {
+    "p": "E",
+    "title": "商工省、建設資材の需給調整を決定　6省・市が要調整",
+    "summary": "商工省は10月24日付の決定2800/QĐ-BCTで、全国34省・市の建設資材の需給を整理した。18地方は自給でき他地方へも供給可能、10地方は一部不足だが自ら調整可能、6地方は国による調整が必要とされた。インフラ建設の急増を受けた措置。",
+    "impact": "工場建設や内装工事を予定する日系企業は、資材が不足する地方では調達の遅れや価格上昇が起きる可能性がある。施工会社に資材の調達先と価格条件を早めに確認したい。",
+    "src": {
+     "t": "Báo Tin tức（TTXVN）「Điểm tin kinh tế Việt Nam nổi bật ngày 26/10/2026」",
+     "url": "https://baotintuc.vn/diem-tin-kinh-te-viet-nam-noi-bat-ngay-26102026-post1397526.html",
+     "d": "2026-10-26"
+    }
+   },
+   {
+    "p": "S",
+    "title": "大手ジム「California Fitness」、ハノイの全店舗が休止",
+    "summary": "大手フィットネスチェーンCalifornia Fitness & Yogaは、10月26日までにハノイの全店舗の営業を止めた。同社は経営再建中で財務難と従業員への未払いを認めており、会員への対応策は11月19日までに公表するとしている（要確認）。多くの休止は10月31日までとされ、11月の再開時期は示されていない。",
+    "impact": "ハノイ在住の駐在員やその家族で複数年・前払い会員の人は、契約内容と支払方法（分割払いの継続義務など）を確認しておきたい。福利厚生でジム契約を結ぶ企業も対応確認が必要。",
+    "src": {
+     "t": "Tuoi Tre News「California Fitness suspends all gyms in Hanoi, raises concerns over member rights」",
+     "url": "https://news.tuoitre.vn/california-fitness-suspends-all-gyms-in-hanoi-raises-concerns-over-member-rights-103261026201623603.htm",
+     "d": "2026-10-26"
+    }
+   },
+   {
+    "p": "T",
+    "title": "データ安全法案、国会で審議　越境データを5段階リスクで管理",
+    "summary": "10月26日、国会はデータ安全法案（6章29条）について審議した。データを5段階のリスク水準に分け、収集から廃棄までの全過程で管理する。越境移転・処理はリスク水準に応じた厳格な管理を設ける方針。",
+    "impact": "日本本社とのデータ共有やクラウド利用をしている企業は、扱うデータのリスク区分によって越境移転の手続きが増える可能性がある。個人データ保護法とあわせて、データの所在と移転経路を整理しておきたい。",
+    "src": {
+     "t": "Vietnam+（VNA）「Deputies to discuss draft Data Security Law on October 26」",
+     "url": "https://en.vietnamplus.vn/deputies-to-discuss-draft-data-security-law-on-october-26-post354291.vnp",
+     "d": "2026-10-26"
+    }
+   }
+  ]
+ },
+ {
+  "id": "2026-10-26",
+  "date": "2026-10-26",
+  "items": [
+   {
+    "p": "P",
+    "title": "人材誘致の決議案、タレントビザと所得税5年免除を提示",
+    "summary": "内務省は10月25日までに、人材の誘致・活用に関する特別な仕組みの決議案への意見募集を始めた。外国人材向けに「ベトナム・タレントビザ」を設け、労働許可を免除し複数の雇用主で働けるようにするほか、給与・賞与の個人所得税を所得発生から5年間免除する。戦略的任務に人材を雇う企業は、給与・賞与の実費を法人所得の計算で追加100%（合計200%）損金算入できる案。",
+    "impact": "対象となる外国人材の要件は未公表で、日本人駐在員がどこまで該当するかは今後の細則次第。対象になれば、赴任者の手取りや会社負担のグロスアップ税額が大きく下がる可能性があるため、国会審議の行方を確認したい。",
+    "src": {
+     "t": "Tuoi Tre News「Vietnam proposes talent visa, 5-year personal income tax exemption for foreign experts」",
+     "url": "https://news.tuoitre.vn/vietnam-proposes-talent-visa-5-year-personal-income-tax-exemption-for-foreign-experts-103261025162401176.htm",
+     "d": "2026-10-25"
+    }
+   },
+   {
+    "p": "P",
+    "title": "VCCI、国外向けデータセンター・クラウドに付加価値税0%を提案",
+    "summary": "ベトナム商工会議所（VCCI）は、付加価値税法の施行細則である政令181/2025/NĐ-CPを改正する財務省の政令案に意見を出し、国外の顧客に提供するデータセンター・クラウド・AIサービスへの0%税率の適用を求めた。現行では通信サービス扱いで10%が課され、域内の競合より約10%割高になるという。案は署名日に施行され、経過措置がないことも指摘した。",
+    "impact": "ベトナム拠点から日本本社や海外グループ会社にIT・クラウド・AI関連サービスを提供している企業は、改正政令の内容によって税負担と契約上の証憑（請求先住所など）の扱いが変わる可能性がある。",
+    "src": {
+     "t": "Viet Nam News「VCCI proposes revision for VAT regulations」",
+     "url": "https://vietnamnews.vn/economy/1802816/vcci-proposes-revision-for-vat-regulations.html",
+     "d": "2026-10-25"
+    }
+   },
+   {
+    "p": "E",
+    "title": "財務相「FDIなしに成長はない」、稼働中のFDIは4万7796件",
+    "summary": "10月24日の国会での投資法改正の審議で、財務相は2桁成長には外国直接投資（FDI）の誘致継続が不可欠と述べた。8月時点で稼働中のFDI案件は約4万7796件、登録資本は約5616億ドル。議員からは、優遇措置を現地調達率や技術移転などの実績に結び付けるべきだとの意見が出た。",
+    "impact": "今後の投資優遇は、現地サプライヤーの活用や研究開発拠点の設置などの実績を条件にする方向の議論が進んでおり、新規投資や増資を計画する日系製造業は、優遇申請の要件変更に備える必要がある。",
+    "src": {
+     "t": "VietNamNet「Vietnam cannot sustain growth without foreign investment, finance minister says」",
+     "url": "https://vietnamnet.vn/en/vietnam-cannot-sustain-growth-without-foreign-investment-finance-minister-says-2568111.html",
+     "d": "2026-10-24"
+    }
+   },
+   {
+    "p": "E",
+    "title": "外食売上は上期6.55%増も、伸びの大半は値上げ",
+    "summary": "iPOS.vnとネスレ・プロフェッショナルの報告書によると、2026年上半期の飲食（F&B）売上は推計432.7兆ドン（173億ドル）で前年同期比6.55%増。一方で外食価格は6.85%上昇し、店舗数は約32万9200店と0.1%減った。調査した481社の43%が前年より売上が減ったと答えた（要確認）。",
+    "impact": "客数が伸びず値上げで売上を支える構図のため、ベトナムで外食・食品事業を展開する日系企業は、低価格業態との競争とLPG・人件費・賃料の上昇を前提に価格戦略を見直す局面にある。",
+    "src": {
+     "t": "VnEconomy「Rising costs not customers」",
+     "url": "https://en.vneconomy.vn/rising-costs-not-customers.htm",
+     "d": "2026-10-25"
+    }
+   },
+   {
+    "p": "S",
+    "title": "インフラ建設の急増で、建設業の人手不足が深刻に",
+    "summary": "10月22日のセミナーで、建設各社から技術者・重機オペレーター・鉄道や地下工事の専門技術者の不足が報告された。大手のデオカー・グループは今後2年で人員需要が約30%（約3000人）増えると見込む。南北高速鉄道では2026〜32年に事業管理だけで約700〜900人が必要と試算された。",
+    "impact": "建設・設備関連の日系企業では、技術者の採用競争と賃金上昇が進む可能性がある。工期の遅れが工業団地や物流拠点の稼働時期に影響しないか、発注側も確認しておきたい。",
+    "src": {
+     "t": "VnEconomy「Construction firms face labor crunch amid infrastructure boom」",
+     "url": "https://en.vneconomy.vn/construction-firms-face-labor-crunch-amid-infrastructure-boom.htm",
+     "d": "2026-10-25"
+    }
+   },
+   {
+    "p": "T",
+    "title": "ホーチミン市、渋滞28か所の解消へ98事業・約140億ドルの計画",
+    "summary": "ホーチミン市建設局によると、市は28か所の渋滞地点を解消するため98のインフラ事業を進める。総額は約360.841兆ドン（約140億ドル）で、33事業は資金を確保済み。15か所は2026〜27年、残る13か所は2028〜2030年に対策する計画で、地下鉄1号線・2号線の延伸、6号線、トゥーティエム〜ロンタイン鉄道も含まれる。",
+    "impact": "タンソンニャット空港やカットライ港の周辺も対象で、完成すれば物流と通勤の時間短縮につながる可能性がある。一方で工事期間中は渋滞が悪化する区間もあり得るため、配送ルートやオフィス・住居選びで工事予定を確認したい。",
+    "src": {
+     "t": "Tuoi Tre News「Ho Chi Minh City launches $14bn plan to tackle 28 traffic congestion hotspots with key projects」",
+     "url": "https://news.tuoitre.vn/ho-chi-minh-city-launches-14bn-plan-to-tackle-28-traffic-congestion-hotspots-with-key-projects-103261025195504434.htm",
+     "d": "2026-10-25"
+    }
+   }
+  ]
+ },
+ {
+  "id": "2026-10-25",
+  "date": "2026-10-25",
+  "items": [
+   {
+    "p": "P",
+    "title": "外国人の労働許可免除18類型、政令393号で規定",
+    "summary": "政府は10月20日、ベトナムで働く外国人労働者に関する政令393/2026/NĐ-CPに署名した。有限会社の出資者や株式会社の取締役会長・取締役（出資額30億ドン以上）、STEM・金融分野の修士以上で教育・研究に従事する人、戦略技術分野の専門家とその家族など18類型を労働許可の対象外とする。施行日は12月5日（VOV）と12月15日（Viet Nam News）で報道が分かれている（要確認）。",
+    "impact": "出資額30億ドン以上の日本人出資者・役員は労働許可が不要になる可能性があり、赴任手続きの負担が軽くなる。免除の要件・届出手続きは政令本文で確認し、現在の許可の更新計画を見直す必要がある。",
+    "src": {
+     "t": "VOV「Các trường hợp người lao động nước ngoài không thuộc diện cấp giấy phép lao động」／Viet Nam News",
+     "url": "https://vov.vn/chinh-tri/cac-truong-hop-nguoi-lao-dong-nuoc-ngoai-khong-thuoc-dien-cap-giay-phep-lao-dong-post1343464.vov",
+     "d": "2026-10-21"
+    }
+   },
+   {
+    "p": "P",
+    "title": "首相、公共投資案件を今期中に3割以上削減と表明",
+    "summary": "首相は10月23日、国会の分科会で国家予算法・入札法などの改正案について発言し、今期中に公共投資案件の数を少なくとも30%減らす方針を示した。前期は約5,000件あり、6割超を占めるC類案件は改正案で投資方針の個別承認を不要とし、手続きを投資決定に一本化する。",
+    "impact": "案件が大型・重点分野に絞られることで、インフラ関連の受注機会は大型案件に集まる可能性がある。C類案件の手続き簡素化で、地方案件の着工が早まることも考えられる。",
+    "src": {
+     "t": "Viet Nam News「Việt Nam to cut public investment projects by at least 30% to focus resources: PM」",
+     "url": "https://vietnamnews.vn/economy/1802789/viet-nam-to-cut-public-investment-projects-by-at-least-30-to-focus-resources-pm.html",
+     "d": "2026-10-24"
+    }
+   },
+   {
+    "p": "E",
+    "title": "国家銀行総裁、不動産価格の過熱抑制と金利指導の徹底を表明",
+    "summary": "国家銀行のファム・ドゥック・アン総裁は10月23日の会議で、不動産価格が人為的に高騰しないよう措置を取る一方、急激な冷え込みは避けると述べた。生産・貿易など優先分野の貸出金利の引き下げを求め、指導に違反した銀行には罰則や与信枠の制限を科す可能性があるとした。預金金利の引き上げ競争もしないよう求めた。",
+    "impact": "住宅ローンや不動産開発向け融資の審査が厳しくなる可能性があり、物件の購入・賃貸価格の動きに影響しうる。製造業向けの借入金利は下がる方向で、現地法人の資金調達コストの見直し材料になる。",
+    "src": {
+     "t": "Viet Nam News「SBV to curb property price inflation, enforce lending rate rules」",
+     "url": "https://vietnamnews.vn/economy/1802798/sbv-to-curb-property-price-inflation-enforce-lending-rate-rules.html",
+     "d": "2026-10-24"
+    }
+   },
+   {
+    "p": "E",
+    "title": "ダナン自由貿易区の第7区画、276haの投資計画を承認",
+    "summary": "ダナン市人民委員会は、ダナン自由貿易区（計1,881ha）の最後の区画となる第7区画（276ha、投資額3兆5,200億ドン＝約1億4,080万ドル）の投資計画を承認した。製造、IT・デジタル産業、物流が対象で、2027年第4四半期に着工、2032年の全面稼働を目指す。投資家は未定で、計画はVSIP合弁会社に送付された。",
+    "impact": "中部での製造・物流拠点の候補地が増える。北部・南部に比べ土地や人件費を抑えられる可能性があり、拠点分散を検討する日本企業の比較対象になる。",
+    "src": {
+     "t": "Viet Nam News「Central city approves Free Trade Zone 7 investment plan」",
+     "url": "https://vietnamnews.vn/economy/1802797/central-city-approves-free-trade-zone-7-investment-plan.html",
+     "d": "2026-10-24"
+    }
+   },
+   {
+    "p": "S",
+    "title": "ハノイのバクマイ病院、世界脳卒中機構の最上位認証を国内初取得",
+    "summary": "バクマイ病院は、世界脳卒中機構（WSO）の「Advanced Stroke Centre」認証を国内の医療機関で初めて取得し、10月23日にソウルの世界脳卒中会議で認証が授与された。必須37項目と推奨項目の75%以上を満たす必要がある。有効期間は2025年7月20日〜2028年7月19日。",
+    "impact": "ハノイ在住の駐在員や家族にとって、脳卒中の救急治療を国際基準で受けられる地元の病院の選択肢になる。緊急時の搬送先リストを見直す材料になる。",
+    "src": {
+     "t": "VietnamPlus「Bach Mai Hospital becomes Vietnam's first to win top WSO stroke certification」",
+     "url": "https://en.vietnamplus.vn/bach-mai-hospital-becomes-vietnams-first-to-win-top-wso-stroke-certification-post354227.vnp",
+     "d": "2026-10-24"
+    }
+   },
+   {
+    "p": "T",
+    "title": "国際デジタルウィーク、10月28〜30日にクアンニン省で開催",
+    "summary": "科学技術省主催の「ベトナム国際デジタルウィーク2026」が10月28〜30日にクアンニン省で開かれる。テーマはAIガバナンスで、国内外の約500人が参加予定。ASEAN・EU、オーストラリア、中国、日本とのフォーラムや、AI・5G・IoTの展示（28〜29日）を行う。",
+    "impact": "日本とのデジタル協力フォーラムが組まれており、AI・データ分野の規制方針や協力案件の情報を得る場になる。ハノイから近く、IT関連企業は参加を検討する価値がある。",
+    "src": {
+     "t": "Viet Nam News「Vietnam International Digital Week 2026 to take place in Quảng Ninh」",
+     "url": "https://vietnamnews.vn/Sci-Tech/1802737/vietnam-international-digital-week-2026-to-take-place-in-quang-ninh.html",
+     "d": "2026-10-23"
+    }
+   }
+  ]
+ },
+ {
+  "id": "2026-10-24",
+  "date": "2026-10-24",
+  "items": [
+   {
+    "p": "P",
+    "title": "投資法改正案など4法案、国会で提案説明",
+    "summary": "第16期国会第2会期は10月23日、国家予算法、入札法の改正案、投資法の一部改正案、法人税法・非農業用地使用税法・個人所得税法の一部改正案の4法案について提案説明と審査報告を聞いた。投資法改正案は外国投資家の市場参入条件や投資優遇・支援策を見直し、税法改正案は放置地・未使用地などに0.2%の税率を新設する。採決日は報道で示されていない。",
+    "impact": "外資の参入条件や特別優遇の対象が変わる可能性があり、進出・増資を検討する日系企業は条文案と施行時期を確認したい。土地を取得したまま使っていない企業は、新税率の扱いに注意が必要。",
+    "src": {
+     "t": "VietnamPlus「Lawmakers discuss four bills on finance, budget, investment」",
+     "url": "https://en.vietnamplus.vn/lawmakers-discuss-four-bills-on-finance-budget-investment-post354202.vnp",
+     "d": "2026-10-23"
+    }
+   },
+   {
+    "p": "E",
+    "title": "ホーチミン市で大阪主導のBPC円卓会議",
+    "summary": "ホーチミン市人民委員会と大阪ビジネスパートナー都市（BPC）協議会は10月23日、15都市が加盟するBPC円卓会議を同市で開いた。脱炭素と持続可能な成長がテーマで、同市での開催は2002年、2016年に続き3回目。市は1〜9月のGRDP成長率を9.06%、バスの約68%が電気など環境対応車と説明した。",
+    "impact": "大阪とホーチミン市の経済交流の場で、環境・脱炭素分野の日本企業にとって現地の案件や行政との接点が増える可能性がある。",
+    "src": {
+     "t": "VietnamPlus「Ho Chi Minh City steps up cooperation with BPC cities for sustainable growth」",
+     "url": "https://en.vietnamplus.vn/ho-chi-minh-city-steps-up-cooperation-with-bpc-cities-for-sustainable-growth-post354201.vnp",
+     "d": "2026-10-23"
+    }
+   },
+   {
+    "p": "S",
+    "title": "気候変動シナリオ更新、ヤギ級台風の頻度を試算",
+    "summary": "農業環境省は「2025年気候変動シナリオ」を公表した。4℃上昇の場合、台風ヤギ級の超大型台風は全国で平均約7年に1度、北部では約13年に1度起こりうると試算した。ハノイとホーチミン市の猛暑・ヒートアイランド・豪雨の評価も初めて含む。",
+    "impact": "ハノイなど北部に拠点を置く企業は、工場・倉庫の浸水対策やBCP（事業継続計画）の前提を見直す材料になる。シナリオは予測ではなく仮定である点に注意。",
+    "src": {
+     "t": "VnExpress International「Vietnam could face super typhoon like Yagi every 7 years」",
+     "url": "https://e.vnexpress.net/news/news/environment/vietnam-could-face-super-typhoon-like-yagi-every-7-years-5135656.html",
+     "d": "2026-10-22"
+    }
+   },
+   {
+    "p": "S",
+    "title": "ベトナムとEU、教育・訓練の協力趣意書に署名",
+    "summary": "教育訓練省と欧州委員会は10月22日、ブリュッセルで教育・訓練に関する協力趣意書に署名した。両者の間で初めての教育分野の単独文書で、エラスムス・プラスを通じた交流、学生・教員の往来、資格の相互承認や職業教育の協力を進める。今後、合同作業部会が実施計画をまとめる。",
+    "impact": "欧州との教育交流が広がると、高度人材の育成や採用市場で日本以外の選択肢が増える可能性がある。日系企業は人材獲得の競争環境の変化として見ておきたい。",
+    "src": {
+     "t": "VietnamPlus「Vietnam, EU sign letter of intent on education and training」",
+     "url": "https://en.vietnamplus.vn/vietnam-eu-sign-letter-of-intent-on-education-and-training-post354190.vnp",
+     "d": "2026-10-23"
+    }
+   },
+   {
+    "p": "T",
+    "title": "ホーチミン市、地下鉄3路線を年内着工の計画",
+    "summary": "ホーチミン市は、旧ビンズオン地域の1号線・2号線と、タンソンニャット空港とフーフウを結ぶ6号線第1期（22.9km、86.5兆ドン超）の公共投資3路線を12月に承認し、年内に着工する計画。2050年までに28路線・約1,500kmの都市鉄道網を目指す（路線数・総延長は記事内で数字が異なり要確認）。",
+    "impact": "空港アクセスや郊外の工業団地との交通が改善すれば、南部の駐在員の通勤や拠点選びに影響する可能性がある。建設・鉄道関連の日本企業には受注機会となりうる。",
+    "src": {
+     "t": "VietnamPlus「Ho Chi Minh City prioritises metro links to airports, major transport hubs」",
+     "url": "https://en.vietnamplus.vn/ho-chi-minh-city-prioritises-metro-links-to-airports-major-transport-hubs-post354200.vnp",
+     "d": "2026-10-23"
+    }
+   }
+  ]
+ },
+ {
+  "id": "2026-10-23",
+  "date": "2026-10-23",
+  "items": [
+   {
+    "p": "P",
+    "title": "土地法・住宅法・不動産事業法の改正案、国会で審議",
+    "summary": "第16期国会第2会期は10月22日、土地法、住宅法、不動産事業法の3つの改正案について提案説明と審査報告を聞き、分科会で討議した。土地法改正案は、地方分権と行政手続きの簡素化を進め、2層制の地方行政に合った土地管理の仕組みを作ることを狙う。採決日は報道で示されていない。",
+    "impact": "土地使用権、住宅の取得・賃貸、不動産開発のルールが変わる可能性があり、工場用地やオフィス・住宅を探す日系企業は今後の条文案と施行時期を確認したい。",
+    "src": {
+     "t": "VietnamPlus「Law revisions expected to unlock land resources for socio-economic development」",
+     "url": "https://en.vietnamplus.vn/law-revisions-expected-to-unlock-land-resources-for-socio-economic-development-post354117.vnp",
+     "d": "2026-10-22"
+    }
+   },
+   {
+    "p": "E",
+    "title": "王子グループ、ドンナイに1.1億ドルの紙容器工場",
+    "summary": "王子グループ傘下のOji Liquid Pakが、ロンタイン・ハイテク工業団地（5.7万㎡）に飲料・液体食品向け無菌紙容器の工場を建設する。投資額は1億1,000万ドル、生産能力は年最大80億パック、新規雇用は200人超。稼働は2028年の予定。",
+    "impact": "日系大手による南部での製造投資の一例で、飲料・食品メーカーにとって包材の現地調達先が増える可能性がある。ロンタイン新空港周辺の工業団地への関心が高まる材料にもなる。",
+    "src": {
+     "t": "VIR「OJI Group invests in $110 million aseptic carton packaging plant in Vietnam」",
+     "url": "https://vir.com.vn/oji-group-invests-in-110-million-aseptic-carton-packaging-plant-in-vietnam-163400.html",
+     "d": "2026-10-22"
+    }
+   },
+   {
+    "p": "E",
+    "title": "エビ輸出、1〜9月は37億ドルで前年比11%増",
+    "summary": "水産物輸出加工協会（VASEP）によると、2026年1〜9月のエビ輸出額は37億ドルで前年同期比11%増と、上半期の14%増から伸びが鈍った。中国向けが37%増と好調な一方、米国向けは15%減、EU向けは4.9%減。日本向けは4億4,090万ドルで6.4%増だった。",
+    "impact": "米国の追加関税で対米輸出が落ちる中、日本を含むCPTPP市場への売り込みが強まる可能性がある。日本の水産・食品の輸入企業にとっては調達条件の交渉材料になる。",
+    "src": {
+     "t": "VietnamPlus「Vietnam's shrimp exports hit 3.7 billion USD in nine months」",
+     "url": "https://en.vietnamplus.vn/vietnams-shrimp-exports-hit-37-billion-usd-in-nine-months-post354130.vnp",
+     "d": "2026-10-22"
+    }
+   },
+   {
+    "p": "S",
+    "title": "ホーチミン市、1週間で髄膜炎菌感染5例・1人死亡",
+    "summary": "ホーチミン市疾病管理センター（HCDC）によると、10月14〜20日に市内で生徒の髄膜炎菌感染が5例確認され、うち1人が死亡した。南部8省・市すべてで増加しており、南部の侵襲性感染の約94%はB群とされる。濃厚接触者には予防的な抗菌薬が投与された。",
+    "impact": "子どもを帯同する駐在員家庭は、ワクチンの対象血清型（B群を含むか）を医療機関で確認するとよい。発熱と強い頭痛、首のこわばりなどがあればすぐ受診が必要。",
+    "src": {
+     "t": "Tuoi Tre News「Ho Chi Minh City reports 5th meningococcal case in a week as infections rise in southern Vietnam」",
+     "url": "https://news.tuoitre.vn/ho-chi-minh-city-reports-5th-meningococcal-case-in-a-week-as-infections-rise-in-southern-vietnam-10326102213331127.htm",
+     "d": "2026-10-22"
+    }
+   },
+   {
+    "p": "T",
+    "title": "電子ID「VNeID」、シンガポールのSingpassと接続試行へ",
+    "summary": "首相決定1830/QD-TTg（2026年9月22日付）に基づき、ベトナムの電子ID「VNeID」をシンガポールの「Singpass」、ラオスの「LAeID」と接続する準備が進む。試行接続は11月15日までの完了を目指す。本人確認の簡素化や行政・出入国手続きの効率化が目的。",
+    "impact": "本格運用されれば、国境をまたぐ口座開設や会社登記での本人確認が簡単になる可能性がある。日本との接続は対象外で、当面は試行段階である点に注意。",
+    "src": {
+     "t": "VietnamPlus「Vietnam–Singapore digital ID link: a test for ASEAN interoperability」",
+     "url": "https://en.vietnamplus.vn/vietnam-singapore-digital-id-link-a-test-for-asean-interoperability-post354097.vnp",
+     "d": "2026-10-22"
+    }
+   },
+   {
+    "p": "T",
+    "title": "2025年のサイバー攻撃約55万件、4割超が金融機関",
+    "summary": "ベトテル・テレコムの担当者が証券市場30年の記念セミナーで示した数字によると、2025年にベトナムで約55万2,000件のサイバー攻撃があり、41%超が銀行・証券・保険を狙った。流出したユーザーアカウントは約850万件。東南アジアで最多とされる。（要確認）",
+    "impact": "現地拠点の情報セキュリティ対策や、取引先・金融機関を装ったなりすまし詐欺への注意がいっそう必要になる。駐在員個人もネットバンキングの多要素認証を確認したい。",
+    "src": {
+     "t": "VnEconomy「Vietnam faces highest cyberattacks in SEA, with finance sector hit every 57 seconds」",
+     "url": "https://en.vneconomy.vn/vietnam-faces-highest-cyberattacks-in-sea-with-finance-sector-hit-every-57-seconds.htm",
+     "d": "2026-10-22"
+    }
+   }
+  ]
+ },
+ {
+  "id": "2026-10-22",
+  "date": "2026-10-22",
+  "items": [
+   {
+    "p": "P",
+    "title": "雇用法改正案、職業紹介事業を許可制から届出制へ",
+    "summary": "国会第2会期で10月21日、雇用法など労働関連法の改正案が審議された。職業紹介サービスは事業許可を不要とし、営業前に省級機関へ届け出る方式に改める案。同じ一括改正案には、11月24日を『ベトナム文化の日』として有給の祝日とする内容も含まれる。",
+    "impact": "成立すれば人材紹介業への参入手続きが簡素化される可能性がある。祝日が1日増えれば、日系企業は就業カレンダーや生産計画、休日手当の見直しが必要になる。",
+    "src": {
+     "t": "VietnamPlus「Lawmakers propose scrapping employment service licences, expanding compulsory social insurance coverage」",
+     "url": "https://en.vietnamplus.vn/lawmakers-propose-scrapping-employment-service-licences-expanding-compulsory-social-insurance-coverage-post354082.vnp",
+     "d": "2026-10-21"
+    }
+   },
+   {
+    "p": "E",
+    "title": "IMF、2026年のベトナム成長率を8.4%と推計",
+    "summary": "IMFが10月に公表した世界経済見通し（WEO）で、ベトナムの2026年GDP成長率は8.4%と推計され、世界で最も成長の速い経済の一つとされた。製造業、内需、輸出が成長を支えているとしている。（要確認）",
+    "impact": "高成長の見通しは投資判断の追い風だが、人件費や不動産賃料の上昇圧力が続く可能性がある。事業計画では成長率とコスト上昇の両面を見込みたい。",
+    "src": {
+     "t": "VnEconomy「Vietnam among world's fastest-growing economies in 2026, IMF says」",
+     "url": "https://en.vneconomy.vn/vietnam-among-worlds-fastest-growing-economies-in-2026-imf-says.htm",
+     "d": "2026-10-21"
+    }
+   },
+   {
+    "p": "E",
+    "title": "ハテコとAPMターミナルズ、鉄道貨物駅に約35億ドル投資を検討",
+    "summary": "不動産・インフラ大手ハテコと港湾運営のAPMターミナルズが10月20日、コペンハーゲンでの越・デンマーク企業フォーラムで覚書に署名した。ハイフォンに荷役センターと保管ヤードを備えた鉄道貨物駅を設け、北部でさらに3か所を検討する。総額は暫定で約35億ドル、現在は調査・投資提案の段階。",
+    "impact": "実現すれば、北部の工業団地から港への輸送で鉄道という選択肢が広がり、物流コストや納期の改善につながる可能性がある。",
+    "src": {
+     "t": "VnEconomy「Hateco and APM Terminals plan to invest $3.5 billion in railway cargo stations」",
+     "url": "https://en.vneconomy.vn/hateco-and-apm-terminals-plan-to-invest-35-billion-in-railway-cargo-stations.htm",
+     "d": "2026-10-21"
+    }
+   },
+   {
+    "p": "S",
+    "title": "医療関連6法の改正案、医薬品・医療機器の価格透明化へ",
+    "summary": "国会は10月21日、薬事法、診療法、医療保険法など6法を改正する案を討議した。首相は、不要な中間業者をなくし医薬品・医療機器の価格を適正に保つ方針を示した。よく使う品目の集中調達や、専門品目での病院と供給者の直接交渉などが検討されている。",
+    "impact": "公立病院向けに医薬品・医療機器を販売する日系企業は、入札・調達ルールの変更に備える必要がある。施行時期は未定。",
+    "src": {
+     "t": "VietnamPlus「Intermediaries need to be eliminated to ensure reasonable medicine, medical equipment prices: PM」",
+     "url": "https://en.vietnamplus.vn/intermediaries-need-to-be-eliminated-to-ensure-reasonable-medicine-medical-equipment-prices-pm-post354083.vnp",
+     "d": "2026-10-21"
+    }
+   },
+   {
+    "p": "S",
+    "title": "香港大学ビジネススクール、ハノイ校の設置を計画",
+    "summary": "副首相は10月20日、香港大学（HKU）ビジネススクールのハノイ校設置計画を歓迎した。まずベトナムの大学との共同プログラムや試験的な講座で需要を確かめ、その後に投資と認可を経て本格的なキャンパスへ進む段階的な方式を提案した。分野はAI、データサイエンス、半導体、グリーン金融などが挙がる。",
+    "impact": "ハノイで国際水準の経営教育を受けられる場が増えれば、現地幹部候補の育成や採用に役立つ可能性がある。開校時期は未定。",
+    "src": {
+     "t": "VnExpress International「Vietnam welcomes HKU Business School plan to establish Hanoi campus」",
+     "url": "https://e.vnexpress.net/news/news/education/vietnam-welcomes-hku-business-school-plan-to-establish-hanoi-campus-5134949.html",
+     "d": "2026-10-20"
+    }
+   },
+   {
+    "p": "T",
+    "title": "EU、ハノイ地下鉄3号線延伸の準備に1,000万ユーロ",
+    "summary": "EUは、ハノイ地下鉄3号線をハノイ駅からホアンマイまで約11km、全線地下で延ばす計画の準備費用として1,000万ユーロ（約1,122万ドル）を無償供与する。フランス開発庁（AFD）が管理し、実現可能性調査や公共交通指向型開発（TOD）の計画などに充てる。準備作業は2027年末までに終える予定で、既存区間のカウザイ〜ハノイ駅（地下）も2027年の開業を見込む。",
+    "impact": "市南部のホアンマイ方面の交通が将来改善すれば、駐在員の住まい選びやオフィス立地の選択肢が広がる可能性がある。ただし延伸区間の着工・開業時期はまだ決まっていない。",
+    "src": {
+     "t": "VnExpress International「EU provides $11.2M to extend Hanoi metro line」",
+     "url": "https://e.vnexpress.net/news/news/traffic/eu-provides-11-2m-to-extend-hanoi-metro-line-5134711.html",
+     "d": "2026-10-20"
+    }
+   }
+  ]
+ },
+ {
+  "id": "2026-10-21",
+  "date": "2026-10-21",
+  "items": [
+   {
+    "p": "P",
+    "title": "ベトナムとデンマーク、包括的戦略的パートナーシップに格上げ",
+    "summary": "国家主席のデンマーク国賓訪問（10月19〜21日）中の10月20日、両国首脳がコペンハーゲンで関係を「包括的戦略的パートナーシップ」に格上げすることで合意した。デンマークはこの枠組みを結ぶEU加盟国として2カ国目。優先分野は貿易・投資、グリーン転換、再生可能エネルギー（特に洋上風力）、戦略インフラ、科学技術で、省庁・企業間の協力文書も交換された。",
+    "impact": "洋上風力や港湾・物流などで欧州企業の案件が増える可能性があり、同じ分野の日本企業にとっては競合と協業の両面で動きを追う必要がある。EVFTAの活用強化も確認された。",
+    "src": {
+     "t": "Viet Nam News「Việt Nam, Denmark elevate ties to Comprehensive Strategic Partnership」",
+     "url": "https://vietnamnews.vn/politics-laws/1802483/viet-nam-denmark-elevate-ties-to-comprehensive-strategic-partnership.html",
+     "d": "2026-10-20"
+    }
+   },
+   {
+    "p": "E",
+    "title": "ホーチミン市への送金、第3四半期は約28億ドルで前期比39.5%増",
+    "summary": "国家銀行第2地域支店によると、第3四半期のホーチミン市への海外送金は約28.35億ドルで、前期比39.5%増、前年同期比3.6%増と、2四半期続いた前年割れから反転した。地域別ではアジアが59.1%を占める。1〜9月累計は約68.7億ドルで前年同期比13.8%減、2026年通年は95億〜98億ドルの見通し（2025年は103億ドル）（要確認）。",
+    "impact": "送金は不動産・消費の下支え要因で、年末にかけて回復すればホーチミン市の住宅需要や小売に追い風となる可能性がある。通年では前年を下回る見込みで、過度な楽観は禁物。",
+    "src": {
+     "t": "Viet Nam News「Remittances to HCM City rise nearly 40% in Q3」",
+     "url": "https://vietnamnews.vn/economy/1802438/remittances-to-hcm-city-rise-nearly-40-in-q3.html",
+     "d": "2026-10-20"
+    }
+   },
+   {
+    "p": "E",
+    "title": "シンガポールとの貿易、1〜9月は46.8%増の約428億Sドル",
+    "summary": "シンガポール側統計によると、1〜9月のベトナム・シンガポール間の貿易額は約428億Sドル（334億ドル）で前年同期比46.8%増。シンガポールのベトナムからの輸入は194億Sドルで123.2%増、うち電気機器（HS85）が95億Sドルと約半分を占めた（要確認）。ベトナムはシンガポールの第10位の貿易相手。",
+    "impact": "電子部品を中心にベトナムのASEAN域内向け輸出が急拡大しており、電子・部品系の日系製造業の生産増を反映している可能性がある。シンガポール経由の地域統括・物流の活用も検討材料になる。",
+    "src": {
+     "t": "VietnamPlus「Vietnam-Singapore trade surges 46.8% in first nine months」",
+     "url": "https://en.vietnamplus.vn/vietnam-singapore-trade-surges-468-in-first-nine-months-post353989.vnp",
+     "d": "2026-10-20"
+    }
+   },
+   {
+    "p": "S",
+    "title": "帰国した海外就労者の27%が再出国を希望、統計総局調査",
+    "summary": "統計総局が9月に公表した帰国労働者約3,600人の調査で、27%が再び海外で働きたいと回答した。帰国後は95%が単純労働や技能水準の低い職に就き、専門・技術職は5%にとどまる。一方、72%は海外で得た技能・経験が現在の仕事に役立っていると答えた（要確認）。",
+    "impact": "日本で技能実習・特定技能を経験した人材の多くが国内で経験を生かせる職に就けていない可能性があり、日系企業にとっては帰国人材を採用する余地がある。日本への再出国希望者が多いことは、送り出し市場の需給にも影響する。",
+    "src": {
+     "t": "VnExpress International「Failing to find work at home, Vietnamese guest workers choose to leave again」",
+     "url": "https://e.vnexpress.net/news/news/failing-to-find-work-at-home-vietnamese-guest-workers-choose-to-leave-again-5132661.html",
+     "d": "2026-10-19"
+    }
+   },
+   {
+    "p": "T",
+    "title": "FPTと仏クアンデラ、量子技術の共同研究で覚書",
+    "summary": "FPTとフランスの量子コンピューター企業Quandelaは10月19日夜、在ベトナム仏大使館で量子技術協力の覚書（期間2年、非商業）に署名した。量子コンピューティング、量子通信、情報セキュリティ、量子アルゴリズムの応用研究で協力し、QuandelaはFPTにクラウド型量子計算基盤を提供する。",
+    "impact": "ベトナムのIT大手が量子分野の研究体制を整え始めており、オフショア開発の委託先としての技術領域が広がる可能性がある。現時点では研究段階で、商用サービスにはまだ距離がある。",
+    "src": {
+     "t": "Viet Nam News「FPT, France's Quandela sign MoU to advance quantum technology cooperation」",
+     "url": "https://vietnamnews.vn/economy/1802425/fpt-france-s-quandela-sign-mou-to-advance-quantum-technology-cooperation.html",
+     "d": "2026-10-20"
+    }
+   }
+  ]
+ },
+ {
+  "id": "2026-10-20",
+  "date": "2026-10-20",
+  "items": [
+   {
+    "p": "P",
+    "title": "中小企業支援法の改正案、売上基準を4,000億ドンに引き上げ",
+    "summary": "財務相が政府を代表して国会に中小企業支援法（2017年法を置き換え）の案を示した。中小企業の基準を年間売上3,000億ドン→4,000億ドン、総資本1,000億ドン→1,500億ドン、平均従業員200人→300人に引き上げ、法人税の軽減税率と、初回の事業登録から3年間の免税を盛り込む。国会経済財政委員会は、基準を2〜3年の連続データで判定するよう提案した。",
+    "impact": "基準が上がれば、現地法人の一部が新たに中小企業として税優遇や支援策の対象になる可能性がある。条文と施行日が固まった段階で、自社が該当するかを確認したい。",
+    "src": {
+     "t": "Viet Nam News「SME revenue threshold proposed to be raised to $15.2 million」",
+     "url": "https://vietnamnews.vn/economy/1802302/sme-revenue-threshold-proposed-to-be-raised-to-15-2-million.html",
+     "d": "2026-10-19"
+    }
+   },
+   {
+    "p": "E",
+    "title": "国家銀行、貸出金利1.5〜2%の引き下げを銀行に要請",
+    "summary": "国家銀行は10月18日付の文書9608/NHNN-CSTTで、各銀行に6カ月以上の預金金利を少なくとも年0.5%引き下げ、生産・事業や優先分野向けの貸出金利を年1.5〜2%引き下げるよう求めた。従わない銀行には、2026年残りと2027年の与信枠の縮小などを科す可能性があるとしている。19日には総裁が商業銀行46行と会合を開いた。",
+    "impact": "ドン建て運転資金や設備資金の借入金利が下がる可能性がある。一方で預金金利も下がるため、現地法人の余剰資金の運用利回りは低下する見込み。",
+    "src": {
+     "t": "VietnamPlus「Ngân hàng Nhà nước yêu cầu giảm lãi suất, siết kiểm soát rủi ro tín dụng」",
+     "url": "https://www.vietnamplus.vn/ngan-hang-nha-nuoc-yeu-cau-giam-lai-suat-siet-kiem-soat-rui-ro-tin-dung-post1142717.vnp",
+     "d": "2026-10-18"
+    }
+   },
+   {
+    "p": "E",
+    "title": "商工省、ガソリン価格安定基金の2027年廃止を提案",
+    "summary": "商工省は石油取引に関する政令の第14次案で、ガソリン価格安定基金への積み立てと取り崩しを2027年1月1日から停止し、価格安定措置の一覧から外すことを提案した。今後も上限価格や価格帯の設定は期間を区切って可能とする。基金残高は2026年第2四半期末で約1,963億ドン（財務省統計）。",
+    "impact": "基金による価格の平準化がなくなれば、国内の燃料価格は国際価格の動きをより直接反映する可能性がある。物流費や社用車の燃料費の見通しに影響しうる。",
+    "src": {
+     "t": "Viet Nam News「Ministry proposes scrapping petrol price stabilisation fund」",
+     "url": "https://vietnamnews.vn/economy/business-beat/1802268/ministry-proposes-scrapping-petrol-price-stabilisation-fund.html",
+     "d": "2026-10-19"
+    }
+   },
+   {
+    "p": "S",
+    "title": "ハノイ市、社会住宅の新規案件の承認を一時停止",
+    "summary": "ハノイ市は住宅開発計画の見直しに合わせ、新たな社会住宅案件の投資方針の承認を一時停止した。計画の見直しは11月30日までに終え、インフラが整った用地を優先する。既に承認済みの案件は対象外。2026年7月時点で約116件・約10万1,300戸が承認・実施中。",
+    "impact": "社会住宅の供給計画が絞り込まれることで、郊外の新規開発や周辺の分譲・賃貸市場の動きに影響する可能性がある。工場従業員向け住宅を検討する企業は、改定後の案件リストを確認したい。",
+    "src": {
+     "t": "Viet Nam News「Hà Nội suspends approval of new social housing projects」",
+     "url": "https://vietnamnews.vn/economy/1802345/ha-noi-suspends-approval-of-new-social-housing-projects.html",
+     "d": "2026-10-19"
+    }
+   },
+   {
+    "p": "S",
+    "title": "ハノイ・トゥオンフック社で塩素ガス漏れ、約40人が中毒",
+    "summary": "ハノイ市警察の消防部門によると、10月19日午後、トゥオンフック社の金属スクラップ置き場から塩素ガスが漏れ、住民約40人が中毒となった。38人がトゥオンティン総合病院で検査を受け、2人がバックマイ病院で重い症状で治療中（要確認）。漏れた原因は報じられていない。",
+    "impact": "郊外の工業団地周辺では、スクラップ置き場など化学物質の管理が不十分な施設が住宅地に近い場合がある。工場周辺の危険物施設と緊急時の連絡体制を確認しておきたい。",
+    "src": {
+     "t": "Dân Việt「TIN NÓNG 24 GIỜ QUA: … rò khí Clo làm nhiều người nhiễm độc ở Hà Nội」",
+     "url": "https://danviet.vn/tin-nong-24-gio-qua-di-nguoc-chieu-gay-va-cham-con-danh-nguoi-nhap-vien-ro-khi-clo-lam-nhieu-nguoi-nhiem-doc-o-ha-noi-d1468467.html",
+     "d": "2026-10-20"
+    }
+   },
+   {
+    "p": "T",
+    "title": "国会、20日に電力法の改正案と商法など4法の改正案を審議",
+    "summary": "第16期国会第2回会期は10月20日午後、商工相が政府を代表して電力法の改正案と、商法・競争法・外国貿易管理法・消費者権利保護法をまとめて改正する案を説明し、各委員会の審査報告の後、分科会で審議する。改正の具体的な条文は報じられていない。",
+    "impact": "電力法の改正は、直接電力購入（DPPA）や屋上太陽光など、工場の電力調達に関わる制度に影響する可能性がある。条文が公表された段階で内容を確認したい。",
+    "src": {
+     "t": "VietnamPlus「Quốc hội làm việc, thảo luận về Luật điện lực, Luật báo chí và nhiều dự án luật khác」",
+     "url": "https://www.vietnamplus.vn/quoc-hoi-lam-viec-thao-luan-ve-luat-dien-luc-luat-bao-chi-va-nhieu-du-an-luat-khac-post1142973.vnp",
+     "d": "2026-10-20"
+    }
+   }
+  ]
+ },
+ {
+  "id": "2026-10-19",
+  "date": "2026-10-19",
+  "items": [
+   {
+    "p": "P",
+    "title": "国会、19日に弁護士法・財産競売法などの改正案を審議",
+    "summary": "第16期国会第2回会期は10月19日午前、財産競売法（改正）、弁護士法（改正）、養子縁組法（改正）の3法案について法務大臣が政府の提案説明を行い、分科会で審議する。午後は刑法（改正）と、その施行に関する国会決議案、刑事捜査機関組織法（改正）を審議する予定。",
+    "impact": "弁護士法や財産競売法の改正は、現地での法律サービスの利用や、担保資産・公有資産の競売手続きに関わる可能性がある。条文と施行日が固まってから実務対応を確認したい。",
+    "src": {
+     "t": "VietnamPlus「Quốc hội thảo luận nhiều dự án luật quan trọng ngày 19/10」",
+     "url": "https://www.vietnamplus.vn/quoc-hoi-lam-viec-ve-nhieu-du-an-luat-trong-do-co-luat-dau-gia-tai-san-post1142753.vnp",
+     "d": "2026-10-19"
+    }
+   },
+   {
+    "p": "E",
+    "title": "ベトナムとEFTA4カ国がFTAに署名、14年の交渉経て",
+    "summary": "ベトナムとEFTA加盟4カ国（アイスランド、リヒテンシュタイン、ノルウェー、スイス）は10月18日、ハノイで自由貿易協定に署名した。物品・サービス貿易、投資、知的財産、政府調達、競争、中小企業などを含む。商工省系紙によると、ベトナムはEFTA産の工業品・水産品の関税の大半を最長11年で撤廃し、EFTAはベトナム産の工業品・水産品を発効時から無税とする（要確認）。発効日は示されていない。",
+    "impact": "スイス・ノルウェー製の機械・医薬品・化学品の輸入関税が段階的に下がり、ベトナム拠点の調達コストが下がる可能性がある。欧州向け輸出では、EVFTA（EU）との原産地規則の違いを確認しておく必要がある。",
+    "src": {
+     "t": "VnEconomy「Free trade agreement between Vietnam and EFTA member countries signed」",
+     "url": "https://en.vneconomy.vn/free-trade-agreement-between-vietnam-and-efta-member-countries-signed.htm",
+     "d": "2026-10-18"
+    }
+   },
+   {
+    "p": "E",
+    "title": "2027年予算案、財政赤字はGDP比4.5%に拡大の見込み",
+    "summary": "財務相が政府を代表して国会に示した2027年の予算案は、歳入約3,330兆ドン、歳出約4,070兆ドン、財政赤字約740兆ドン（GDP比4.5%）。2026年の赤字はGDP比4.1%の見込みで、2027年末の公的債務はGDP比34〜35%を見込む。",
+    "impact": "歳出の約43%を開発投資に充てる計画で、インフラ案件の発注が増える可能性がある。一方、赤字の拡大は国債の発行増を通じて国内金利を押し上げる可能性があり、ドン建て借入の金利動向に注意したい。",
+    "src": {
+     "t": "Dân Việt「Vì sao dự toán bội chi ngân sách và tỷ lệ nợ công năm 2027 dự kiến tăng so với năm nay?」",
+     "url": "https://danviet.vn/vi-sao-du-toan-boi-chi-ngan-sach-va-ty-le-no-cong-nam-2027-du-kien-tang-so-voi-nam-nay-d1467946.html",
+     "d": "2026-10-17"
+    }
+   },
+   {
+    "p": "S",
+    "title": "ハノイのデング熱、1週間で509人　発生地30カ所が活動中",
+    "summary": "ハノイ市疾病管理センター（CDC）によると、10月9〜16日のデング熱患者は91の坊・社で509人、新たな集団発生地は17カ所で、30カ所が活動中。2026年の累計は4,860人で死者はなく、2021〜25年平均を3,876人下回る。同週の手足口病は230人だった。",
+    "impact": "9〜11月はデング熱の流行のピークとされる。駐在員家庭や事業所では、住居・職場周辺の水たまりの除去や防虫対策、発熱時の早めの受診を周知しておきたい。",
+    "src": {
+     "t": "VTV「Hà Nội còn 30 ổ dịch sốt xuất huyết đang hoạt động」",
+     "url": "https://vtv.vn/ha-noi-con-30-o-dich-sot-xuat-huyet-dang-hoat-dong-10026101817252143.htm",
+     "d": "2026-10-19"
+    }
+   },
+   {
+    "p": "T",
+    "title": "ホーチミン道路、全長2,744kmの90.6%が完成",
+    "summary": "10月18日の国会分科会での報告によると、ホーチミン道路（全長2,744km）は約2,488km（90.6%）が完成し、約168.5kmが施工中。軟弱地盤の2区間（52km）のうち約15kmは地盤処理の段階で、2027年第1四半期の開通を目指し、遅くとも2027年末までに精算を終える計画。",
+    "impact": "沿岸部の南北高速道路と並ぶ内陸の縦断ルートで、北部・中部の山間地域への物流ルートの選択肢が増える。残る区間の開通時期は工事の進み具合で変わる可能性がある。",
+    "src": {
+     "t": "Thể thao & Văn hóa（TTXVN）「Kỳ họp thứ 2, Quốc hội khóa XVI: Đẩy mạnh phân cấp triệt để và khơi thông nguồn lực phát triển kinh tế - xã hội」",
+     "url": "https://thethaovanhoa.vn/ky-hop-thu-2-quoc-hoi-khoa-xvi-day-manh-phan-cap-triet-de-va-khoi-thong-nguon-luc-phat-trien-kinh-te-xa-hoi-20261018191851654.htm",
+     "d": "2026-10-18"
+    }
+   }
+  ]
+ },
+ {
+  "id": "2026-10-18",
+  "date": "2026-10-18",
+  "items": [
+   {
+    "p": "P",
+    "title": "スイス大統領が公式訪問、労働・科学技術など協力文書を交換",
+    "summary": "スイス大統領が10月17〜18日の日程でベトナムを公式訪問し、17日にハノイで首脳会談を行った。両首脳立ち会いのもと、労働、科学技術、貿易、都市開発分野の協力文書が両国の省庁・機関間で交換された。会談では港湾投資、デジタル金融・フィンテック、科学技術・イノベーションでの協力拡大が話し合われ、ベトナムで活動するスイス企業は100社を超えるとされる。",
+    "impact": "ベトナム・EFTA自由貿易協定が実施段階に入るなか、欧州企業による港湾・金融・イノベーション分野の投資が増える可能性があり、日系企業にとっては同分野での提携先・競合の両面で動向を見ておく必要がある。",
+    "src": {
+     "t": "VietnamPlus「Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Thụy Sĩ Guy Parmelin」",
+     "url": "https://www.vietnamplus.vn/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-thuy-si-guy-parmelin-post1142608.vnp",
+     "d": "2026-10-17"
+    }
+   },
+   {
+    "p": "E",
+    "title": "政府報告、1〜9月GDP成長率9.01%　27年目標は10%以上",
+    "summary": "国会開幕日の政府報告で、2026年1〜9月のGDP成長率は9.01%（第3四半期は9.95%）、2026年の貿易総額は前年比30.4%増の1兆1,100億ドルと初めて1兆ドルを超える見込みと示された。15の主要目標のうち14の達成・超過を見込む一方、2027年はGDP成長率10%以上、1人当たりGDP6,100ドル、CPI上昇率4.5%程度を目標に掲げた。1〜9月のFDI登録額は前年同期比76.4%増の503億6,000万ドル（要確認）。",
+    "impact": "高成長目標の維持で、工業団地・物流・建設需要の拡大が続く可能性がある。一方、CPI目標4.5%程度は物価上昇が続く前提であり、駐在員の生活費や現地スタッフの昇給率の見直しに影響する。",
+    "src": {
+     "t": "VnExpress「Chính phủ trình mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên」",
+     "url": "https://vnexpress.net/chinh-phu-trinh-muc-tieu-tang-truong-kinh-te-2027-tu-10-tro-len-5133468.html",
+     "d": "2026-10-17"
+    }
+   },
+   {
+    "p": "S",
+    "title": "ハノイ市、大気汚染を5〜7日前に予警報する計画",
+    "summary": "ハノイ市人民委員会は大気汚染対策強化計画を出し、汚染リスクの兆しがあれば5〜7日前に初期評価を出し、48〜72時間前、24時間前と段階的に警報を更新する仕組みを定めた。10月〜3月の高リスク期には建設現場（1ha超）の粉じん対策や主要道路の1日2回以上の清掃を求め、AQIが301以上になれば学校は児童・生徒の保護策を急ぎ検討する。2025年のPM2.5年平均は48.5μg/m³だった。",
+    "impact": "乾季に入り、日本人学校や現地校に通う子どもの屋外活動の縮小・延期が増える可能性がある。駐在員家庭や事業所は、市の予警報を見ながら空気清浄機やマスクの準備、外出計画の調整をしておくとよい。",
+    "src": {
+     "t": "VnExpress「Hà Nội sẽ kích hoạt cảnh báo ô nhiễm không khí trước 5-7 ngày」",
+     "url": "https://vnexpress.net/ha-noi-se-kich-hoat-canh-bao-o-nhiem-khong-khi-truoc-5-7-ngay-5133420.html",
+     "d": "2026-10-17"
+    }
+   },
+   {
+    "p": "S",
+    "title": "社会保険・失業給付、2027年からVNeIDの口座で支払い",
+    "summary": "ベトナム社会保険（BHXH）は、2027年から社会保険と失業保険の給付をVNeID上の「社会保障受給口座」で支払う計画を出した。口座は銀行口座、電子ウォレット、モバイルマネーのいずれかに紐づけ、2026年11〜12月にVNeIDとのシステム連携を終える予定。準備ができていない人には別の方法で支払い、受給権は失われないとしている。",
+    "impact": "現地スタッフの出産・疾病給付や退職後の失業給付の受け取り方が変わるため、人事・総務部門は従業員へのVNeID登録の案内が必要になる可能性がある。外国人への適用は記事では示されておらず、今後の案内を確認したい。",
+    "src": {
+     "t": "VnExpress「Năm 2027 chi trả BHXH, trợ cấp thất nghiệp qua tài khoản an sinh trên VNeID」",
+     "url": "https://vnexpress.net/nam-2027-chi-tra-bhxh-tro-cap-that-nghiep-qua-tai-khoan-an-sinh-tren-vneid-5133271.html",
+     "d": "2026-10-17"
+    }
+   },
+   {
+    "p": "T",
+    "title": "高速道路、1〜9月に395km開通　累計3,345kmに",
+    "summary": "建設省によると、2026年1〜9月に高速道路395kmが開通し、開通済み・技術的に完成した主要高速道路は累計3,345kmとなった。ハノイ首都圏の環状5号線の投資案を国会に提出したほか、ラオカイ〜ハノイ〜ハイフォン鉄道など国際鉄道の用地確保も地方と調整している。",
+    "impact": "北部の高速道路網と環状道路の整備が進めば、ハノイ周辺の工業団地から港湾・中国国境までの輸送時間が短くなり、物流拠点や工場立地の選択肢が広がる可能性がある。",
+    "src": {
+     "t": "VnEconomy「Vietnam opens 395km of expressways in first nine months of 2026」",
+     "url": "https://en.vneconomy.vn/vietnam-opens-395km-of-expressways-in-first-nine-months-of-2026.htm",
+     "d": "2026-10-17"
+    }
+   }
+  ]
+ },
+ {
+  "id": "2026-10-17",
+  "date": "2026-10-17",
+  "items": [
+   {
+    "p": "P",
+    "title": "第16期国会第2回会期が10月17日開幕、土地法改正など審議",
+    "summary": "第16期国会の第2回会期（年末会期）が10月17日に開幕し、11月21日に閉幕する予定です（実働28日）。法案・決議案47件を扱い、うち43件を可決、4件は意見聴取のみの予定です。土地法・住宅法・不動産事業法の改正は11月21日午前に一括で採決される予定で、社会保険法、中小企業発展法、証券法、会計・独立監査法の改正も審議されます。",
+    "impact": "土地・住宅・不動産の3法改正は、工場用地やオフィス、駐在員住宅の取得・賃貸の手続きに影響する可能性があります。社会保険法の改正は従業員の保険料負担に関わる可能性があり、可決内容と施行日の確認が必要です。",
+    "src": {
+     "t": "VnExpress「Hôm nay khai mạc kỳ họp Quốc hội cuối năm」",
+     "url": "https://vnexpress.net/hom-nay-khai-mac-ky-hop-quoc-hoi-cuoi-nam-5133395.html",
+     "d": "2026-10-17"
+    }
+   },
+   {
+    "p": "E",
+    "title": "中心レート1ドル＝25,642ドンで横ばい",
+    "summary": "ベトナム国家銀行（SBV）は10月16日の中心レートを1ドル＝25,642ドンとし、前日から据え置きました。変動幅±5%で上限は26,924ドン、下限は24,360ドンです。ベトコムバンクの午前9時時点のレートは買い25,670ドン、売り26,060ドンで、いずれも前日同時刻から20ドン下がりました。",
+    "impact": "ドンの対ドル相場は落ち着いており、ドル建てで給与や家賃を設定している企業・駐在員にとって、ドン建て支出の換算額は当面大きく動きにくい状況です。",
+    "src": {
+     "t": "Thị trường Tài chính Tiền tệ「Ngày 16/10: Tỷ giá trung tâm đi ngang」",
+     "url": "https://thitruongtaichinhtiente.vn/ngay-16-10-ty-gia-trung-tam-di-ngang-86326.html",
+     "d": "2026-10-16"
+    }
+   },
+   {
+    "p": "E",
+    "title": "フンイエン省で216haの工業団地「Green One」が着工",
+    "summary": "Viglacera傘下のViglacera Hung Yenは10月16日、フンイエン省北部（イエンミー、スアンチュック）で第1工業団地（商業名Green One）第1期216.17haの着工式を行いました。第1期の投資額は約2兆3,300億ドン（9,000万ドル超）です。ハノイ－ハイフォン高速道路のイエンミーICに隣接し、半導体、電子、精密機械、産業用自動化機器などの誘致を目指します。",
+    "impact": "ハノイ近郊で電子・精密機械向けの工業用地が新たに出てきます。北部で工場の新設・移転を検討する日本企業にとって候補地が増えるため、区画の引き渡し時期と賃料条件を確認する価値があります。",
+    "src": {
+     "t": "VnEconomy「Hung Yen launches 216-hectare green-smart industrial park」",
+     "url": "https://en.vneconomy.vn/hung-yen-launches-216-hectare-green-smart-industrial-park.htm",
+     "d": "2026-10-16"
+    }
+   },
+   {
+    "p": "S",
+    "title": "社会住宅・賃貸住宅、1〜9月に4万6,497戸が完成",
+    "summary": "建設省は10月15日の第3四半期記者会見で、1〜9月に社会住宅・賃貸住宅170件、計46,497戸が完成し、年間目標の48%に達したと発表しました。内訳は分譲・賃貸後分譲が38,183戸、賃貸が8,314戸です。同期間の着工は128件・183,293戸で、年末までに87,601戸の完成を見込んでいます。",
+    "impact": "工業団地周辺で労働者向けの賃貸住宅が増えれば、工場の採用や従業員の定着を後押しする可能性があります。建設省は工業団地の近くなどで賃貸住宅用の土地確保を求める制度を検討しており、今後の動きが注目されます。",
+    "src": {
+     "t": "VietnamPlus（VNA）「Vietnam completes nearly 46,500 social, rental homes in 9 months」",
+     "url": "https://en.vietnamplus.vn/vietnam-completes-nearly-46500-social-rental-homes-in-9-months-post353765.vnp",
+     "d": "2026-10-16"
+    }
+   },
+   {
+    "p": "S",
+    "title": "タンロン橋北側で交通規制、11月10日まで",
+    "summary": "ハノイ市建設局は10月15日付の通知1530/TB-SXDで、10月16日から11月10日まで、タンロン工業団地B門手前の北側側道からタンロン橋への乗用車の右折を毎日5時〜22時に禁止しました（要確認）。バスはラッシュ時のみ規制されます。橋北側の軸重計測所（第2期）の建設に伴う措置です。",
+    "impact": "タンロン工業団地への通勤・物流や、ノイバイ空港方面との往来で渋滞や迂回が生じる可能性があります。送迎車や配送の経路と出発時間を見直しておくとよいでしょう。",
+    "src": {
+     "t": "Luật sư Việt Nam「Hà Nội tiếp tục điều chỉnh giao thông cầu Thăng Long từ ngày 16/10」",
+     "url": "https://lsvn.vn/ha-noi-tiep-tuc-dieu-chinh-giao-thong-cau-thang-long-tu-ngay-16-10-a180988.html",
+     "d": "2026-10-16"
+    }
+   },
+   {
+    "p": "T",
+    "title": "南北高速の6車線化、総額68億ドルの計画を建設省が提出",
+    "summary": "建設省は、ハノイ－ホーチミン市間の南北高速道路18区間・約1,144kmを4車線から6車線に広げる計画を政府に提出しました。概算総額は178兆3,600億ドン（約68億ドル）です。15区間は国家予算に頼らない2件の官民連携（PPP）事業にまとめ、3区間（約178km）は個別事業とします。今後、事業化調査報告の承認と投資家の選定に進みます。",
+    "impact": "実現すれば北部と中・南部を結ぶ陸上輸送の能力が上がり、物流の時間と費用が下がる可能性があります。PPP方式のため、日本の建設・インフラ企業が投資家選定に参加する機会が生まれる可能性もあります。",
+    "src": {
+     "t": "VnEconomy「$6.8 billion proposed for expansion of North-South Expressway」",
+     "url": "https://en.vneconomy.vn/68-billion-proposed-for-expansion-of-north-south-expressway.htm",
+     "d": "2026-10-16"
+    }
+   }
+  ]
+ },
+ {
+  "id": "2026-10-16",
+  "date": "2026-10-16",
+  "items": [
+   {
+    "p": "P",
+    "title": "物価管理の首相公電70号、2026年の平均CPI約4.5%を目標",
+    "summary": "政府は10月15日、年末の物価管理に関する公電70/CĐ-TTgを出し、2026年の平均消費者物価（CPI）上昇率を約4.5%に抑えるよう各省庁・地方に指示しました。1〜9月のCPIは前年比4.52%上昇で、ハノイ、ホーチミン、ダナンなど14省・市が全国平均を上回りました。国家銀行には柔軟な金融政策と為替の注視、各省庁には電力・燃料・医薬品などの供給確保を求め、行政価格の改定は年末に集中させないよう指示しています。",
+    "impact": "物価抑制が優先されるため、電気料金や医療サービス価格など行政価格の年末改定が先送りされる可能性があります。一方で金融政策は引き締め寄りになりやすく、ドン建て借入の金利や、2027年テト前の運送・宿泊料金の動きに注意が必要です。",
+    "src": {
+     "t": "政府電子新聞「Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 15/10/2026」",
+     "url": "https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-15-10-2026-102261015180303991.htm",
+     "d": "2026-10-15"
+    }
+   },
+   {
+    "p": "E",
+    "title": "欧州企業の景況感指数、第3四半期は78.3で高水準を維持",
+    "summary": "在ベトナム欧州商工会議所（EuroCham）は10月15日、2026年第3四半期の景況感指数（BCI）を78.3と発表しました。第2四半期の79.7から1.4ポイント低下したものの高い水準です。64%が現在の事業環境を「良い・とても良い」と答えた一方、障害として行政手続き（60%）、規制の不明確さ・運用のばらつき（53%）、税務手続き（52%）、人材不足（49%）が挙がりました。",
+    "impact": "欧州企業が挙げる課題は、日系企業が抱える行政手続きや採用難の課題と重なります。進出や事業拡大の計画では、許認可・税務手続きの期間と人材確保に余裕を持たせる必要があります。",
+    "src": {
+     "t": "EuroCham「EuroCham Business Confidence Index Q3 2026: Translating Economic Gains Into Business Opportunities」",
+     "url": "https://eurochamvn.org/eurocham-business-confidence-index-q3-2026-translating-economic-gains-into-business-opportunities/",
+     "d": "2026-10-15"
+    }
+   },
+   {
+    "p": "E",
+    "title": "公的債務戦略を改定、2026〜30年は公的債務をGDP比60%以内に",
+    "summary": "政府は10月15日付の決定1989/QĐ-TTgで、2030年までの公的債務戦略（決定460号）を改定しました。2026〜2030年は毎年、公的債務をGDP比60%以内、政府債務を50%以内、対外債務を50%以内、政府の直接債務の元利払いを国家予算歳入の25%以内に抑えます。投資は国家目標プログラムや重点事業、官民連携（PPP）に集中させ、投資適格の国債格付け取得を目指すとしています。",
+    "impact": "上限の範囲で大型インフラ投資を進める方針で、PPP案件への日本企業の参加機会につながる可能性があります。投資適格の格付けを取得できれば、ベトナムでの資金調達コストが下がる可能性があります。",
+    "src": {
+     "t": "政府電子新聞「Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ ngày 15/10/2026」",
+     "url": "https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-15-10-2026-102261015180303991.htm",
+     "d": "2026-10-15"
+    }
+   },
+   {
+    "p": "S",
+    "title": "フーコックの高級ホテルを装う予約詐欺を摘発",
+    "summary": "アンザン省警察は、フーコック特別区の5つ星ホテル・リゾートを装った偽のSNSページやウェブサイトで、宿泊予約の前払い金をだまし取ったとされるグループを摘発しました。関連する229の銀行口座の取引額は6兆ドン（約2.31億ドル）超ですが、これは取引総額で被害額ではありません（要確認）。被害者は60人が特定され、10月13日時点で10人が起訴・勾留されています。",
+    "impact": "年末年始の旅行シーズンを前に、駐在員や出張者がSNS広告経由でホテルを予約する際は注意が必要です。ホテルの公式サイトや大手予約サイトを使い、見知らぬ法人・個人口座への前払い送金は避けるとよいでしょう。",
+    "src": {
+     "t": "Viet Nam News「Police bust Phú Quốc hotel booking scam with over $231m in transactions」",
+     "url": "https://vietnamnews.vn/society/1802030/police-bust-phu-quoc-hotel-booking-scam-with-over-231m-in-transactions.html",
+     "d": "2026-10-14"
+    }
+   },
+   {
+    "p": "T",
+    "title": "ハノイ、都市鉄道5路線の一括請負契約に調印　計約253km",
+    "summary": "ハノイ市人民委員会は10月15日、都市鉄道1・2・8・10・14号線（計約253km）について、設計から試運転・引き渡しまでを一括で請け負うターンキー（EPC）契約の調印式を開きました。発注者はハノイ都市鉄道管理委員会、受注者はビンホームズとSGCの共同企業体です。必要資金は約1,000兆ドンで、2030年の完成を目指します。1号線と2号線はノイバイ空港に接続します。",
+    "impact": "2030年に向けて空港アクセスや市内移動の選択肢が広がる一方、今後数年は沿線で工事による渋滞が増える可能性があります。日系の建設・車両・信号関連企業には、資機材供給や協力の機会が生まれる可能性があります。",
+    "src": {
+     "t": "VnExpress「Hà Nội ký hợp đồng chìa khóa trao tay 5 tuyến metro khoảng một triệu tỷ đồng」",
+     "url": "https://vnexpress.net/ha-noi-ky-hop-dong-chia-khoa-trao-tay-5-tuyen-metro-khoang-mot-trieu-ty-dong-5132852.html",
+     "d": "2026-10-15"
+    }
+   }
+  ]
+ },
+ {
+  "id": "2026-10-15",
+  "date": "2026-10-15",
+  "items": [
+   {
+    "p": "P",
+    "title": "ハノイ税務局、2026年非農業土地使用税の納期を11月2日と通知",
+    "summary": "ハノイ市税務局は10月13日付の公開書簡で、2026年分の非農業土地使用税の納付期限を案内しました。通常の期限は10月31日ですが、土曜日に当たるため11月2日（月）となります。マンション区分所有者も専有部分に割り当てられた土地面積分が課税対象で、年税額5万ドン以下は申請なしで免除されます。",
+    "impact": "ハノイでマンションや土地を保有する日本人・日系企業も対象になり得ます。eTax Mobileで納税額の確認と支払いができるため、管理会社任せにせず期限前に確認するとよいでしょう。",
+    "src": {
+     "t": "CafeF「Thuế TP Hà Nội phát thông báo quan trọng đến người dân sở hữu đất đai, nhà ở」",
+     "url": "https://cafef.vn/thue-tp-ha-noi-phat-thong-bao-quan-trong-den-nguoi-dan-so-huu-dat-dai-nha-o-188261015110654992.chn",
+     "d": "2026-10-15"
+    }
+   },
+   {
+    "p": "E",
+    "title": "中心レート1ドル＝25,642ドン、前日比4ドン低下",
+    "summary": "ベトナム国家銀行（SBV）は10月15日のドル・ドン中心レートを25,642ドンとし、前日から4ドン引き下げました（ドン高方向）。参照売買レンジは24,410〜26,874ドン。ベトコムバンクの売値は26,080ドンで前日比10ドン低下しました。",
+    "impact": "9月末（25,630ドン）からほぼ横ばいで、ドン建て家賃・給与のドル換算コストは安定しています。ただ米国の利上げ局面が続くため、ドル建て予算の企業は為替の振れに引き続き注意が必要です。",
+    "src": {
+     "t": "Thị trường Tài chính Tiền tệ「Ngày 15/10: Tỷ giá trung tâm giảm 4 đồng」",
+     "url": "https://thitruongtaichinhtiente.vn/ngay-15-10-ty-gia-trung-tam-giam-4-dong-86306.html",
+     "d": "2026-10-15"
+    }
+   },
+   {
+    "p": "E",
+    "title": "第9回ベトナム・米国ビジネスサミット、相互貿易協定の早期妥結を要請",
+    "summary": "10月14日、ハノイでAmChamとVCCIの共催による第9回ベトナム・米国ビジネスサミットが開かれ、常任副首相が米国に相互貿易協定交渉の早期妥結と、貿易調査での客観的な評価を求めました。協定は交渉中で、まだ締結されていません。1–9月の貿易総額は8,880億ドルと紹介されました（要確認）。",
+    "impact": "米国向け輸出拠点としてベトナムを使う日系企業にとって、協定の妥結時期と追加関税の扱いは原価計算に直結します。サプライチェーンの透明性（原産地・品質管理）への要求が強まる可能性があります。",
+    "src": {
+     "t": "VietnamPlus（VNA）「Vietnam, US seek to deepen economic ties, promote high-tech investment」",
+     "url": "https://en.vietnamplus.vn/vietnam-us-seek-to-deepen-economic-ties-promote-high-tech-investment-post353665.vnp",
+     "d": "2026-10-14"
+    }
+   },
+   {
+    "p": "S",
+    "title": "ハノイの大気汚染、AQI175で世界3位の汚染都市に",
+    "summary": "IQAirの集計で、ハノイは10月15日午前9時にAQI175となり、世界の主要都市で3番目に汚染が深刻でした（11時40分にはAQI134・14位）。市農業環境局は126の街区・社に道路清掃と散水の強化、建設現場の防じん、野焼きの取り締まりを指示しました。",
+    "impact": "冬の汚染シーズンに入り、駐在員家庭では子どもの屋外活動や通勤時のマスク、室内の空気清浄機の準備が必要になります。学校は大気の状態に応じて屋外活動を見直す可能性があります。",
+    "src": {
+     "t": "Dân trí「Hà Nội lại lọt nhóm thành phố ô nhiễm không khí nhất thế giới」",
+     "url": "https://dantri.com.vn/thoi-su/ha-noi-lai-lot-nhom-thanh-pho-o-nhiem-khong-khi-nhat-the-gioi-20261015115323706.htm",
+     "d": "2026-10-15"
+    }
+   },
+   {
+    "p": "T",
+    "title": "データ分野の専門家誘致へ政令386号、12月1日施行",
+    "summary": "政府は10月12日付で政令386/2026/NĐ-CP（5章54条）を公布しました。国家データセンター傘下のデータ・イノベーション開発センターでの活動を対象に、専門家・若手人材の採用・報酬の特別合意、個人所得税の優遇、ベンチャー資金やデータ経済の仕組みを定めています。施行は12月1日です。",
+    "impact": "外国の組織・個人も対象に含まれるため、データ・AI分野の日本企業や専門人材がベトナムの公的データ事業に参加する機会が広がる可能性があります。一方、IT人材の獲得競争が強まり、人件費が上がる可能性もあります。",
+    "src": {
+     "t": "VietnamPlus（VNA）「Government issues mechanisms to attract experts, young talent to data innovation, exploitation」",
+     "url": "https://en.vietnamplus.vn/government-issues-mechanisms-to-attract-experts-young-talent-to-data-innovation-exploitation-post353612.vnp",
+     "d": "2026-10-14"
+    }
+   }
+  ]
+ }
+]
