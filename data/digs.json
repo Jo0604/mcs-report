@@ -1,5 +1,94 @@
 [
  {
+  "id": "2026-11-03",
+  "date": "2026-11-03",
+  "tag": "金融（銀行・与信）",
+  "title": "「与信GDP比145%」は危ないのか：銀行頼みは日本以上、焦点は資本市場",
+  "hook": {
+   "value": "145%",
+   "label": "与信残高のGDP比（2025年末）／Fitch・SBV"
+  },
+  "summary": "ベトナムの銀行与信は2026年9月末に約20.75京ドンとなり、年初比11.59%、前年同期比16.69%伸びた。与信残高はGDPの約145%（2025年末）で、格付けが同じ「BB」の国の中央値（52%）の約3倍。世界銀行の共通の物差しでも、銀行による民間向け融資のGDP比は125.0%（2022年）と日本（116.5%）を上回る。ただし「借りすぎ＝すぐ危ない」ではなく、本当の特徴は資金の流れが銀行にほぼ一本化していることにある。",
+  "facts": [
+   "2026年9月30日時点の与信残高は約20.75京ドン（約7,860億ドル）で、2025年末比11.59%増、前年同期比16.69%増（ベトナム国家銀行の記者会見・2026年10月7日、Vietnam News／ベトナム銀行協会）",
+   "同時点の新規預金の平均金利は年6.38%で、2025年末より1.15ポイント高い。与信の配分（2026年8月末）は商業・サービス70.11%、工業・建設23.1%、農林水産6.08%（ベトナム国家銀行・2026年10月、ベトナム銀行協会）",
+   "2025年の与信伸び率は19.1%（2024年は15.1%）で、与信残高のGDP比は2025年末に約145%。同じ「BB」格付けの国の中央値は52%（Fitch Ratings・2026年1月、ベトナム国家銀行も約145%と説明・2026年7月）",
+   "2026年の与信伸び率の目標は15%（ベトナム国家銀行・2026年1月）",
+   "銀行による民間向け融資のGDP比（2022年）は、ベトナム125.0%、日本116.5%、タイ121.0%、マレーシア113.0%、フィリピン48.9%、インドネシア30.6%、世界91.9%（世界銀行 FD.AST.PRVT.GD.ZS）",
+   "民間向け与信の総額（銀行以外も含む）のGDP比は、日本186.5%で銀行分（116.5%）より70ポイント大きい。ベトナムは125.0%で銀行分と同じ（世界銀行 FS.AST.PRVT.GD.ZS・2022年）"
+  ],
+  "compare": {
+   "title": "銀行による民間向け融資の残高（GDP比、2022年）",
+   "unit": "％（GDP比）",
+   "labels": [
+    "ベトナム",
+    "日本",
+    "タイ",
+    "マレーシア",
+    "フィリピン",
+    "インドネシア",
+    "韓国",
+    "世界"
+   ],
+   "values": [
+    125.0,
+    116.5,
+    121.0,
+    113.0,
+    48.9,
+    30.6,
+    162.8,
+    91.9
+   ],
+   "note": "2022年（ベトナムの世界銀行データは2022年が最新のため年をそろえた）。銀行などの預金取扱機関から民間（企業・家計）への貸出等の残高。社債・ノンバンク・政府向けは含まない。ベトナム政府・Fitchの「与信GDP比145%」（2025年末）は定義と年が異なる。",
+   "src": "世界銀行 World Development Indicators（FD.AST.PRVT.GD.ZS、IMF国際金融統計ベース、2026年10月8日更新）"
+  },
+  "view": [
+   "「GDP比145%」は国際的に見て確かに高い。同じ格付けの国の約3倍で、世界銀行の物差しでも、銀行の民間向け融資はGDPの125%と、日本やタイ、マレーシアより大きい。1人あたりGDPが日本の7分の1ほどの国で、銀行融資の厚みだけは先進国並みということになる。しかも2025年は19.1%、2026年も年初からの9か月で11.59%と、名目GDPを上回る速さで伸びており、比率はさらに上がる方向にある。",
+   "一方で、この数字が意味しないこともある。第一に「経済全体が借金漬け」とは言えない。日本は民間向け与信の総額がGDPの186.5%とベトナムより大きく、そのうち70ポイントは社債やノンバンクなど銀行以外の経路だ。ベトナムは総額と銀行分が同じで、企業の資金調達がほぼ銀行だけに集まっている。問題は量よりも「通り道が1本しかない」ことで、銀行が慎重になれば、企業の資金繰りが一斉に細る構造になっている。第二に、政府債務はGDP比3割程度と低く、債務の中心は民間にある。",
+   "今後の焦点は2つある。1つは預金の集まり方で、新規預金金利が年初より1.15ポイント上がったのは、貸出の伸びに預金が追いつきにくくなっているサインと読める。もう1つは資本市場で、株式や社債で長期資金を調達できる企業が増えれば、銀行への集中はやわらぐ。インフラや大型投資の資金を誰が、どの経路で出すかが、成長の持続性を左右する。"
+  ],
+  "counter": "成長期の国では、銀行が企業を育てる「銀行中心型」の金融は珍しくなく、日本や韓国も高度成長期に同じ道をたどった。与信の多くは生産・事業向けで、消費者ローン主導の過熱とは性質が違うという見方もできる。一方で、伸び率の目標を掲げて融資を増やす運営は、審査の甘い貸出や不動産への資金集中を生みやすいという指摘もある。",
+  "impact": "ベトナムで事業をする日本企業にとっては、現地の銀行融資は使いやすい反面、金利は預金金利の上昇とともに上がりやすく、引き締めがあると借入枠が急に細る可能性がある。日系の本社・地場銀行・社債などの調達先を分けておくことが重要。投資家にとっては、銀行株の成長性と同時に、預金の伸び・不良債権・資本の厚みを確認したい。資本市場の育成が進めば、証券・資産運用・社債の引受けなどに日本の金融機関の出番が増える。",
+  "sources": [
+   {
+    "t": "Vietnam News：Bank credit surge supports high GDP growth target: SBV",
+    "url": "https://vietnamnews.vn/economy/1801436/bank-credit-surge-supports-high-gdp-growth-target-sbv.html",
+    "d": "2026-10-07"
+   },
+   {
+    "t": "ベトナム銀行協会（VNBA）：Vietnam's banking sector in the first nine months of 2026",
+    "url": "https://vnba.org.vn/en/vietnam-s-banking-sector-in-the-first-nine-months-of-2026--credit-growth--digital-transformation-and-support-for-economic-growth-drivers-23852.htm",
+    "d": "2026-10-15"
+   },
+   {
+    "t": "The Investor：Vietnam's credit-to-GDP ratio at 145%, tripling 'BB' peers' median of 52%（Fitch）",
+    "url": "https://theinvestor.vn/vietnams-credit-to-gdp-ratio-at-145-tripling-bb-peers-median-of-52-d18258.html",
+    "d": "2026-01-29"
+   },
+   {
+    "t": "Vietnam News：Capital market must develop to share funding supply with banking system",
+    "url": "https://vietnamnews.vn/economy/1796040/capital-market-must-develop-to-share-funding-supply-with-banking-system.html",
+    "d": "2026-07-24"
+   },
+   {
+    "t": "Vietnam News：Credit growth plans at 15% in 2026",
+    "url": "https://vietnamnews.vn/economy/1763602/credit-growth-plans-at-15-in-2026-focusing-on-macroeconomic-stability.html",
+    "d": "2026-01"
+   },
+   {
+    "t": "世界銀行 API：Domestic credit to private sector by banks（FD.AST.PRVT.GD.ZS）",
+    "url": "https://api.worldbank.org/v2/country/VNM;JPN;THA;IDN;PHL;MYS;KOR;CHN;WLD/indicator/FD.AST.PRVT.GD.ZS?format=json&date=2021:2024",
+    "d": "2026-11-03取得"
+   },
+   {
+    "t": "世界銀行 API：Domestic credit to private sector（FS.AST.PRVT.GD.ZS）",
+    "url": "https://api.worldbank.org/v2/country/VNM;JPN;THA;IDN;PHL;MYS;KOR;CHN;WLD/indicator/FS.AST.PRVT.GD.ZS?format=json&date=2021:2024",
+    "d": "2026-11-03取得"
+   }
+  ]
+ },
+ {
   "id": "2026-11-02",
   "date": "2026-11-02",
   "tag": "人口・少子高齢化",
