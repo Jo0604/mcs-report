@@ -1,5 +1,102 @@
 [
  {
+  "id": "2026-11-06",
+  "date": "2026-11-06",
+  "tag": "農業（農林水産）",
+  "title": "農林水産の輸出は好調、でも働く4人に1人が生むのはGDPの1割強",
+  "hook": {
+   "value": "4人に1人",
+   "label": "農林水産業で働く人の割合（2025年）／統計局"
+  },
+  "summary": "ベトナムの農林水産物輸出は2026年1〜9月に563億ドル（7.8%増）と伸び、年740億ドルの目標に近づいている。一方で農林水産業はGDPの11.64%にとどまり、働く人の約4人に1人がそこに集まる。輸出額の大きさは「農業の強さ」を示すが、「農業で働く人の豊かさ」はまだ示さない。",
+  "facts": [
+   "2026年1〜9月の農林水産物輸出は約563億ドル（前年同期比7.8%増）、輸入は約394億ドル（8%増）、貿易黒字は169億ドル（7.4%増）。年間の輸出目標は740億ドル（農業環境省、Viet Nam News・2026年10月2日）",
+   "2026年1〜10月の輸出は約630.2億ドル（8%増）。うち農産物326.5億ドル（3.9%増）、林産物161.3億ドル（7.3%増）、水産物104.4億ドル（11.7%増）。市場別では中国25.1%、米国19.9%、日本7.3%（要確認）（農業環境省、VnEconomy・2026年11月5日）",
+   "1〜9月の品目別では、果物・野菜が約20%増の73.5億ドル（うち中国向け約63%）。コーヒーは数量が15.4%増の140万トンでも金額は7.3%減の65.4億ドル、コメは数量6.1%減・金額10.9%減の31.1億ドルで、価格下落が金額を押し下げた（農業環境省、Viet Nam News・2026年10月2日）",
+   "2025年のGDP構成は、サービス42.75%、工業・建設37.65%、農林水産業11.64%、税・補助金7.96%。農林水産業は3.78%成長し、経済成長全体への寄与は5.3%（統計局、Vietnam Law Magazine・VietNamNet・2026年1月6日）",
+   "2025年7〜9月の就業者5,230万人のうち、農林水産業は1,340万人で約25.6%（統計局、VietnamPlus・2025年10月8日をもとに編集部計算）",
+   "農林水産業のGDP比（11.64%）を就業者比（約25.6%）で割ると約0.45となり、農林水産業の1人あたり付加価値は経済全体の平均の半分以下にとどまる（統計局データをもとに編集部計算・2025年）"
+  ],
+  "compare": {
+   "title": "就業者に占める農林水産業の割合（2025年）",
+   "unit": "％",
+   "labels": [
+    "ベトナム",
+    "日本",
+    "タイ",
+    "インドネシア",
+    "フィリピン",
+    "マレーシア",
+    "中国"
+   ],
+   "values": [
+    25.04,
+    2.81,
+    28.56,
+    27.3,
+    20.49,
+    9.18,
+    21.68
+   ],
+   "note": "2025年。ILOのモデル推計（世界銀行 SL.AGR.EMPL.ZS）。世界銀行APIに直接接続できなかったため、同データを転載する二次サイト2件（theglobaleconomy.com、countriesby.org）で値が一致することを確認して使用した。ILO推計は毎年改定され、過去版では大きく異なる値が出ている場合がある。ベトナム統計局の調査（2025年7〜9月）では約25.6%。",
+   "src": "世界銀行 World Development Indicators（ILOモデル推計）をtheglobaleconomy.com・countriesby.org経由で取得"
+  },
+  "view": [
+   "「農林水産物の輸出、過去最高ペース」という見出しは、ベトナムを農業大国と印象づける。実際、1〜9月だけで563億ドルを稼ぎ、169億ドルの黒字を出す農林水産業は、外貨を稼ぐ柱の一つだ。ただし1〜10月の輸出全体（約4,992億ドル、統計局）と比べると、同期間の農林水産物（約630億ドル、要確認）は1割強にとどまる。輸出の主役はすでに電子機器などの工業品である。",
+   "より大事なのは「人」との比較だ。農林水産業はGDPの11.64%しか生まないのに、働く人の約4人に1人（25%前後）がそこにいる。単純に割ると、農林水産業の1人あたり付加価値は経済全体の平均の半分以下になる。就業者に占める農業の割合は、日本（2.81%）の約9倍、マレーシア（9.18%）の約2.7倍で、タイ（28.56%）やインドネシア（27.3%）と同じグループにいる。",
+   "もう一つの注意点は、輸出額が「量」より「価格」で動くことだ。今年のコーヒーは量が15%増えたのに金額は7%減り、コメも価格下落で金額が1割減った。伸びているのは果物・野菜と水産物で、果物・野菜は中国向けが6割を超える。輸出額の伸びは、農家の所得が同じだけ伸びたことを意味しない。これからの焦点は、加工や品質で付加価値を上げ、農業から製造業・サービスへの人の移動がどの速さで進むかだ。"
+  ],
+  "counter": "就業者の4人に1人が農業にいることは、むしろ「伸びしろ」だという見方もある。日本や韓国も、農村から都市の工場・サービスへ人が移る過程で高成長を続けた。ベトナムの農業就業者は前年比で減り続けており（2025年1〜3月は前年同期比30.5万人減）、移動はすでに進んでいる。また統計上の就業者には、兼業や季節的に農作業をする人も含まれるため、実際の生産性の差は数字ほど大きくないという指摘もある。",
+  "impact": "日本企業にとっては、輸出額より「付加価値の低さ」に機会がある。冷蔵・冷凍物流、選果・包装、食品加工、品質認証、農業機械など、同じ収穫物の価値を上げる分野は需要が大きい。日本は農林水産物の輸出先として7%前後を占め、水産物では約14%と存在感がある。一方で、コーヒーやコメのように価格で金額が大きく振れる品目は、輸出額の伸びだけで現地の購買力を見積もらないこと。また農業就業者が工業・サービスへ移るにつれ、工場の採用環境や人件費も変わるため、労務計画では地方の人の動きも見ておきたい。",
+  "sources": [
+   {
+    "t": "Viet Nam News：Agro-forestry-fishery exports poised to reach 2026 target（農業環境省発表）",
+    "url": "https://vietnamnews.vn/economy/1801096/agro-forestry-fishery-exports-poised-to-reach-2026-target.html",
+    "d": "2026-10-02"
+   },
+   {
+    "t": "VnEconomy：Agro-forestry-fishery exports exceed $63b in 10M（農業環境省報告）",
+    "url": "https://en.vneconomy.vn/agro-forestry-fishery-exports-exceed-63b-in-10m.htm",
+    "d": "2026-11-05"
+   },
+   {
+    "t": "Vietnam Law Magazine：Vietnam posts 8.02 percent GDP growth in 2025 amid challenges（統計局発表）",
+    "url": "https://vietnamlawmagazine.vn/vietnam-posts-802-percent-gdp-growth-in-2025-amid-challenges-76338.html",
+    "d": "2026-01-06"
+   },
+   {
+    "t": "VietNamNet：Vietnam posts 8.02% GDP growth in 2025 amid challenges",
+    "url": "https://vietnamnet.vn/en/vietnam-posts-8-02-gdp-growth-in-2025-amid-challenges-2479289.html",
+    "d": "2026-01-06"
+   },
+   {
+    "t": "VietnamPlus：Labour market improves in Q3, but challenges persist（統計局発表）",
+    "url": "https://en.vietnamplus.vn/labour-market-improves-in-q3-but-challenges-persist-post330036.vnp",
+    "d": "2025-10-08"
+   },
+   {
+    "t": "Viet Nam News：Viet Nam's labour force grows by half a million annually: report",
+    "url": "https://vietnamnews.vn/society/1695679/viet-nam-s-labour-force-grows-by-half-a-million-annually-report.html",
+    "d": "2025-04-11"
+   },
+   {
+    "t": "TheGlobalEconomy.com：Employment in agriculture in Asia（世界銀行データ）",
+    "url": "https://www.theglobaleconomy.com/rankings/employment_in_agriculture/Asia/",
+    "d": "2026-11-06取得"
+   },
+   {
+    "t": "Countriesby：Employment in agriculture (% of total employment) (modeled ILO estimate)",
+    "url": "https://countriesby.org/lists/countries-by-employment-in-agriculture-of-total-employment-modeled-ilo-estimate/",
+    "d": "2026-11-06取得"
+   },
+   {
+    "t": "ベトナム統計局：2026年10月・10か月の社会経済状況報告（輸出全体）",
+    "url": "https://www.nso.gov.vn/bai-top/2026/11/bao-cao-tinh-hinh-kinh-te-xa-hoi-thang-muoi-va-10-thang-nam-2026/",
+    "d": "2026-11-03"
+   }
+  ]
+ },
+ {
   "id": "2026-11-05",
   "date": "2026-11-05",
   "tag": "製造業（工業生産）",
