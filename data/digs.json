@@ -1,5 +1,98 @@
 [
  {
+  "id": "2026-11-10",
+  "date": "2026-11-10",
+  "tag": "金融（海外送金）",
+  "title": "「海外送金160億ドル」は頼りすぎか：GDP比3%台、フィリピンの半分以下",
+  "hook": {
+   "value": "約160億ドル",
+   "label": "2024年の海外からの送金（越政府推計）"
+  },
+  "summary": "海外在住のベトナム人などからの送金（キウ・ホイ）は2024年に約160億ドルと、過去最高だった2023年並みの水準を保った。GDP比では3%台で、日本（0.1%）よりはるかに大きいが、送金が経済の柱になっているフィリピン（8.7%）の半分以下にとどまる。2026年は受け取りの約6割を占めるホーチミン市で9か月13.8%減と落ち込み、7〜9月期に持ち直しが始まった段階だ。",
+  "facts": [
+   "2024年の海外からの送金は約160億ドルと推計され、過去最高だった2023年並み（ブイ・タイン・ソン副首相兼外相の発言、Viet Nam News・2025年1月16日／VNA・2026年2月23日）",
+   "2025年の全国の送金も約160億ドルと推計されている（VNA・2026年2月23日）（要確認）",
+   "ホーチミン市の2025年の受取額は103.4億ドル超で前年比8.3%増。同市は全国の約6割を受け取る最大の受け皿（国家銀行第2地域支店、VnEconomy・2026年1月3日／1月22日）",
+   "ホーチミン市の2026年1〜9月の受取額は約68.7億ドルで前年同期比13.8%減。7〜9月期は28.35億ドルで前期比39.5%増、前年同期比3.6%増と、今年初めて前年を上回った（国家銀行第2地域支店、SGGP・2026年10月19日／Diễn đàn Doanh nghiệp・2026年10月20日）",
+   "1〜9月の送金元はアジアが52.3%、米州が30.9%。経路は送金会社など経済組織経由が71.6%、銀行など金融機関経由が28.4%（国家銀行第2地域支店、Diễn đàn Doanh nghiệp・2026年10月20日）（要確認）",
+   "同支店はホーチミン市の2026年通年を95億〜98億ドルと予測し、2025年比5.1〜8.0%減を見込む（SGGP・2026年10月19日／Diễn đàn Doanh nghiệp・2026年10月20日）"
+  ],
+  "compare": {
+   "title": "海外からの個人送金の受取額（GDP比・2024年）",
+   "unit": "％",
+   "labels": [
+    "フィリピン",
+    "ベトナム",
+    "タイ",
+    "インドネシア",
+    "日本"
+   ],
+   "values": [
+    8.7,
+    3.4,
+    1.8,
+    1.1,
+    0.1
+   ],
+   "note": "ベトナム以外は世界銀行WDIの「個人送金受取額（GDP比）」2024年値（Statistics of the World掲載値。フィリピン・タイ・日本はWikipedia掲載の世界銀行値とも一致）。世界銀行APIには接続できなかった。ベトナムは政府推計の送金約160億ドルを2024年名目GDP（約4,763億ドル）で割った編集部試算（要確認）で、VNA報道は「GDPの4%近く」としている。定義・推計方法の違いで数字は変わる。マレーシアは情報源により値が大きく異なったため除いた。",
+   "src": "世界銀行 World Development Indicators（BX.TRF.PWKR.DT.GD.ZS、Statistics of the World経由）、ベトナム政府推計をもとに編集部試算（ベトナム分は要確認）"
+  },
+  "view": [
+   "「年160億ドル」と聞くと、ベトナム経済が海外からの仕送りに大きく頼っているように見える。だがGDP比で並べると、ベトナムの3%台は、送金が国の稼ぎ頭の一つになっているフィリピン（8.7%）の半分以下だ。一方でタイ（1.8%）やインドネシア（1.1%）よりは高く、日本（0.1%）とは桁が違う。「依存」というより、「輸出とFDIに次ぐ、外貨の安定した補助エンジン」というのが実像に近い。",
+   "注目すべきは、規模よりも振れ方だ。全国の約6割を受け取るホーチミン市では、2026年1〜6月に2割超減り、7〜9月に前期比約4割増と大きく戻した。送金はアジア（韓国・日本・台湾など）と米州からが大半で、送り出し国の景気、為替、移民政策の変化がそのまま額に表れる。国内の景気とは別の要因で動く外貨であり、四半期ごとの数字だけで流れを判断すると読み違えやすい。",
+   "また、送金は消費だけでなく、不動産や事業資金、教育費にも回るとされる。テト（旧正月）前の10〜12月に増える季節性もあるため、年末の数字は通年の傾向と分けて見る必要がある。"
+  ],
+  "counter": "公式統計に表れるのは銀行や送金会社を通った分だけで、非公式な経路を含めれば実際の送金はもっと大きく、経済への影響はGDP比の数字以上だという見方がある。逆に、ホーチミン市の数字は全国の約6割を占めるとはいえ一地域の値で、全国の動きとずれる可能性もある。7〜9月の回復も、為替の動きやずれ込んでいた送金の再開による一時的なものかもしれない。",
+  "impact": "日本企業にとっては、日本で働くベトナム人の送金が為替（円安）の影響を直接受けることを意味する。円安が続けば手取りの価値が目減りし、日本で働く魅力や人材確保に響く可能性がある。現地で消費・不動産関連の事業を手がける企業は、テト前の送金増と年末需要の重なりを前提に計画したい。投資家は、ホーチミン市の四半期データを全国の送金動向の先行指標として使えるが、為替と送り出し国の景気をあわせて確認する必要がある。",
+  "sources": [
+   {
+    "t": "Viet Nam News「Remittances reach about $16 billion in 2024」",
+    "url": "https://vietnamnews.vn/economy/1690717/remittances-reach-about-16-billion-in-2024.html",
+    "d": "2025-01-16"
+   },
+   {
+    "t": "VietnamPlus（VNA）「Remittances - Key resource supporting macroeconomic stability, long-term growth」",
+    "url": "https://en.vietnamplus.vn/remittances-key-resource-supporting-macroeconomic-stability-long-term-growth-post339986.vnp",
+    "d": "2026-02-23"
+   },
+   {
+    "t": "VnEconomy「Kiều hối về TP. Hồ Chí Minh năm 2025 ước đạt 10,5 tỷ USD」",
+    "url": "https://vneconomy.vn/kieu-hoi-ve-tp-ho-chi-minh-nam-2025-uoc-dat-105-ty-usd.htm",
+    "d": "2026-01-03"
+   },
+   {
+    "t": "VnEconomy「Hơn 10,34 tỷ USD kiều hối chuyển về TP. Hồ Chí Minh trong năm 2025」",
+    "url": "https://vneconomy.vn/hon-1034-ty-usd-kieu-hoi-chuyen-ve-tp-ho-chi-minh-trong-nam-2025.htm",
+    "d": "2026-01-22"
+   },
+   {
+    "t": "SGGP「Kiều hối chuyển về TPHCM quý 3-2026 tăng gần 40%」",
+    "url": "https://www.sggp.org.vn/kieu-hoi-chuyen-ve-tphcm-quy-3-2026-tang-gan-40-post877339.html",
+    "d": "2026-10-19"
+   },
+   {
+    "t": "Diễn đàn Doanh nghiệp「Kiều hối về TP HCM tăng mạnh trong quý III/2026, dự báo cả năm đạt 9,5 - 9,8 tỷ USD」",
+    "url": "https://diendandoanhnghiep.vn/kieu-hoi-ve-tp-hcm-tang-manh-trong-quy-iii-2026-du-bao-ca-nam-dat-9-5-9-8-ty-usd-10186232.html",
+    "d": "2026-10-20"
+   },
+   {
+    "t": "Vietstock「Kiều hối về TPHCM 9 tháng đầu năm 2026 đạt 6.87 tỷ USD」",
+    "url": "https://vietstock.vn/2026/10/kieu-hoi-ve-tphcm-9-thang-dau-nam-2026-dat-687-ty-usd-757-1504066.htm",
+    "d": "2026-10-19"
+   },
+   {
+    "t": "Statistics of the World「Remittances received（World Bank WDI）」",
+    "url": "https://statisticsoftheworld.com/country/philippines/remittances-received",
+    "d": "2026"
+   },
+   {
+    "t": "Wikipedia「List of countries by remittances received」（World Bank Open Data）",
+    "url": "https://en.wikipedia.org/wiki/List_of_countries_by_remittances_received",
+    "d": "2024"
+   }
+  ]
+ },
+ {
   "id": "2026-11-09",
   "date": "2026-11-09",
   "tag": "金融（株式市場）",
