@@ -1,5 +1,104 @@
 [
  {
+  "id": "2026-11-12",
+  "date": "2026-11-12",
+  "tag": "科学技術・研究開発",
+  "title": "「研究開発費GDP比0.4%」は低すぎか：日本の約8分の1、でも革新指数は43位",
+  "hook": {
+   "value": "0.41%",
+   "label": "研究開発費のGDP比／世界銀行（2023年）"
+  },
+  "summary": "ベトナムの研究開発費はGDPの約0.4%で、日本（3.44%）の約8分の1、タイやマレーシアの半分以下にとどまる。一方で世界知的所有権機関（WIPO）のグローバル・イノベーション指数2026では139か国中43位と順位を上げている。「研究にお金をかけない国＝技術が育たない国」と読むのも、「順位が上がった＝研究大国に近づいた」と読むのも早く、2030年に2%という目標の重さは「誰がお金を出すか」で決まる。",
+  "facts": [
+   "ベトナムの研究開発費は現在GDPの約0.4%で、政治局決議57-NQ/TWはこれを2030年までに2%へ引き上げる目標を掲げる（VietnamPlus／ベトナム通信・2026年11月11日、VietNamNet・2026年10月23日）",
+   "世界銀行の統計で、研究開発費のGDP比は2013年の0.30%から2021年に0.43%へ上がり、最新の2023年は0.41%（VietNamNet・2025年7月28日、世界銀行WDI）",
+   "2023年に企業が研究開発に使った額は約33.3兆ドン（約13億ドル）で、他の部門より大きい（VietnamPlus／ベトナム通信・2026年11月11日）",
+   "WIPOのグローバル・イノベーション指数2026でベトナムは139か国中43位（前年から1つ上昇）。ハイテク製品・創造的製品の輸出比率は世界1位の一方、高度技能の雇用（就業者の約11%）は100位、知的財産の使用料収入は110位（VietnamPlus・VOV・ベトナムニュース、2026年10〜11月）",
+   "政令320/2025/ND-CPで、企業は所得の最大20%を科学技術発展基金に積み立て、研究開発費の最大200%を法人税で損金算入できる。ただしホーチミン市の企業が積み立てた8.92兆ドンのうち、使われたのは約33.8%（VietNamNet・2026年10月23日）",
+   "大手IT企業の研究開発費は売上高比でViettel・FPT・VNPTが約1%、CMCが約2%。デジタル技術企業の基準案は売上高の3%以上（ベトナムニュース報道、要確認）"
+  ],
+  "compare": {
+   "title": "研究開発費のGDP比（各国の最新年、2020〜2023年）",
+   "unit": "％（GDP比）",
+   "labels": [
+    "ベトナム",
+    "日本",
+    "韓国",
+    "中国",
+    "マレーシア",
+    "タイ",
+    "インドネシア",
+    "フィリピン"
+   ],
+   "values": [
+    0.41,
+    3.44,
+    4.94,
+    2.58,
+    1.01,
+    0.94,
+    0.28,
+    0.28
+   ],
+   "note": "ベトナム・日本・韓国・中国・タイは2023年、マレーシアは2022年、インドネシア・フィリピンは2020年。各国で最新年が異なる。OECD統計では日本3.62%・韓国5.13%（2024年）など値がやや異なる。",
+   "src": "世界銀行 World Development Indicators（GB.XPD.RSDV.GD.ZS、元データはUNESCO統計研究所）をStatistics of the World・Wikipedia経由で取得（2つの転載で数値一致）"
+  },
+  "view": [
+   "0.41%という数字が示すのは、研究に回るお金の「規模」がまだ小さいということだ。日本の約8分の1、韓国の約12分の1で、所得水準が近いタイ（0.94%）やマレーシア（1.01%）と比べても半分以下にとどまる。ただし、インドネシアやフィリピン（いずれも0.28%）よりは高く、ASEANの中で最下位というわけではない。2013年の0.30%から10年でじわじわ上がってきたが、2030年に2%という目標は、今の約5倍の比率を数年で実現するという意味になる。",
+   "一方で、0.41%は「技術が育たない国」を意味しない。イノベーション指数43位という順位は、研究への投入より、ハイテク製品の輸出のような「成果」側の指標に押し上げられている。ただ、ハイテク輸出の多くは外資の工場が担っており、高度技能の雇用（100位）や知的財産の使用料収入（110位）の順位を見ると、技術を生み出して稼ぐ力はこれからの段階だ。順位の上昇を「研究大国に近づいた」と読むのは早い。",
+   "焦点は「誰がお金を出すか」だ。2023年の企業の研究開発費は約13億ドルと、すでに国内で最大の出し手になっている。政令320で積み立てや税控除の仕組みは整ったが、ホーチミン市の例では積み立てた基金の3分の1しか使われていない。制度があることと、企業が実際に研究に使うことの間にはまだ距離がある。2%への道は、国の予算の上積みよりも、企業が研究開発に踏み出すかどうか次第になる。"
+  ],
+  "counter": "研究開発費の統計は、外資系企業が本国で行う研究や、企業の現場での改良・技術導入を十分にとらえていない可能性がある。また、追い上げ段階の経済は、自ら発明するより海外の技術を取り入れて生産性を上げるほうが効率的だという考え方もあり、比率の低さがそのまま成長の制約になるとは限らない。2%という目標の達成度より、導入した技術を国内企業がどこまで使いこなせるかを見るべきだ、という見方も成り立つ。",
+  "impact": "日本企業にとっては、研究開発拠点や共同研究の誘致に向けた優遇（最大200%の損金算入、科学技術発展基金）が整いつつあり、現地での開発・設計機能を持つ選択肢が広がっている。一方で高度技能人材の層はまだ薄く、研究開発要員の確保と育成には時間と費用を見込む必要がある。国内大手IT企業に売上高比の研究開発費基準が導入されれば、提携先・発注先としての技術水準が上がる可能性もある。投資家は、目標の数字そのものより、企業の研究開発費や基金の実際の使用額の推移を確認したい。",
+  "sources": [
+   {
+    "t": "VietnamPlus「Strategic technologies key to improving Vietnam's Global Innovation Index」",
+    "url": "https://en.vietnamplus.vn/strategic-technologies-key-to-improving-vietnams-global-innovation-index-post355185.vnp",
+    "d": "2026-11-11"
+   },
+   {
+    "t": "VietNamNet「More measures needed to boost private investment in R&D」",
+    "url": "https://vietnamnet.vn/en/more-measures-needed-to-boost-private-investment-in-r-d-2567606.html",
+    "d": "2026-10-23"
+   },
+   {
+    "t": "VietNamNet「Vietnam's spending on research and development lags behind developed countries」",
+    "url": "https://vietnamnet.vn/en/vietnam-s-spending-on-research-and-development-lags-behind-developed-countries-2425494.html",
+    "d": "2025-07-28"
+   },
+   {
+    "t": "ベトナムニュース「Việt Nam ranks 43rd in Global Innovation Index 2026」",
+    "url": "https://vietnamnews.vn/society/1800875/viet-nam-ranks-43rd-in-global-innovation-index-2026.html",
+    "d": "2026-10"
+   },
+   {
+    "t": "VOV「Vietnam climbs to 43rd in Global Innovation Index 2026」",
+    "url": "https://english.vov.vn/en/society/vietnam-climbs-to-43rd-in-global-innovation-index-2026-post1337220.vov",
+    "d": "2026-10"
+   },
+   {
+    "t": "ベトナムニュース「New R&D rule could spur millions of dollars in additional tech investment」",
+    "url": "https://vietnamnews.vn/economy/1798673/new-r-d-rule-could-spur-millions-of-dollars-in-additional-tech-investment.html",
+    "d": "不明"
+   },
+   {
+    "t": "WIPO Global Innovation Index 2026 ベトナム経済圏プロファイル",
+    "url": "https://www.wipo.int/edocs/gii-ranking/2026/vn.pdf",
+    "d": "2026"
+   },
+   {
+    "t": "Statistics of the World「R&D Spending (% of GDP) by Country」（世界銀行WDI転載）",
+    "url": "https://statisticsoftheworld.com/ranking/rd-spending",
+    "d": "2026-09-07取得"
+   },
+   {
+    "t": "Wikipedia「List of sovereign states by research and development spending」（世界銀行・OECD転載）",
+    "url": "https://en.wikipedia.org/wiki/List_of_sovereign_states_by_research_and_development_spending",
+    "d": "2026-08-25参照"
+   }
+  ]
+ },
+ {
   "id": "2026-11-11",
   "date": "2026-11-11",
   "tag": "都市化・不動産",
