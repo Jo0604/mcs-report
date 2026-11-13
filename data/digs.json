@@ -1,5 +1,109 @@
 [
  {
+  "id": "2026-11-13",
+  "date": "2026-11-13",
+  "tag": "金融（外貨準備・為替）",
+  "title": "「外貨準備は輸入2か月分」は危ないのか：日本は約18か月、タイは7か月",
+  "hook": {
+   "value": "約2か月",
+   "label": "外貨準備の輸入カバー月数／世界銀行（2025年）"
+  },
+  "summary": "ベトナムの外貨準備は約876億ドル（2026年6月）で、輸入の約2か月分にとどまる。日本（約18か月）やタイ・フィリピン（7〜8か月）と比べると際立って薄く、目安とされる「3か月」も下回る。ただし、これは輸入がGDPに匹敵するほど大きい「加工貿易の国」という分母の事情も大きく、すぐに危機を意味する数字ではない。焦点は、中銀が11月に始めたドル買いでどこまで厚みを戻せるかだ。",
+  "facts": [
+   "ベトナム国家銀行（中銀）の外貨準備は2026年6月18日時点で約876億ドル。2022年1月の過去最高（1,118億ドル超）から2022年末に867億ドルへ減り、その後はほぼ横ばい（VietNamNet・The Investor・ベトナムニュース、2026年6月）",
+   "世界銀行は、ベトナムの外貨準備を2025年時点で輸入の約2か月分と推計している（世界銀行 Viet Nam Economic Update・2026年5月）。国内の専門家も2026年上半期後で1.9〜2か月分とし、一般的な目安の3か月を下回ると指摘（The Investor・2026年8月4日）",
+   "2026年1〜5月の貿易収支は138億ドルの赤字で、10年ぶりの赤字となった。1〜10月の累計赤字は約127億ドルに縮小し、10月単月は68億ドルの黒字（VietNamNet・2026年6月4日、商工省・2026年10月29日）",
+   "輸入の94%超は部品・原材料など生産のための輸入で、外資企業部門は輸出の8割超を担う（The Investor・2026年8月4日）",
+   "中銀は2026年11月11日から、毎週月・水曜に銀行から1ドル＝25,500ドンで米ドルを直物で買い入れ始めた。10億ドル買うごとに約25.5兆ドンの資金が市中に供給される（SGGP・2026年11月11日、ベトナムニュース・2026年11月）",
+   "同日の中心レートは1ドル＝25,611ドン、変動幅は上下5%（SGGP・2026年11月11日、要確認）"
+  ],
+  "compare": {
+   "title": "外貨準備の輸入カバー月数（2025年10〜12月時点）",
+   "unit": "か月（輸入の何か月分か）",
+   "labels": [
+    "ベトナム",
+    "日本",
+    "中国",
+    "韓国",
+    "フィリピン",
+    "タイ",
+    "インドネシア",
+    "マレーシア"
+   ],
+   "values": [
+    1.9,
+    17.7,
+    15.5,
+    7.9,
+    7.9,
+    7.3,
+    6.0,
+    5.8
+   ],
+   "note": "各国中央銀行などの月次外貨準備を月次の財輸入額で割った値。ベトナムは2025年12月、韓国は2025年11月、その他は2025年10月。世界銀行の年次推計（ベトナム約2か月、2025年）とほぼ一致。サービス輸入を含めるなど定義が違うと値は変わる。",
+   "src": "CEIC「Foreign Exchange Reserves: Months of Import」（各国中銀・統計当局データからCEIC算出）、世界銀行 Viet Nam Economic Update（2026年5月）"
+  },
+  "view": [
+   "「輸入の約2か月分」という数字が示すのは、急に外貨が出ていく局面で使える「クッション」が薄いということだ。日本の約18か月、中国の約15か月は別格としても、タイ・フィリピン・韓国の7〜8か月、インドネシア・マレーシアの約6か月と比べても3分の1前後にとどまる。2022年に1,100億ドルを超えていた外貨準備は、その後、米国の利上げや地政学的な緊張などを背景に減り（中銀の説明）、2026年6月でも876億ドルと回復していない。",
+   "一方で、この数字は「今すぐ外貨が足りなくなる」ことを意味しない。月数は「外貨準備÷輸入」で、ベトナムは分母の輸入が非常に大きい。輸出はGDPの9割を超える規模で、輸入の94%超は部品・原材料、輸出の8割超は外資企業が担う。つまり輸入の多くは、輸出で外貨を稼ぐための「仕入れ」で、輸入が増えるときは輸出も伸びやすい。月数の小ささには、外貨準備の少なさだけでなく、分母である輸入の大きさも効いている。",
+   "焦点は、この薄さが「次のショック」の時に効いてくる点だ。2026年は中東情勢によるエネルギー高や電子部品の在庫積み増しで輸入が急増し、10年ぶりの貿易赤字となった。10月には黒字に戻ったが、ドン安圧力が強まった時に中銀が使える余力は大きくない。11月に始まった定期的なドル買いは、銀行への資金供給と同時に外貨準備を積み直す動きとも読める。年末から来年にかけて、外貨準備がどこまで増えるかが、為替の安定度を測る目安になる。"
+  ],
+  "counter": "「輸入3か月分」は、資本移動が小さかった時代の目安で、今は短期対外債務やマネーの量なども合わせて見るべきだという考え方がある（IMFも複数の指標を組み合わせた基準を使う）。ベトナムは外貨の流入源として、外資の直接投資、海外送金、観光収入を持ち、貿易赤字も10月には黒字に戻った。月数だけで脆さを判断するのは一面的で、むしろ輸入の急増は生産拡大の裏返しだという見方も成り立つ。",
+  "impact": "日本企業にとっては、ドン相場の振れが大きくなりやすい環境が続くことを前提に、ドル建ての部材輸入やドン建て売上の為替リスクを管理する必要がある。中銀のドル買いは銀行の資金繰りを支え、貸出金利の上昇を抑える効果も期待される。配当送金や設備輸入の時期を考える際は、外貨準備の公表値と中心レートの動きを毎月確認したい。投資家は、外貨準備の積み増しペースと貿易収支の黒字定着が、ドン安圧力の目安になる。",
+  "sources": [
+   {
+    "t": "SGGP「SBV begins spot dollar purchases to inject dong liquidity into banking system」",
+    "url": "https://en.sggp.org.vn/sbv-begins-spot-dollar-purchases-to-inject-dong-liquidity-into-banking-system-post130920.html",
+    "d": "2026-11-11"
+   },
+   {
+    "t": "ベトナムニュース「Central bank plans regular spot foreign currency purchases to enhance liquidity support」",
+    "url": "https://vietnamnews.vn/economy/1804088/central-bank-plans-regular-spot-foreign-currency-purchases-to-enhance-liquidity-support.html",
+    "d": "2026-11"
+   },
+   {
+    "t": "VietNamNet「Vietnam's forex reserves stand at nearly USD87.6 billion」",
+    "url": "https://vietnamnet.vn/en/vietnam-s-forex-reserves-stand-at-nearly-usd87-6-billion-2529794.html",
+    "d": "2026-06-26"
+   },
+   {
+    "t": "The Investor「Vietnam's foreign exchange reserves near $87.6 bln, central bank proposes reforms」",
+    "url": "https://theinvestor.vn/vietnams-foreign-exchange-reserves-near-876-bln-central-bank-proposes-reforms-d19400.html",
+    "d": "2026-06-25"
+   },
+   {
+    "t": "The Investor「Vietnam's $20.5 bln trade deficit not yet a concern in short term: analysts」",
+    "url": "https://theinvestor.vn/vietnams-205-bln-trade-deficit-not-yet-a-concern-in-short-term-analysts-d19709.html",
+    "d": "2026-08-04"
+   },
+   {
+    "t": "世界銀行「Viet Nam Economic Update, May 2026」",
+    "url": "https://documents1.worldbank.org/curated/en/099740005122628080/pdf/IDU-2ee874ce-e0c0-462b-9571-99e553ef83c9.pdf",
+    "d": "2026-05"
+   },
+   {
+    "t": "VietNamNet「Vietnam records first trade deficit in 10 years as imports surge」",
+    "url": "https://vietnamnet.vn/en/vietnam-records-first-trade-deficit-in-10-years-as-imports-surge-2522600.html",
+    "d": "2026-06-04"
+   },
+   {
+    "t": "ベトナム商工省「Viet Nam's import-export turnover surpasses USD 1 trillion in 10 months of 2026」",
+    "url": "https://moit.gov.vn/en/news/viet-nam-s-import-export-turnover-surpasses-usd-1-trillion-in-10-months-of-2026.html",
+    "d": "2026-10-29"
+   },
+   {
+    "t": "VOV「Vietnam's economy posts record 10-month figures, faces final-stretch challenges」",
+    "url": "https://english.vov.vn/en/economy/vietnams-economy-posts-record-10-month-figures-faces-final-stretch-challenges-post1347333.vov",
+    "d": "2026-11-04"
+   },
+   {
+    "t": "CEIC「Vietnam / Thailand / Japan Foreign Exchange Reserves: Months of Import」",
+    "url": "https://www.ceicdata.com/en/indicator/thailand/foreign-exchange-reserves-months-of-import",
+    "d": "2026-11-13参照"
+   }
+  ]
+ },
+ {
   "id": "2026-11-12",
   "date": "2026-11-12",
   "tag": "科学技術・研究開発",
