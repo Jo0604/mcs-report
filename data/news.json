@@ -1,5 +1,55 @@
 [
  {
+  "id": "2026-11-15",
+  "date": "2026-11-15",
+  "items": [
+   {
+    "p": "P",
+    "title": "首相、ASEANに「2040年戦略インフラ優先リスト」策定を提案",
+    "summary": "レ・ミン・フン首相は11月14日、マニラで開かれたASEANビジネス・投資サミット（ABIS 2026、第49回ASEAN首脳会議に併催）で演説し、越境輸送回廊・物流・電力網・デジタルインフラ・スマートシティを対象とする「2040年までの戦略インフラ優先リスト」の策定を提案した。ASEAN連結性戦略計画2026〜2035では、越境輸送・物流、ASEANパワーグリッド、デジタル連結性、制度・人的交流の4分野を優先するよう求めた。",
+    "impact": "提案段階で拘束力はないが、越境物流や電力連系の案件形成が進めば、ベトナムを拠点に周辺国へ展開する日系の物流・製造業やインフラ関連企業に事業機会が広がる可能性がある。",
+    "src": {
+     "t": "Vietnam+（VNA）「Vietnamese PM proposes establishing ASEAN strategic infrastructure priority list to 2040」",
+     "url": "https://en.vietnamplus.vn/vietnamese-pm-proposes-establishing-asean-strategic-infrastructure-priority-list-to-2040-post355433.vnp",
+     "d": "2026-11-14"
+    }
+   },
+   {
+    "p": "E",
+    "title": "IMF、26年成長率9.2%予測　インフレ目標超えに警戒",
+    "summary": "IMFスタッフは11月3〜13日にハノイとホーチミン市で2026年4条協議を行い、2026年の実質GDP成長率を9.2%、2027年を8.9%と予測した。1〜9月の成長率は前年同期比9.0%、10月のインフレ率は5.1%で、年間目標4.5%を上回る状態が続くと見込む。国家銀行には物価安定の優先、年末の信用伸び率を約15%に抑えること、為替の柔軟性拡大と外貨準備の積み増しを求めた。",
+    "impact": "金融引き締め方向の提言で、借入金利や為替（ドン相場）の変動が大きくなる可能性がある。現地で資金調達する日系企業は、金利・為替の前提を見直しておきたい。",
+    "src": {
+     "t": "IMF プレスリリース「IMF Staff Completes 2026 Article IV Mission to Vietnam」",
+     "url": "https://www.imf.org/en/news/articles/2026/11/13/pr26361-vietnam-imf-staff-completes-2026-article-iv-mission",
+     "d": "2026-11-13"
+    }
+   },
+   {
+    "p": "S",
+    "title": "オンライン詐欺、1〜9月は前年同期比約2割減",
+    "summary": "公安省サイバーセキュリティ・ハイテク犯罪対策局（A05）によると、2026年1〜9月の詐欺犯罪は前年同期比で約20%減った。11月13日のセミナーで公表された。一方、手口はZaloなどSNS・通話アプリや暗号資産を使うものへ移っているという。",
+    "impact": "件数は減ったが手口は変化しており、駐在員や現地社員を狙ったSNS経由のなりすまし・送金詐欺への注意喚起は引き続き必要。",
+    "src": {
+     "t": "VnEconomy「Online fraud cases in Vietnam drop 20% in first 9 months」",
+     "url": "https://en.vneconomy.vn/online-fraud-cases-in-vietnam-drop-20-in-first-9-months.htm",
+     "d": "2026-11-14"
+    }
+   },
+   {
+    "p": "T",
+    "title": "ナムディン1石炭火力（120万kW）、BOT契約に署名",
+    "summary": "商工省は11月12日、ハノイでナムディン1火力発電所のBOT契約署名式を開いた。ニンビン省に建設する出力1,200MW（600MW×2基）の発電所で、投資家は韓国のテグァン（TKG Taekwang）グループ。商業運転は2030年を予定するが、資金調達の完了、付随契約、用地取得の進み具合に左右されるという。",
+    "impact": "北部のベース電源の増強につながり、北部に工場を持つ日系製造業の電力供給の安定に寄与する可能性がある。ただし運転開始は2030年予定で、当面の電力不足対策にはならない。",
+    "src": {
+     "t": "VnEconomy「Nam Dinh I thermal power plant signs BOT contract」",
+     "url": "https://en.vneconomy.vn/nam-dinh-i-thermal-power-plant-signs-bot-contract.htm",
+     "d": "2026-11-14"
+    }
+   }
+  ]
+ },
+ {
   "id": "2026-11-14",
   "date": "2026-11-14",
   "items": [
