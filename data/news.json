@@ -1,5 +1,77 @@
 [
  {
+  "id": "2026-11-14",
+  "date": "2026-11-14",
+  "items": [
+   {
+    "p": "P",
+    "title": "改正証券法が成立、規制サンドボックス新設・2027年3月施行",
+    "summary": "11月13日、国会は証券法の一部改正法を可決した（出席464人中463人が賛成）。全3条で2027年3月1日施行。第6a条で証券分野の規制サンドボックスを新設し、証券寄託登録の条件簡素化、法定代表者の資格要件緩和（基準を満たすのは1人でよい）、2年間の経過措置などを盛り込んだ。",
+    "impact": "証券会社・ファンド運用会社に出資・提携する日系金融機関は、法定代表者の要件緩和と経過措置の扱いを確認したい。細則はサンドボックスに関する政令などで定められる予定で、公布状況の確認が必要。",
+    "src": {
+     "t": "Vietnam+（VNA）「NA approves amendments to Securities Law, 2025 State budget settlement」",
+     "url": "https://en.vietnamplus.vn/na-approves-amendments-to-securities-law-2025-state-budget-settlement-post355356.vnp",
+     "d": "2026-11-13"
+    }
+   },
+   {
+    "p": "P",
+    "title": "商法・競争法・消費者保護法など4法の改正が成立",
+    "summary": "11月13日、国会は商法、競争法、外国貿易管理法、消費者権利保護法の改正法を可決した（460人中458人が賛成）。消費者の個人データを集める・使う際は目的と範囲ごとに明確な同意を得ることを事業者に義務付けた。原産地証明（C/O）は商工省が一元的な電子発給システムを運営する。競争法違反の時効は重大違反5年・その他1年とした。施行は2027年7月1日。",
+    "impact": "B2C事業を行う日系企業は、同意取得の手続きやプライバシーポリシーを2027年7月までに見直す必要が出る可能性がある。輸出企業はC/O電子発給の運用変更に注意したい。",
+    "src": {
+     "t": "Vietnam+（VNA）「Law amendments expected to streamline business procedures, strengthen consumer protection」",
+     "url": "https://en.vietnamplus.vn/law-amendments-expected-to-streamline-business-procedures-strengthen-consumer-protection-post355377.vnp",
+     "d": "2026-11-13"
+    }
+   },
+   {
+    "p": "E",
+    "title": "2025年度決算を承認、財政赤字はGDP比3.1%",
+    "summary": "国会は11月13日、2025年度国家予算決算に関する決議を承認した（461人中458人が賛成）。報道によると、財政赤字は400兆1,630億ドンでGDP比3.1%となり、見込みの3.8%を下回った。財務相は2025年のGDP成長率を8.02%、歳入は見込みを36.8%上回ったと報告した（数字は要確認）。",
+    "impact": "財政に余裕があることは、インフラ投資の継続や国債の発行条件にとって追い風となる可能性がある。一方、予算の繰越が増えていることも指摘されており、公共事業の執行の遅れには引き続き注意したい。",
+    "src": {
+     "t": "VnEconomy「Vietnam's 2025 budget deficit narrows by 15.1% against forecast」",
+     "url": "https://en.vneconomy.vn/vietnams-2025-budget-deficit-narrows-by-151-against-forecast.htm",
+     "d": "2026-11-14"
+    }
+   },
+   {
+    "p": "S",
+    "title": "中部で大雨、住宅2,700戸超が浸水・約1,900世帯避難",
+    "summary": "地方当局の集計（11月12日17時時点）では、ザライ省とダクラク省で住宅2,734戸が浸水し、ダクラク、ダナンなど6省市で1,887世帯が避難した。フエでは2人が負傷した。ダクラクでは12日の雨量が80〜200mm、一部で300mmを超えた。雨は13日午後から弱まる予報。",
+    "impact": "中部に工場や取引先を持つ企業は、物流の遅れや従業員の安否を確かめたい。この時期の中部は豪雨が続きやすく、出張計画は最新の気象情報を確認してから立てたい。",
+    "src": {
+     "t": "Vietnam+（VNA）「Central region floods inundate over 2,700 houses, displace nearly 1,900 households」",
+     "url": "https://en.vietnamplus.vn/central-region-floods-inundate-over-2700-houses-displace-nearly-1900-households-post355335.vnp",
+     "d": "2026-11-13"
+    }
+   },
+   {
+    "p": "T",
+    "title": "ホーチミン市、ハイテクパークの電力網を増強へ",
+    "summary": "ホーチミン市の電力消費は年間約580億kWhで、2030年には約940億kWh、最大需要は約1万6,103MWに増える見込み。市は約6,000MWの電源追加が必要とみる（要確認）。サイゴン・ハイテクパークには2025〜2030年に110kV変電所を計5カ所（最低693MVA）追加する。市人民評議会は9月の決議で、工業団地などの需要家とLNG火力などとの専用線による電力直接取引を広げた。",
+    "impact": "南部のハイテクパークへの進出を検討する製造業にとって、電力供給の安定は立地判断の材料になる。電力直接取引（DPPA）の対象拡大は、再エネや電力コストの調達手段を増やす可能性がある。",
+    "src": {
+     "t": "Vietnam+（VNA）「Ho Chi Minh City accelerates power infrastructure investment to attract high-tech capital」",
+     "url": "https://en.vietnamplus.vn/ho-chi-minh-city-accelerates-power-infrastructure-investment-to-attract-high-tech-capital-post355351.vnp",
+     "d": "2026-11-14"
+    }
+   },
+   {
+    "p": "T",
+    "title": "ベトナム・韓国、AI・半導体で協力覚書8件に署名",
+    "summary": "11月12日にハノイで開かれた第1回ベトナム・韓国AI半導体サミット（VKAISS 2026）で、両国の企業・業界団体・教育機関が協力覚書8件に署名した。FPTは韓国企業と半導体の後工程（パッケージング・テスト）で提携し、韓国AI半導体協会とバクニン半導体協会は部材サプライヤーとの連携で合意した。",
+    "impact": "韓国勢が北部（バクニン）で半導体サプライチェーンづくりを進めており、日系部材・装置メーカーとの競合や協業の機会が増える可能性がある。半導体人材の採用競争が激しくなる点にも注意したい。",
+    "src": {
+     "t": "VnEconomy「Vietnam and South Korea sign eight AI and semiconductor cooperation agreements」",
+     "url": "https://en.vneconomy.vn/vietnam-and-south-korea-sign-eight-ai-and-semiconductor-cooperation-agreements.htm",
+     "d": "2026-11-13"
+    }
+   }
+  ]
+ },
+ {
   "id": "2026-10-27",
   "date": "2026-10-27",
   "items": [
