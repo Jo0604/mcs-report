@@ -1,5 +1,492 @@
 [
  {
+  "id": "2026-10",
+  "code": "VOL.02 — 2026.10",
+  "label": "2026年10月号",
+  "published": "2026年11月3日",
+  "period": "2026年10月の動き（ベトナム統計総局の10月分は本稿作成時点で未発表のため、直近の9月・第3四半期の値を使用しています）",
+  "title": "外国人の住宅所有ルール改正へ。ハノイは分譲が冷え込み・サービスアパートは堅調、金利は日米が利上げ方向・ベトナムは引き下げ方向",
+  "notice": "本資料は情報提供を目的としたもので、投資判断はご自身の責任で行ってください。",
+  "points": [
+   "外国人の住宅所有ルールが変わる見込み：ベトナム国会が住宅法・土地法・不動産事業法の改正案を審議中（会期は11/20まで）。外国人が所有できるのはマンション（1棟30%以内）に限る方向です。新設の「賃貸住宅」の章では、家賃に省の上限枠を設ける案が出ています。",
+   "ハノイの分譲は冷え込み、サービスアパートは堅調：分譲の販売はSavills調べで前年比▲48%（CBRE調べ▲66%）。サービスアパートは稼働率80%超・賃料は前期比で微増（Savills）。ただしTây Hồ地区で新しい高級物件の開業が続いています。",
+   "金利は「日米は利上げ方向、ベトナムは引き下げ方向」：FRB・日銀は10月に据え置きましたが、12月の利上げ観測が強まっています。ベトナム国家銀行は預金金利の引き下げを銀行に指導し、政府はガソリン税を0%にして物価を抑えています。"
+  ],
+  "sections": [
+   {
+    "h": "マクロ環境：ベトナム",
+    "table": {
+     "head": [
+      "指標",
+      "最新値",
+      "変化",
+      "出典・発表日"
+     ],
+     "rows": [
+      [
+       "実質GDP成長率（2026年Q3）",
+       "+9.95%（前年同期比）",
+       "1–9月 +9.01%、政府目標は10%超",
+       "国家統計局（VnEconomy 2026-10-03）"
+      ],
+      [
+       "消費者物価（9月）",
+       "前年比 +5.08%",
+       "1–9月平均 +4.52%（目標 約4.5%）",
+       "国家統計局（VnEconomy 2026-10-03）"
+      ],
+      [
+       "預金金利（6–12か月）",
+       "年6.6–8.1%",
+       "11か月連続で上昇。10/19に国家銀行が引き下げを指導（※1出典）",
+       "Dân trí 2026-10-23"
+      ],
+      [
+       "貸出金利（平均）",
+       "年8.4–10.9%",
+       "2025年末比 +1.7〜1.9pt（※1出典）",
+       "Dân trí 2026-10-23"
+      ],
+      [
+       "住宅ローン変動金利",
+       "年13–15%",
+       "—",
+       "CBRE（CafeF 2026-10-31）"
+      ],
+      [
+       "USD/VND 中心レート",
+       "25,637（10/31）",
+       "9月末比 +0.03%（ほぼ横ばい）",
+       "国家銀行（VOV 2026-10-31）"
+      ],
+      [
+       "ガソリン特別消費税",
+       "0%（11/1〜2027/3/31）。電気料金も平均▲2%",
+       "E5ガソリン 1Lあたり▲1,804VND",
+       "政府決議45/2026/NQ-CP（VietnamPlus 2026-11-01）"
+      ],
+      [
+       "外国直接投資（FDI）登録額（1–9月）",
+       "503.6億USD",
+       "前年比 +76.4%",
+       "国家統計局（VIR 2026-10-07）"
+      ],
+      [
+       "ハノイのFDI（1–9月）",
+       "40.7億USD",
+       "前年比 +5.9%",
+       "ハノイ市統計局（Người Quan Sát 2026-10-16）"
+      ],
+      [
+       "国際観光客（全国・1–9月）",
+       "約1,770万人",
+       "前年比 +14.5%（韓国 300万人、日本 67.4万人）",
+       "国家統計局（Báo Văn hóa 2026-10-03）"
+      ],
+      [
+       "国際観光客（ハノイ・1–9月）",
+       "約667万人",
+       "前年比 +22%",
+       "ハノイ市（Thăng Long 2026-10-02）"
+      ]
+     ],
+     "num": [],
+     "src": 3
+    }
+   },
+   {
+    "h": "マクロ環境：日本",
+    "table": {
+     "head": [
+      "指標",
+      "最新値",
+      "変化",
+      "出典・発表日"
+     ],
+     "rows": [
+      [
+       "日銀 政策金利",
+       "約1.25%（10/30据え置き）",
+       "8対1（1人は1.50%への利上げを提案）",
+       "Bloomberg 2026-10-30、BigGo Finance 2026-11-02"
+      ],
+      [
+       "日銀の見通し",
+       "基調的な物価は2%目標と「おおむね整合」。次回は12/17–18",
+       "12月利上げの織り込みは約7割超",
+       "BigGo Finance 2026-11-02"
+      ],
+      [
+       "USD/JPY",
+       "157.64円（10/30 NY終値）",
+       "9月末比 +0.2%（わずかに円安）",
+       "財経新聞 2026-10-31"
+      ],
+      [
+       "日本企業のベトナム投資",
+       "累計 5,800件超・810億USD超",
+       "トヨタのフート工場への追加投資（2.84億USD）、イオンのベトナム重視など",
+       "商工省（VietnamPlus 2026-10-24）、Korea Times 2026-10-08"
+      ]
+     ],
+     "num": [],
+     "src": 3
+    }
+   },
+   {
+    "h": "マクロ環境：グローバル・ASEAN",
+    "table": {
+     "head": [
+      "指標",
+      "最新値",
+      "変化",
+      "出典・発表日"
+     ],
+     "rows": [
+      [
+       "米FRB 政策金利",
+       "3.75–4.00%（10/28据え置き）",
+       "2人が利上げを主張。12月利上げの確率 約83%",
+       "Fox Business 2026-10-28"
+      ],
+      [
+       "ブレント原油",
+       "約113〜118ドル（10/30）",
+       "10月 +14〜19%（出典で幅あり）",
+       "Oil Monitor Weekly 2026-10-30、Fortune 2026-10-30"
+      ],
+      [
+       "原油高の要因",
+       "ホルムズ海峡付近のタンカー攻撃など中東情勢",
+       "4週連続で上昇",
+       "Oil Monitor Weekly 2026-10-30"
+      ],
+      [
+       "米国の対ベトナム追加関税",
+       "12.5%（2026年7月から）",
+       "10月の変更は確認できず",
+       "Vietnam Briefing"
+      ]
+     ],
+     "num": [],
+     "src": 3
+    }
+   },
+   {
+    "h": "日本とベトナムへの影響の流れ",
+    "bullets": [
+     "中東情勢 → 原油高 → ベトナム政府はガソリン税0%で物価を抑える → 国家銀行は金利を下げる方向。",
+     "一方、原油高で米国の物価が下がらず、FRBが12月に利上げすればドル高 → ドン安圧力 → ベトナムの金利は大きく下げにくくなります。",
+     "日銀が12月に利上げすれば円高 → 日本からの投資・駐在の円建てコストが下がる方向です。"
+    ]
+   },
+   {
+    "h": "ハノイ不動産：サービスアパート",
+    "table": {
+     "head": [
+      "項目",
+      "Savills（Q3 2026）",
+      "Avison Young（Q3 2026）",
+      "出典・発表日"
+     ],
+     "rows": [
+      [
+       "ストック",
+       "約6,700室・68プロジェクト",
+       "—",
+       "Người Quan Sát 2026-10-16"
+      ],
+      [
+       "稼働率",
+       "80%超",
+       "グレードA 約70%、B 約65%",
+       "同上／Tinnhanhchungkhoan 2026-10-17"
+      ],
+      [
+       "賃料",
+       "前期比で微増、前年比で横ばい",
+       "A 約35USD/㎡/月、B 約25USD/㎡/月（横ばい）",
+       "同上"
+      ],
+      [
+       "新規供給",
+       "LÈGACY Hanoi（Tây Hồ、133室）",
+       "同左",
+       "同上"
+      ],
+      [
+       "今後の供給",
+       "18プロジェクト・2,200室超（中心部・西部）",
+       "La Résidence Tây Hồ（221室）、Fraser Residence Hinode City（401室、年末予定）",
+       "同上"
+      ]
+     ],
+     "num": [],
+     "src": 3
+    },
+    "bullets": [
+     "稼働率は調査会社によって差があります（対象物件の範囲の違いと考えられます）。",
+     "需要の中心は、FDI企業の外国人専門家・管理職と長期滞在者です（Savills）。"
+    ]
+   },
+   {
+    "h": "ハノイ不動産：分譲マンション（Q3 2026）",
+    "table": {
+     "head": [
+      "項目",
+      "CBRE",
+      "Savills",
+      "出典・発表日"
+     ],
+     "rows": [
+      [
+       "新規供給",
+       "約6,200戸（前年比▲40%）",
+       "前期比▲42%、前年比▲51%",
+       "Thanh Niên 2026-10-14／Báo Xây dựng 2026-10-16"
+      ],
+      [
+       "販売",
+       "約3,900戸（前年比▲66%）",
+       "前期比▲26%、前年比▲48%",
+       "CafeF 2026-10-31"
+      ],
+      [
+       "一次価格",
+       "約8,600万VND/㎡（前年比▲6%）",
+       "前期比で微減、前年比で上昇",
+       "同上"
+      ],
+      [
+       "中古価格",
+       "約6,000万VND/㎡（前年比▲8%）",
+       "3四半期連続で下落",
+       "同上"
+      ],
+      [
+       "Q4の供給予定",
+       "—",
+       "約7,000戸・11プロジェクト",
+       "同上"
+      ]
+     ],
+     "num": [],
+     "src": 3
+    },
+    "bullets": [
+     "取引量は各社とも大幅減で一致していますが、価格の方向は調査会社によって異なります。"
+    ]
+   },
+   {
+    "h": "ハノイ不動産：エリア動向",
+    "bullets": [
+     "Tây Hồ：高級サービスアパートの開業が続いています（LÈGACY Hanoi 133室、La Résidence Tây Hồ 221室）。",
+     "Ba Đình（Kim Mã・Đội Cấn）：10月に大型の新規供給は確認できませんでした。地区別の四半期データは公開資料では確認できていません。"
+    ]
+   },
+   {
+    "h": "法制度",
+    "table": {
+     "head": [
+      "項目",
+      "内容",
+      "状態",
+      "出典・発表日"
+     ],
+     "rows": [
+      [
+       "住宅法の改正案",
+       "外国人はマンションのみ所有可（1棟30%以内）、戸建て・ヴィラは不可。期間は最長50年＋1回延長",
+       "国会審議中。会期（〜11/20）中の採決見込み",
+       "Báo Văn hóa 2026-09-21、Công Thương 2026-10-22"
+      ],
+      [
+       "賃貸住宅の新章",
+       "家賃は当事者の合意。ただし省が決める上限の枠内",
+       "同上（対象となる住宅の範囲は今後の細則次第）",
+       "Công Thương 2026-10-22、Viet Nam News 2026-10-23"
+      ],
+      [
+       "土地法・不動産事業法の改正案",
+       "区画ごとの識別コード、地価の算定方式の見直し、物件の電子識別コード",
+       "国会審議中",
+       "Viet Nam News 2026-10-23"
+      ],
+      [
+       "外国人の在留届出",
+       "外国人が宿泊したら、到着後すぐ（1泊でも）届出が必要。義務は物件の所有者側にある",
+       "通達87/2026/TT-BCA（2026-07-24施行）。10月に公安省が改めて周知",
+       "CafeF 2026-10-24"
+      ]
+     ],
+     "num": [],
+     "src": 3
+    }
+   },
+   {
+    "h": "日本企業・投資家への示唆",
+    "bullets": [
+     "購入を検討中の方：外国人の所有はマンションに限られる方向です。戸建て・ヴィラは改正法の成立と細則を確認してから判断することをおすすめします。",
+     "賃貸で投資・運用中の方：新設の家賃上限ルールがどの住宅に適用されるかは、ハノイ市の細則が出るまで不明です。長期契約の条件は、法改正の動きを見ながら決めるのが安全です。",
+     "駐在員の住まいを手配する企業の方：サービスアパートの稼働率は高く、賃料は下げ止まっています。新規供給が増えるTây Hồでは選択肢が広がる一方、人気物件は早めの確保が必要です。",
+     "短期滞在・出張の手配：外国人が宿泊する場合の届出は物件側の義務です。届出を確実に行う運営会社を選ぶことが大切です。",
+     "金利と為替：12月はFRB（12/8–9）と日銀（12/17–18）の会合があります。両方が利上げすれば、ドル高・円高の組み合わせになり、円から見たドン建てコストが変わる可能性があります。"
+    ]
+   }
+  ],
+  "field": [
+   {
+    "date": "（取材日）",
+    "place": "（場所：例 Kim Mã通り）",
+    "title": "（現地で見たこと・聞いたことの見出し）",
+    "body": "編集長が現地で確認した事実を書く欄です。物件の見学、管理会社やオーナーへの聞き取り、視察アテンドで見えた変化など、公開データには出てこない一次情報を載せます。"
+   }
+  ],
+  "editor": {
+   "paras": [
+    "（編集長の意見を書く欄です。統計や報道を、ハノイで実際に事業をしている立場からどう読むか、楽観的な見方に対する反論や、日本の本社が見落としがちなリスクを率直に書きます。）"
+   ],
+   "by": "編集長（ハノイ在住）"
+  },
+  "sources": [
+   {
+    "t": "Vietnam's GDP grows 9.01% in first nine months of 2026（VnEconomy）",
+    "url": "https://en.vneconomy.vn/vietnams-gdp-grows-901-in-first-nine-months-of-2026.htm",
+    "d": "2026-10-03"
+   },
+   {
+    "t": "Vietnam's September CPI rises 5.08%（VnEconomy）",
+    "url": "https://en.vneconomy.vn/vietnams-september-cpi-rises-508.htm",
+    "d": "2026-10-03"
+   },
+   {
+    "t": "Lãi suất huy động tăng 11 tháng liên tiếp（Dân trí）",
+    "url": "https://dantri.com.vn/kinh-doanh/lai-suat-huy-dong-tang-11-thang-lien-tiep-lai-cho-vay-len-109nam-20261023162204937.htm",
+    "d": "2026-10-23"
+   },
+   {
+    "t": "Tỷ giá USD hôm nay 31/10（VOV）",
+    "url": "https://vov.vn/thi-truong/ty-gia-usd-hom-nay-3110-ty-gia-trung-tam-o-muc-25637-dongusd-post1346036.vov",
+    "d": "2026-10-31"
+   },
+   {
+    "t": "Vietnam cuts fuel tax to zero（VietnamPlus）",
+    "url": "https://en.vietnamplus.vn/vietnam-cuts-fuel-tax-to-zero-petrol-prices-fall-by-up-to-1800-vnd-per-litre-post354639.vnp",
+    "d": "2026-11-01"
+   },
+   {
+    "t": "Vietnam's registered FDI surpasses $50 billion in nine months（VIR）",
+    "url": "https://vir.com.vn/vietnams-registered-fdi-surpasses-50-billion-in-nine-months-162297.html",
+    "d": "2026-10-07"
+   },
+   {
+    "t": "Khách quốc tế đến Việt Nam 9 tháng 2026 tăng 14,5%（Báo Văn hóa）",
+    "url": "https://baovanhoa.vn/du-lich/khach-quoc-te-den-viet-nam-9-thang-2026-tang-145-271196.html",
+    "d": "2026-10-03"
+   },
+   {
+    "t": "Khách quốc tế tăng 22%, tạo đà cho du lịch Hà Nội（Thăng Long）",
+    "url": "https://thanglong.chinhphu.vn/khach-quoc-te-tang-22-tao-da-cho-du-lich-ha-noi-but-pha-dip-cuoi-nam-10326100121152966.htm",
+    "d": "2026-10-02"
+   },
+   {
+    "t": "BoJ holds benchmark rate steady（Bloomberg）",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-30/boj-holds-benchmark-rate-steady-as-expected-after-september-hike",
+    "d": "2026-10-30"
+   },
+   {
+    "t": "Bank of Japan Holds at 1.25%, Hints at December Rate Hike（BigGo Finance）",
+    "url": "https://finance.biggo.com/news/77ec2db3-1557-4d8a-a2e5-c44377866557",
+    "d": "2026-11-02"
+   },
+   {
+    "t": "10月30日のNY為替概況（財経新聞）",
+    "url": "https://www.zaikei.co.jp/article/20261031/875696.html",
+    "d": "2026-10-31"
+   },
+   {
+    "t": "Japanese FDI supports green transition（VietnamPlus）",
+    "url": "https://en.vietnamplus.vn/japanese-fdi-supports-green-transition-in-vietnams-manufacturing-sector-post354126.vnp",
+    "d": "2026-10-24"
+   },
+   {
+    "t": "Japanese brands, factories gain traction in Vietnam（Korea Times）",
+    "url": "https://www.koreatimes.co.kr/world/20261008/japanese-brands-factories-gain-traction-in-vietnam-despite-korean-competition",
+    "d": "2026-10-08"
+   },
+   {
+    "t": "October FOMC: Federal Reserve holds rates steady（Fox Business）",
+    "url": "https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-october-28-2026",
+    "d": "2026-10-28"
+   },
+   {
+    "t": "Oil Monitor Weekly Summary（Substack）",
+    "url": "https://unbiasednews.substack.com/p/oil-monitor-weekly-summary-october",
+    "d": "2026-10-30"
+   },
+   {
+    "t": "Current price of oil as of October 30, 2026（Fortune）",
+    "url": "https://fortune.com/article/price-of-oil-10-30-2026/",
+    "d": "2026-10-30"
+   },
+   {
+    "t": "Tariff Tracker（Vietnam Briefing）",
+    "url": "https://www.vietnam-briefing.com/tariff-updates",
+    "d": "随時更新"
+   },
+   {
+    "t": "Savills: Dòng vốn FDI nâng đỡ căn hộ dịch vụ Hà Nội（Người Quan Sát）",
+    "url": "https://nguoiquansat.vn/savills-dong-von-fdi-nang-do-can-ho-dich-vu-ha-noi-hon-2-200-can-sap-gia-nhap-thi-truong-322403.html",
+    "d": "2026-10-16"
+   },
+   {
+    "t": "Căn hộ dịch vụ Hà Nội được bổ sung nguồn cung mới（Tinnhanhchungkhoan）",
+    "url": "https://www.tinnhanhchungkhoan.vn/can-ho-dich-vu-ha-noi-duoc-bo-sung-nguon-cung-moi-post399632.html",
+    "d": "2026-10-17"
+   },
+   {
+    "t": "Bất động sản Hà Nội quý III/2026（Báo Xây dựng）",
+    "url": "https://batdongsan.baoxaydung.vn/bat-dong-san-ha-noi-quy-iii-2026-can-ho-giam-giao-dich-ban-le-khoi-sac-19226101612573466.htm",
+    "d": "2026-10-16"
+   },
+   {
+    "t": "Chung cư giảm giá, người mua vẫn đề đặt（CafeF）",
+    "url": "https://cafef.vn/chung-cu-giam-gia-nguoi-mua-van-de-dat-188261031202149232.chn",
+    "d": "2026-10-31"
+   },
+   {
+    "t": "Giao dịch chung cư Hà Nội 'chạm đáy'（Thanh Niên）",
+    "url": "https://thanhnien.vn/giao-dich-chung-cu-ha-noi-cham-day-185261014182806666.htm",
+    "d": "2026-10-14"
+   },
+   {
+    "t": "Đề xuất thu hẹp quyền sở hữu nhà ở của người nước ngoài（Báo Văn hóa）",
+    "url": "https://baovanhoa.vn/phap-luat/de-xuat-thu-hep-quyen-so-huu-nha-o-cua-nguoi-nuoc-ngoai-tai-viet-nam-267468.html",
+    "d": "2026-09-21"
+   },
+   {
+    "t": "Dự án Luật Nhà ở (sửa đổi)（Công Thương）",
+    "url": "https://kinhte.congthuong.vn/du-an-luat-nha-o-sua-doi-tao-dot-pha-phat-trien-nha-o-cho-thue-478031.html",
+    "d": "2026-10-22"
+   },
+   {
+    "t": "NA debates sweeping reforms to land, housing and real estate laws（Viet Nam News）",
+    "url": "https://vietnamnews.vn/economy/1802646/na-debates-sweeping-reforms-to-land-housing-and-real-estate-laws.html",
+    "d": "2026-10-23"
+   },
+   {
+    "t": "Kỳ họp thứ 2, Quốc hội khóa XVI khai mạc ngày 17-10（Tuổi Trẻ）",
+    "url": "https://tuoitre.vn/ky-hop-thu-2-quoc-hoi-khoa-xvi-khai-mac-ngay-17-10-100260924220137796.htm",
+    "d": "2026-09-25"
+   },
+   {
+    "t": "Công an phát thông báo đặc biệt tới người dân có nhà cho thuê（CafeF）",
+    "url": "https://cafef.vn/cong-an-phat-thong-bao-dac-biet-toi-tat-ca-nguoi-dan-co-nha-can-ho-cho-thue-cho-muon-188261024154236034.chn",
+    "d": "2026-10-24"
+   }
+  ]
+ },
+ {
   "id": "2026-09",
   "code": "VOL.01 — 2026.09",
   "label": "2026年9月号",
