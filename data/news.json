@@ -1,5 +1,66 @@
 [
  {
+  "id": "2026-11-16",
+  "date": "2026-11-16",
+  "items": [
+   {
+    "p": "P",
+    "title": "ASEAN、デジタル経済枠組み協定（DEFA）に署名",
+    "summary": "ASEAN各国は11月14日、マニラでデジタル経済枠組み協定（DEFA）に署名した。ASEAN初の法的拘束力を持つ単独のデジタル経済協定で、署名から180日後に発効し、2019年のASEAN電子商取引協定に代わる。企業・消費者への効果は2027年初めからを見込む。ASEANのデジタル経済規模は2026年に3,680億ドル、2035年に1兆ドル超と予測されている。",
+    "impact": "越境データ移転や電子決済、電子署名などのルールがASEAN域内でそろう方向で、ベトナムを拠点に域内でEC・IT・物流事業を展開する日系企業の手続き負担が軽くなる可能性がある。各国の国内法整備の進み方を確認したい。",
+    "src": {
+     "t": "Vietnam+（VNA）「ASEAN signs Digital Economy Framework Agreement」",
+     "url": "https://en.vietnamplus.vn/asean-signs-digital-economy-framework-agreement-post355454.vnp",
+     "d": "2026-11-15"
+    }
+   },
+   {
+    "p": "E",
+    "title": "10月の新車販売、前年同月比24%減",
+    "summary": "ベトナム自動車工業会（VAMA）の集計（VinFastとTC Motorを除く）によると、10月の販売台数は28,957台で、前月比17%減、前年同月比24%減だった（要確認）。うち乗用車は20,715台、輸入完成車は16,204台（前月比24%減）。ハイブリッド車は1〜10月累計17,948台で、前年同期の11,182台から61%増えた（要確認）。",
+    "impact": "市場全体は減速しているが、ハイブリッド車の伸びが目立つ。日系自動車・部品メーカーは、車種構成の変化と年末商戦の需要動向に注意したい。",
+    "src": {
+     "t": "VnEconomy「Auto market slows in October as EVs continue to gain momentum」",
+     "url": "https://en.vneconomy.vn/auto-market-slows-in-october-as-evs-continue-to-gain-momentum.htm",
+     "d": "2026-11-15"
+    }
+   },
+   {
+    "p": "E",
+    "title": "ベトナムのデジタル経済、26年は490億ドル規模に",
+    "summary": "Google、Temasek、Bain & Companyの「e-Conomy SEA 2026」報告によると、ベトナムのデジタル経済の流通総額（GMV）は2026年に490億ドルとなり、前年比20%増の見通し。主要4分野（EC、交通・フード、オンライン旅行、オンラインメディア）はいずれも2桁成長した（要確認）。",
+    "impact": "EC・デジタル決済・物流など消費者向けデジタル市場は拡大が続いており、日系の小売・決済・物流企業にとって参入や事業拡大の機会が広がる可能性がある。",
+    "src": {
+     "t": "Vietnam+（VNA）「Vietnam's digital economy gains momentum with AI adoption」",
+     "url": "https://en.vietnamplus.vn/vietnams-digital-economy-gains-momentum-with-ai-adoption-post355371.vnp",
+     "d": "2026-11-15"
+    }
+   },
+   {
+    "p": "S",
+    "title": "ホーチミン市、公立校で英語・AI授業と給食の無償化を検討",
+    "summary": "ホーチミン市人民委員会は、公立学校向け支援策に関する決議案を作成している。市の予算で、英語、情報・デジタル・AI、STEM/STEAM、生活スキル、スポーツ・芸術のうち1〜5分野を課外で無償提供し、給食費の補助も行う案。幼稚園から一般学校、継続教育、障害者教育施設までを対象とするが、まだ草案段階で施行日は示されていない。",
+    "impact": "採択されれば、公立校に通う家庭の教育費負担が軽くなる。民間の英語・STEM教室や教育関連事業を営む日系企業には、競合環境や公的委託の機会に変化が出る可能性がある。",
+    "src": {
+     "t": "Tuổi Trẻ News「Ho Chi Minh City to offer students free English, AI, STEM classes and school meals」",
+     "url": "https://news.tuoitre.vn/ho-chi-minh-city-to-offer-students-free-english-ai-stem-classes-and-school-meals-103261114154804372.htm",
+     "d": "2026-11-14"
+    }
+   },
+   {
+    "p": "T",
+    "title": "ハティン省、ラオス国境カウチェオへ高速道路建設へ",
+    "summary": "建設省はハティン省に対し、ホーチミン道路からラオス国境のカウチェオ国際口までの高速道路区間（約51km、4車線）の投資を割り当てた。総事業費は約15兆ドン（約5.7億ドル）の見込み（要確認）。高速道路全体は約85kmで、南北高速道路との接続部から始まる第1区間（約34km、6車線）と合わせて整備する。",
+    "impact": "完成すれば、北中部の工業地帯とラオスを結ぶ陸上輸送が改善し、ラオス向け・ラオス経由の物流を使う日系製造業や物流企業にとって輸送時間短縮の可能性がある。着工時期は未定。",
+    "src": {
+     "t": "VnEconomy「Ha Tinh to build expressway connecting Ho Chi Minh Road to Cau Treo International Border Gate」",
+     "url": "https://en.vneconomy.vn/ha-tinh-to-build-expressway-connecting-ho-chi-minh-road-to-cau-treo-international-border-gate.htm",
+     "d": "2026-11-15"
+    }
+   }
+  ]
+ },
+ {
   "id": "2026-11-15",
   "date": "2026-11-15",
   "items": [
