@@ -1,5 +1,77 @@
 [
  {
+  "id": "2026-11-18",
+  "date": "2026-11-18",
+  "items": [
+   {
+    "p": "P",
+    "title": "ASEAN・カナダFTA、交渉が実質妥結　署名は2027年見込み",
+    "summary": "カナダのカーニー首相が11月中旬、マニラで開かれたASEAN関連会議の場で、ASEAN・カナダ自由貿易協定（ACAFTA）の交渉が実質的に妥結したと発表した。署名は2027年の見込み。カナダ政府によると、2025年のカナダの対ベトナム直接投資残高は約46億加ドル（要確認）で、金融・保険が中心。",
+    "impact": "ベトナムとカナダは既にCPTPPで結ばれているが、ASEAN全体との協定ができると、ASEAN域内の部材を使った対カナダ輸出で原産地規則の扱いが変わる可能性がある。ベトナム拠点から北米向けに輸出する日系企業は、署名後の条文を確認したい。",
+    "src": {
+     "t": "Vietnam+（VNA）「ASEAN-Canada trade deal opens new cooperation opportunities with Vietnam: experts」",
+     "url": "https://en.vietnamplus.vn/asean-canada-trade-deal-opens-new-cooperation-opportunities-with-vietnam-experts-post355590.vnp",
+     "d": "2026-11-17"
+    }
+   },
+   {
+    "p": "P",
+    "title": "メコン・日本、メコン・韓国首脳会議にベトナム首相が出席",
+    "summary": "レ・ミン・フン首相は11月16〜17日にマニラで開かれたメコン・日本、メコン・韓国の2つの首脳会議に出席し、連結性、イノベーション、強靭性、持続可能な開発を柱に協力を強めるよう提案した。同期間には第29回ASEAN+3首脳会議にも出席した。",
+    "impact": "メコン・日本協力は、日本のODAや官民の連結性インフラ支援の枠組みの一つ。物流・インフラ分野の日系企業にとって、今後の案件形成につながる可能性がある。",
+    "src": {
+     "t": "Vietnam+（VNA）「Vietnam boosts Mekong cooperation with Japan, Republic of Korea」",
+     "url": "https://en.vietnamplus.vn/vietnam-boosts-mekong-cooperation-with-japan-republic-of-korea-post355639.vnp",
+     "d": "2026-11-17"
+    }
+   },
+   {
+    "p": "E",
+    "title": "国家銀行、預貸率上限を85%から95%に　バーゼルIII流動性基準も段階導入",
+    "summary": "ベトナム国家銀行（SBV）は、銀行業務の安全上限・健全性比率を定める通達50/2026/TT-NHNNを公布した。預貸率（LDR）の上限を現行の85%から95%に引き上げ、流動性カバレッジ比率（LCR）と安定調達比率（NSFR）を段階的に導入する。施行は12月上旬（12月1日との見方、要確認）。",
+    "impact": "上限緩和で銀行の貸出余力は広がるが、預金などの調達が伴わなければ融資はすぐには増えないとの見方もある。ベトナムで借入を行う日系企業は、年末にかけての金利や融資条件の変化に注意したい。",
+    "src": {
+     "t": "Vietnam+（VNA）「Banks with sufficient funding base to benefit from new safety ratio policy」",
+     "url": "https://en.vietnamplus.vn/banks-with-sufficient-funding-base-to-benefit-from-new-safety-ratio-policy-post355557.vnp",
+     "d": "2026-11-17"
+    }
+   },
+   {
+    "p": "E",
+    "title": "中心レート1ドル＝2万5652ドン、前日比13ドン上昇",
+    "summary": "国家銀行は11月17日のドン対ドル中心レートを1ドル＝2万5652ドンとし、前日から13ドン引き上げた。変動幅は±5%で、商業銀行の上限は2万6935ドン、下限は2万4369ドン。同日朝、ベトコムバンクとBIDVの売値は2万5950ドンだった。",
+    "impact": "ドン安方向の小幅な動きが続いており、ドル建てで輸入・送金を行う企業や、円・ドルで給与を受け取る駐在員の換算額にわずかに影響する。",
+    "src": {
+     "t": "Vietnam+（VNA）「Reference exchange rate edges higher」",
+     "url": "https://en.vietnamplus.vn/reference-exchange-rate-edges-higher-post355561.vnp",
+     "d": "2026-11-17"
+    }
+   },
+   {
+    "p": "S",
+    "title": "失業保険の加入者1808万人、前年比10.54%増",
+    "summary": "ベトナム社会保険（VSS）によると、10月末時点の失業保険加入者は1808万人で前年同期比10.54%増えた。1〜10月の失業給付受給者は66万739人（0.64%増）、職業訓練支援の利用者は1万5668人（38.61%増）。社会保険加入者は2278万人、医療保険の加入者は9882万人だった。",
+    "impact": "2026年1月施行の改正雇用法で失業給付と職業訓練の連携が強まっている。日系企業の人事担当は、離職者の再就職支援や社会保険手続きの運用変化を確認したい。",
+    "src": {
+     "t": "Vietnam+（VNA）「Number of unemployment insurance participants rises 10.54%」",
+     "url": "https://en.vietnamplus.vn/number-of-unemployment-insurance-participants-rises-1054-post355577.vnp",
+     "d": "2026-11-17"
+    }
+   },
+   {
+    "p": "T",
+    "title": "深圳で越中・大湾区の技術連携フォーラム開催",
+    "summary": "トー・ラム書記長兼国家主席が11月17日、中国・深圳で開かれたベトナムと中国・粤港澳大湾区（グレーターベイエリア）の技術・イノベーション連携フォーラムに出席し、科学技術と人材育成の協力強化を呼びかけた。同日、中国企業幹部との面会も行われた。",
+    "impact": "電子・EV部材などで中国企業の対越投資がさらに増える可能性があり、ベトナム北部で同分野のサプライチェーンに関わる日系企業は、競合・取引先の動向を注視したい。",
+    "src": {
+     "t": "Vietnam+（VNA）「Vietnam seeks science, technology cooperation with China's Greater Bay Area」",
+     "url": "https://en.vietnamplus.vn/vietnam-seeks-science-technology-cooperation-with-chinas-greater-bay-area-post355641.vnp",
+     "d": "2026-11-17"
+    }
+   }
+  ]
+ },
+ {
   "id": "2026-11-17",
   "date": "2026-11-17",
   "items": [
