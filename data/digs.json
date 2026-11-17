@@ -1,5 +1,115 @@
 [
  {
+  "id": "2026-11-17",
+  "date": "2026-11-17",
+  "tag": "金融（金利・預金）",
+  "title": "「預金金利7%」は高すぎか：物価を引けば約2%、日本は実質マイナス",
+  "hook": {
+   "value": "7%",
+   "label": "12か月預金の最高水準（2026年11月）"
+  },
+  "summary": "「ベトナムの預金金利が10%に迫る」という海外報道が出たが、店頭・オンラインで誰でも受けられる12か月預金の最高水準は年7%前後で、9%を超えるのは大口の譲渡性預金や個別交渉に限られる。しかも10月の消費者物価は前年比5.09%上がっており、物価を差し引いた実質の利回りは約2%にとどまる。政策金利で比べてもベトナム（4.5%）はインドネシア・フィリピンより低く、「金利が異常に高い国」とは言えない。",
+  "facts": [
+   "11月1日時点の調査で、店頭・オンライン預金の最高金利は1〜6か月物で年6.6%、12か月以上で年7%。多くの銀行の12か月物は7%未満で、6か月未満は上限の年4.75%（CafeF・2026年11月1日）",
+   "34行のオンライン金利調査では、12か月物で年7%を付けるのは5行、国有大手4行はそろって6.8%（要確認）。前月末と比べて引き上げた銀行はない（VnEconomy・2026年11月16日）",
+   "年9%を超える金利は、VPBankの譲渡性預金（1億ドン以上）やMBの譲渡性預金（10億ドン以上で最大9.4%）など、大口・条件付きの商品に限られる（CafeF・2026年11月1日／The Star・2026年10月27日）",
+   "国家銀行は10月18日付の文書で、6か月以上の預金金利を少なくとも年0.5%引き下げるよう銀行に求め、その後20行が6か月物を0.5ポイント下げた（The Star〔Viet Nam News〕・2026年10月27日）",
+   "10月の消費者物価は前年同月比5.09%上昇、1〜10月平均は4.57%上昇（ベトナム統計局・2026年11月3日）",
+   "政策金利は日本1.25%（9月に引き上げ）、タイ1.00%、マレーシア2.75%、インドネシア5.75%、フィリピン5.50%（10月に0.5ポイント引き上げ）。日本の9月の消費者物価は前年比2.1%上昇（各国中央銀行・報道、2026年9〜11月）"
+  ],
+  "compare": {
+   "title": "政策金利の水準（2026年11月17日時点）",
+   "unit": "%（年率）",
+   "labels": [
+    "ベトナム",
+    "日本",
+    "タイ",
+    "マレーシア",
+    "インドネシア",
+    "フィリピン"
+   ],
+   "values": [
+    4.5,
+    1.25,
+    1.0,
+    2.75,
+    5.75,
+    5.5
+   ],
+   "note": "ベトナムは国家銀行の再融資金利（2023年3月から4.5%で据え置き）。日本は無担保コール翌日物の誘導目標、タイは翌日物レポ金利、マレーシアはOPR、インドネシアはBIレート、フィリピンは翌日物リバースレポ金利。政策金利の仕組みは国ごとに異なり、ベトナムでは銀行間金利や預金金利が再融資金利から離れて動くことがある。",
+   "src": "各国中央銀行の発表（タイ中銀2026年10月28日、インドネシア中銀2026年10月21日、マレーシア中銀2026年11月5日）、日本・フィリピン・ベトナムは報道"
+  },
+  "view": [
+   "「預金金利10%近く」という見出しは、日本の感覚からすると驚きの数字だ。しかし中身を分けると、誰でも店頭やアプリで受けられる12か月預金は年7%前後が上限で、9%台は数億〜数十億ドン単位の大口や譲渡性預金の話になる。見出しの数字は「上限の中の上限」であり、ベトナムの預金者が一般に受け取っている利回りではない。",
+   "もう1つの読み違いは、名目と実質の混同だ。10月の物価上昇率は5.09%で、7%の預金でも物価を差し引けば実質の利回りは約2%（編集部試算）。日本は政策金利1.25%に対して物価が2.1%上がっており、実質ではマイナスになる。差は「ベトナムの金利が高い」ほど大きくはなく、むしろ「物価の高さに見合った金利」と読むほうが自然だ。政策金利で並べても、ベトナムの4.5%はインドネシア（5.75%）やフィリピン（5.50%）より低い。",
+   "それでも預金金利が11か月続けて上がってきたのは、貸出の伸びに預金が追いつきにくくなっているからだ。国家銀行が10月に引き下げを求めたことで、店頭金利は頭打ちになりつつあるが、大口・譲渡性預金ではなお高い金利が残っている。資金を集める競争が落ち着くかどうかが、年末から来年にかけての焦点になる。"
+  ],
+  "counter": "実質で約2%のプラス金利は、日本の実質マイナスと比べれば十分に魅力的だという見方もできる。株式市場から預金へ個人のお金が移っているとの報道もあり、高めの預金金利がドンの価値を支え、資金の流出を防いでいる面もある。逆に、預金金利の高止まりは貸出金利にも響くため、国家銀行の指導どおり金利が下がらなければ、借入に頼る中小企業や不動産の資金繰りが重くなるという見方もある。",
+  "impact": "日本企業・駐在員にとっては、現地法人の余剰資金をドン建て預金で運用すれば名目で年6〜7%台が得られるが、円で見た利回りはドンの為替の動きで大きく変わる点に注意したい。9%台の金利は大口・条件付き商品であり、比較は条件をそろえて行う。借入側では、預金金利の上昇が貸出金利に波及しやすく、国家銀行の引き下げ指導の効き方次第で運転資金のコストが変わる。投資家にとっては、預金への資金シフトが株式市場の売買を細らせる面と、銀行の利ざやへの影響の両方を見ておきたい。",
+  "sources": [
+   {
+    "t": "CafeF：Lãi suất đầu tháng 11/2026: Tiền gửi tiết kiệm đồng loạt hạ nhiệt",
+    "url": "https://cafef.vn/lai-suat-dau-thang-11-2026-tien-gui-tiet-kiem-dong-loat-ha-nhiet-chung-chi-tien-gui-dieu-chinh-nhe-188261030160856073.chn",
+    "d": "2026-11-01"
+   },
+   {
+    "t": "VnEconomy：Lãi suất tiết kiệm ngân hàng nào cao nhất tháng 11/2026?",
+    "url": "https://vneconomy.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-thang-112026.htm",
+    "d": "2026-11-16"
+   },
+   {
+    "t": "The Star（Viet Nam News/ANN）：Vietnam's certificate of deposit rates keep rising",
+    "url": "https://www.thestar.com.my/business/business-news/2026/10/27/vietnams-certificate-of-deposit-rates-keep-rising",
+    "d": "2026-10-27"
+   },
+   {
+    "t": "Bloomberg：Retail Crowd Dump Vietnam Stocks for Near 10% Bank-Deposit Rates",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-15/retail-crowd-dump-vietnam-stocks-for-near-10-bank-deposit-rates",
+    "d": "2026-11-15"
+   },
+   {
+    "t": "ベトナム統計局：CPI, Gold Price Index and US Dollar Price Index in October and ten months of 2026",
+    "url": "https://www.nso.gov.vn/en/data-and-statistics/2026/11/consumer-price-index-cpi-gold-price-index-and-us-dollar-price-index-in-october-and-ten-months-of-2026/",
+    "d": "2026-11-03"
+   },
+   {
+    "t": "Nhà Đầu Tư：UOB: NHNN sẽ duy trì ổn định lãi suất tái cấp vốn ở mức 4,5%",
+    "url": "https://nhadautu.vn/uob-nhnn-se-duy-tri-on-dinh-lai-suat-tai-cap-von-o-muc-45-d101754.html",
+    "d": "2026"
+   },
+   {
+    "t": "Bank of Thailand：Monetary Policy Committee's Decision 5/2026",
+    "url": "https://www.bot.or.th/en/news-and-media/news/mpc/news-20261028-5FWvBPSf.html",
+    "d": "2026-10-28"
+   },
+   {
+    "t": "Bank Indonesia：BI-Rate Tetap 5,75%",
+    "url": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823326.aspx",
+    "d": "2026-10-21"
+   },
+   {
+    "t": "Bank Negara Malaysia：Monetary Policy Statement",
+    "url": "https://www.bnm.gov.my/-/monetary-policy-statement-05112026",
+    "d": "2026-11-05"
+   },
+   {
+    "t": "Al Jazeera：Bank of Japan raises rates to 31-year high of 1.25%",
+    "url": "https://www.aljazeera.com/economy/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises",
+    "d": "2026-09-18"
+   },
+   {
+    "t": "Context.ph：BSP delivers 50-basis-point rate hike to 5.50%",
+    "url": "https://context.ph/2026/10/22/bsp-delivers-50-basis-point-rate-hike-to-5-50-to-tame-stubborn-inflation/",
+    "d": "2026-10-22"
+   },
+   {
+    "t": "investingLive：Japan September 2026 Headline CPI 2.1% y/y",
+    "url": "https://investinglive.com/news/japan-september-2026-headline-cpi-2-1-y-y-expected-2-1/",
+    "d": "2026-10-22"
+   }
+  ]
+ },
+ {
   "id": "2026-11-15",
   "date": "2026-11-15",
   "tag": "財政（税収）",
