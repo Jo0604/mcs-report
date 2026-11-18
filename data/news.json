@@ -1,5 +1,77 @@
 [
  {
+  "id": "2026-11-19",
+  "date": "2026-11-19",
+  "items": [
+   {
+    "p": "P",
+    "title": "ベトナム、国際調停機関設立条約に署名",
+    "summary": "レ・アイン・トゥアン外務次官が11月16日、北京で国家主席の代理として「国際調停機関（IOMed）設立条約」に署名した。条約がベトナムについて発効すれば、企業・投資家の紛争解決に調停という追加の手段が加わると、国営通信は伝えている。",
+    "impact": "ベトナムでの投資・取引をめぐる紛争で、仲裁や訴訟に加えて国際的な調停を選べるようになる可能性がある。発効時期と対象となる紛争の範囲は今後の確認が必要。",
+    "src": {
+     "t": "Vietnam+（VNA）「Vietnam joins Convention on Establishment of International Organisation for Mediation」",
+     "url": "https://en.vietnamplus.vn/vietnam-joins-convention-on-establishment-of-international-organisation-for-mediation-post355709.vnp",
+     "d": "2026-11-18"
+    }
+   },
+   {
+    "p": "S",
+    "title": "国会常務委、新型たばこ規制と臓器提供法案を審議",
+    "summary": "国会常務委員会は11月18日の第8回会合で、たばこ害防止法などの改正案を審議した。たばこ包装の健康警告表示の面積を現行の50%から引き上げる方向で、詳細は政令で定める。臓器・組織提供の法案では、生体ドナーの最低年齢を18歳から25歳に引き上げ、禁止行為を10項目から28項目に増やす案が示された。",
+    "impact": "法案段階のため内容は変わる可能性があるが、たばこを扱う日系の製造・流通企業は、包装デザインの変更や新型たばこ規制の行方を注視したい。",
+    "src": {
+     "t": "Vietnam+（VNA）「Tightening regulations on new tobacco products, organ and tissue donation, transplantation」",
+     "url": "https://en.vietnamplus.vn/tightening-regulations-on-new-tobacco-products-organ-and-tissue-donation-transplantation-post355711.vnp",
+     "d": "2026-11-18"
+    }
+   },
+   {
+    "p": "E",
+    "title": "ホーチミン市の銀行預金、1〜10月で前年比17.52%増",
+    "summary": "国家銀行第2地域支店によると、ホーチミン市の金融機関の預金残高は10月末で5900兆ドン超（約2240億ドル）、前年末比12.2%増、前年同期比17.52%増となった。貸出残高は5857兆ドンで前年末比12.5%増。外貨建て貸出は288兆ドンで、前年末比42%増えた（要確認）。",
+    "impact": "外貨建て貸出の伸びが大きく、南部では輸出企業などの外貨借入の需要が高まっている可能性がある。南部拠点の日系企業は、ドン建て・外貨建ての借入条件を比較しておきたい。",
+    "src": {
+     "t": "VnEconomy「HCM City's banking deposits and credit expand in first 10 months of 2026」",
+     "url": "https://en.vneconomy.vn/hcm-citys-banking-deposits-and-credit-expand-in-first-10-months-of-2026.htm",
+     "d": "2026-11-18"
+    }
+   },
+   {
+    "p": "E",
+    "title": "木材輸出、26年目標192億ドル　1〜10月は約150億ドル",
+    "summary": "木材・林産品業界は2026年の輸出目標を192億ドル（木製品180億ドル超、非木材林産品12億ドル）としている。ベトナム木材・林産品協会（VIFOREST）によると、1〜10月の輸出は約150億ドルで、うち約75億ドルが米国向けだった（要確認）。協会は輸入丸太由来の製材の輸出税などの撤廃を提案している。",
+    "impact": "輸出の約半分を米国が占めるため、米国の通商政策の変化が業界に響きやすい。家具・木材関連で調達や生産をする日系企業は、輸出税の見直しやVAT還付の状況を確認したい。",
+    "src": {
+     "t": "VnEconomy「Boosting wood exports to break through the $19.2 bln target」",
+     "url": "https://en.vneconomy.vn/boosting-wood-exports-to-break-through-the-192-bln-target.htm",
+     "d": "2026-11-18"
+    }
+   },
+   {
+    "p": "T",
+    "title": "財政省、企業のDX・GX成熟度診断ツールを公開",
+    "summary": "財政省はドイツ国際協力公社（GIZ）と11月17日、ハノイで企業のデジタル化とグリーン化の成熟度を診断する「ツイン成熟度評価ツール」を公開した。財政省決定2515/QD-BTCに基づき、企業情報ポータル上で使える。集めた評価データは、今後の中小企業支援策の根拠にする方針。",
+    "impact": "今後の中小企業支援策が、このツールでの評価結果と結びつけられる可能性がある。ベトナムの中小企業と取引する日系企業は、取引先の脱炭素・DX対応を確かめる参考にできる。",
+    "src": {
+     "t": "VIR「MoF launches tool to accelerate digital and green transformation」",
+     "url": "https://vir.com.vn/mof-launches-tool-to-accelerate-digital-and-green-transformation-165378.html",
+     "d": "2026-11-17"
+    }
+   },
+   {
+    "p": "T",
+    "title": "ハイフォン、工業用地466haをハイテク・新興企業向けに確保",
+    "summary": "ハイフォン経済区管理委員会によると、市内の工業団地で計465.89haをハイテク企業、中小企業、スタートアップ向けに確保する。国会決議198/2025/QH15の施行（2025年5月17日）以降に設立された工業団地では、工業用地2453ha超のうち262.28ha（10.7%）がこれらの企業向けとなる。",
+    "impact": "ハイフォンで中小規模のハイテク工場やR&D拠点を探す日系企業にとって、用地を確保しやすくなる可能性がある。対象企業の要件や賃料条件は各工業団地に確認したい。",
+    "src": {
+     "t": "VnEconomy「Hai Phong reserves 466ha of industrial land for high-tech and start-up businesses」",
+     "url": "https://en.vneconomy.vn/hai-phong-reserves-466ha-of-industrial-land-for-high-tech-and-start-up-businesses.htm",
+     "d": "2026-11-18"
+    }
+   }
+  ]
+ },
+ {
   "id": "2026-11-18",
   "date": "2026-11-18",
   "items": [
