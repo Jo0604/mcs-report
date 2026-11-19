@@ -1,5 +1,66 @@
 [
  {
+  "id": "2026-11-20",
+  "date": "2026-11-20",
+  "items": [
+   {
+    "p": "P",
+    "title": "国会、11月20日に投資法・税法改正などを採決予定",
+    "summary": "第16期国会第2回会期で、国会は11月20日に法律・決議の採決を行う予定。対象には中小企業発展法、投資法の一部改正、電力法の一部改正、法人所得税法・非農業用地使用税法・個人所得税法を一括で改正する法律、刑法改正などが含まれる。デリバティブ取引法案は審議のみの予定。",
+    "impact": "投資法と法人・個人所得税法の改正は、投資手続きや日系企業・駐在員の税負担に影響する可能性がある。可決後に公布される条文と施行日を確認したい。",
+    "src": {
+     "t": "VietnamPlus「Ngày 20/11, Quốc hội sẽ biểu quyết thông qua 11 luật」",
+     "url": "https://www.vietnamplus.vn/ngay-2011-quoc-hoi-se-bieu-quyet-thong-qua-11-luat-post1149507.vnp",
+     "d": "2026-11-20"
+    }
+   },
+   {
+    "p": "E",
+    "title": "国内金価格、2025年9月以来の安値に",
+    "summary": "11月18日、SJCブランドの金地金は売り・買いともに1テール（37.5g）あたり50万ドン下落し、売値は1億3720万ドン（約5216ドル）と2025年9月以来の低水準になった。国際金価格は1.3%超下落して1オンス約3798ドル。国内価格は国際価格を1テールあたり約1738万ドン上回っている（要確認）。",
+    "impact": "国内金価格と国際価格の差は依然大きく、金を保有する個人の資金動向や為替に影響する可能性がある。駐在員が現地で金を売買する場合は価格差に注意したい。",
+    "src": {
+     "t": "VnEconomy「Domestic gold prices fall to lowest level since September 2025」",
+     "url": "https://en.vneconomy.vn/domestic-gold-prices-fall-to-lowest-level-since-september-2025.htm",
+     "d": "2026-11-18"
+    }
+   },
+   {
+    "p": "E",
+    "title": "HSBC調査、越企業の94%が貿易拡大を予想",
+    "summary": "HSBCの「グローバル貿易調査2026」（11月16日公表）によると、ベトナム企業の94%が今後2年間に貿易が拡大すると予想し、世界平均の86%を上回った。コスト面の懸念は関税が52%（世界43%）で最多、エネルギーコストが49%（同44%）で続いた。99.6%が少なくとも1つのFTAを利用する一方、97%がFTA活用に障壁があると答えた（要確認）。",
+    "impact": "現地企業は関税を最大のコスト要因とみており、米国などの通商政策の影響を受けやすい可能性がある。ベトナムを輸出拠点とする日系企業は、原産地規則やFTA活用の体制を点検したい。",
+    "src": {
+     "t": "VnEconomy「Vietnamese businesses among world's most optimistic about trade prospects: HSBC」",
+     "url": "https://en.vneconomy.vn/vietnamese-businesses-among-worlds-most-optimistic-about-trade-prospects-hsbc.htm",
+     "d": "2026-11-19"
+    }
+   },
+   {
+    "p": "S",
+    "title": "UOB調査、越の消費者心理はASEAN最高の63点",
+    "summary": "UOBが11月18日に公表したASEAN消費者心理調査2026で、ベトナムの指数は63点とASEAN最高（地域平均54点）だったが、前年より4点低下した。生活費の上昇を懸念する人は62%（8ポイント増）、気候変動・災害・汚染への懸念は65%（前年61%）。支出が増えた項目は公共料金16%、教育・医療各15%など。",
+    "impact": "消費意欲は域内で高いものの、生活費への懸念は強まっている。消費財・小売の日系企業は、価格に敏感になりつつある層への対応を考える必要がある可能性がある。",
+    "src": {
+     "t": "Vietnam+（VNA）「Vietnamese consumers remain most optimistic in ASEAN: UOB」",
+     "url": "https://en.vietnamplus.vn/vietnamese-consumers-remain-most-optimistic-in-asean-uob-post355759.vnp",
+     "d": "2026-11-19"
+    }
+   },
+   {
+    "p": "T",
+    "title": "VINASA、2026年版デジタル技術企業マップを公表",
+    "summary": "ベトナムソフトウェア・ITサービス協会（VINASA）は11月18日、科学技術省の後援で「ベトナム・デジタル技術企業マップ2026」を公表した。11分野108のポジションを示し、33社に51の「トップ10」称号を授与した。230社が登録し、3段階で評価された。マップはtop10ict.comで公開され、今年からは通年でプロフィールを更新する。",
+    "impact": "現地のIT・AI企業を分野ごとに比べる参考資料として、日系企業がオフショア開発やDXの委託先を選ぶ際に使える可能性がある。",
+    "src": {
+     "t": "Vietnam+（VNA）「Vietnam launches 2026 digital technology enterprise map covering 11 sectors」",
+     "url": "https://en.vietnamplus.vn/vietnam-launches-2026-digital-technology-enterprise-map-covering-11-sectors-post355732.vnp",
+     "d": "2026-11-19"
+    }
+   }
+  ]
+ },
+ {
   "id": "2026-11-19",
   "date": "2026-11-19",
   "items": [
