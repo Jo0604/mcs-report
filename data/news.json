@@ -1,5 +1,77 @@
 [
  {
+  "id": "2026-11-21",
+  "date": "2026-11-21",
+  "items": [
+   {
+    "p": "P",
+    "title": "国会、投資法の一部改正法を可決",
+    "summary": "第16期国会は11月20日午後、投資法の一部改正法を可決した。法律や国会決議で定める市場参入条件について、政府が簡素な手続きで緩和できる仕組みを設け、投資優遇パッケージも政府が定める。",
+    "impact": "外資の市場参入条件が今後政令レベルで緩和される可能性がある。施行日と下位の政令を確認し、新規進出・事業追加の計画に反映したい。",
+    "src": {
+     "t": "LuatVietnam「Quốc hội thông qua Luật Đầu tư (sửa đổi) 2026」",
+     "url": "https://luatvietnam.vn/tin-van-ban-moi/quoc-hoi-thong-qua-luat-sua-doi-bo-sung-mot-so-dieu-cua-luat-dau-tu-186-115970-article.html",
+     "d": "2026-11-20"
+    }
+   },
+   {
+    "p": "E",
+    "title": "法人・個人所得税法など改正、中小企業に3年間の法人税免除",
+    "summary": "国会は11月20日、法人所得税法・非農業用地使用税法・個人所得税法の一部改正法を可決した（出席477人中475人賛成）。原則2027年1月1日施行。中小企業の法人税3年間免除、簡易課税の売上基準を30億ドンから100億ドンへ引き上げ、空き地への0.2%課税（2027年7月1日から）などを盛り込んだ。",
+    "impact": "サプライチェーン内の中小企業に研修・技術移転を行う大企業には追加の損金算入が認められ、日系製造業にも関係する可能性がある。2027年の税務計画で条文を確認したい。",
+    "src": {
+     "t": "LuatVietnam「Quốc hội thông qua Luật sửa đổi, bổ sung Luật Thuế TNDN, Luật Thuế TNCN」",
+     "url": "https://luatvietnam.vn/tin-van-ban-moi/quoc-hoi-thong-qua-luat-sua-doi-bo-sung-luat-thue-tndn-luat-thue-tncn-186-115973-article.html",
+     "d": "2026-11-20"
+    }
+   },
+   {
+    "p": "P",
+    "title": "国会、21日に28の法律・決議を採決し閉会へ",
+    "summary": "国会の発表によると、第16期国会第2回会期は11月21日に28の法律・決議を採決し、15時から閉会式を行う。対象には電力法、土地法、不動産事業法、住宅法、社会保険法、労働法関連、知的財産法、入札法、会計・独立監査法の改正などが含まれる。",
+    "impact": "土地・不動産・労働・社会保険など日系企業の実務に直結する法改正が一度に成立する見込み。可決後の条文と施行日を順次確認したい。",
+    "src": {
+     "t": "LuatVietnam「Ngày 21/11/2026, Quốc hội sẽ thông qua 28 luật, nghị quyết」",
+     "url": "https://luatvietnam.vn/tin-van-ban-moi/ngay-21-11-2026-quoc-hoi-se-thong-qua-28-luat-nghi-quyet-186-116002-article.html",
+     "d": "2026-11-20"
+    }
+   },
+   {
+    "p": "S",
+    "title": "医療関連6法の一括改正案、21日に採決予定",
+    "summary": "診療法、薬事法、医療保険法などを一括で改正する法案が11月21日午前に採決される予定。薬事法では手続き簡素化と事業条件の削減9項目、薬価管理の強化4項目、診療法では手続き簡素化など3項目が盛り込まれている。",
+    "impact": "医薬品・医療機器分野の日系企業にとって、許認可手続きの簡素化と薬価管理の強化の両面で影響が出る可能性がある。",
+    "src": {
+     "t": "VietnamPlus「Nội dung sửa đổi, bổ sung đối với Luật khám bệnh, chữa bệnh; Luật Dược; Luật Bảo hiểm Y tế」",
+     "url": "https://www.vietnamplus.vn/noi-dung-sua-doi-bo-sung-doi-voi-luat-kham-benh-chua-benh-luat-duoc-luat-bao-hiem-y-te-post1149710.vnp",
+     "d": "2026-11-20"
+    }
+   },
+   {
+    "p": "T",
+    "title": "EV充電設備の国家技術基準、2027年7月施行",
+    "summary": "商工省は9月末、電気自動車の充電ポール・充電ステーションに関する国家技術基準を定める通達を公布した。施行は2027年7月1日。公共エリア、駐車場、休憩施設が対象で、地下駐車場など建物内は対象外。電気安全、防火、事故時の電源遮断などを求める。",
+    "impact": "充電設備の製造・設置や商業施設・工業団地での導入を計画する企業は、基準への適合を前提に設計する必要がある。",
+    "src": {
+     "t": "VOH「Trạm tin sáng 21/11: Áp dụng quy chuẩn mới về trạm sạc xe điện」",
+     "url": "https://voh.com.vn/thoi-su/tram-tin-sang-2111-ap-dung-quy-chuan-moi-ve-tram-sac-xe-dien-khai-mac-le-hoi-nhiep-anh-quoc-te-tphcm-2026-681476.html",
+     "d": "2026-11-21"
+    }
+   },
+   {
+    "p": "T",
+    "title": "電力需要、2026〜30年は年11〜12%増が必要",
+    "summary": "2桁成長に向け、2026〜2030年の商業用電力需要は年11〜12%の伸びが必要とされる（従来は年約5.8%）。EVNは同期間に約830兆ドンの投資を計画し、15の主要発電案件（6000MW超）、2000MWの蓄電池、220〜500kV送電網約300件の稼働を予定する（要確認）。",
+    "impact": "北部を中心に電力供給の安定性は工場立地の重要な判断材料。蓄電・送電投資は日系の機器・エンジニアリング企業に商機となる可能性がある。",
+    "src": {
+     "t": "VTV「Đảm bảo nguồn điện cho tăng trưởng hai con số」",
+     "url": "https://vtv.vn/dam-bao-nguon-dien-cho-tang-truong-hai-con-so-100261120150550709.htm",
+     "d": "2026-11-20"
+    }
+   }
+  ]
+ },
+ {
   "id": "2026-11-20",
   "date": "2026-11-20",
   "items": [
