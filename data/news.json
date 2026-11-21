@@ -1,5 +1,77 @@
 [
  {
+  "id": "2026-11-22",
+  "date": "2026-11-22",
+  "items": [
+   {
+    "p": "P",
+    "title": "第16期国会第2回会期が閉会、38法・18決議を可決",
+    "summary": "国会は11月21日、第2回会期を閉会した。会期中に38の法律と18の決議を可決し、5法案を初審議した。最終日は社会保険法、労働安全衛生法、入札法、知的財産法、会計・独立監査法の改正などを採決した。",
+    "impact": "労務・入札・会計など実務に直結する改正が多い。各法の施行日と下位の政令・通達を確認し、社内規程の見直し時期を計画したい。",
+    "src": {
+     "t": "VietnamPlus「Kỳ họp thứ 2, Quốc hội khóa XVI: Khối lượng công việc lớn, thể hiện quyết tâm cao」",
+     "url": "https://www.vietnamplus.vn/ky-hop-thu-2-quoc-hoi-khoa-xvi-khoi-luong-cong-viec-lon-the-hien-quyet-tam-cao-post1149919.vnp",
+     "d": "2026-11-22"
+    }
+   },
+   {
+    "p": "E",
+    "title": "国会、土地法・不動産事業法・住宅法の改正を可決",
+    "summary": "国会は11月21日午前、土地法（賛成466）、不動産事業法（同471）、住宅法（同467）の改正をそれぞれ可決した。住宅法では社会住宅の5年後の転売ルールが厳格化される。",
+    "impact": "工業団地・オフィス・住宅の取得や賃貸の手続きが変わる可能性がある。施行日と土地関連の政令を確認したい。",
+    "src": {
+     "t": "VietnamPlus「Thông cáo báo chí số 27, Kỳ họp thứ 2, Quốc hội khóa XVI」",
+     "url": "https://www.vietnamplus.vn/thong-cao-bao-chi-so-27-ky-hop-thu-2-quoc-hoi-khoa-xvi-post1149881.vnp",
+     "d": "2026-11-21"
+    }
+   },
+   {
+    "p": "E",
+    "title": "2027年のGDP成長率目標は10%以上",
+    "summary": "国会は2027年の経済成長目標を10%以上とした。2026年1〜9月のGDP成長率は前年同期比9.01%、1〜9月のFDI実行額は211億ドル（12.1%増）、1〜10月の貿易総額は初めて1兆ドルを超えた。",
+    "impact": "高成長目標の下、公共投資やインフラ整備の加速が続く可能性がある。一方、物価や為替の動きにも注意したい。",
+    "src": {
+     "t": "VietnamPlus「Mục tiêu tăng trưởng hai con số gắn với hiệu quả thực chất」",
+     "url": "https://www.vietnamplus.vn/muc-tieu-tang-truong-hai-con-so-gan-voi-hieu-qua-thuc-chat-post1149874.vnp",
+     "d": "2026-11-21"
+    }
+   },
+   {
+    "p": "E",
+    "title": "休眠企業の営業許可税滞納・延滞金を免除する決議",
+    "summary": "国会は11月21日、営業許可税（lệ phí môn bài）の滞納と延滞金を免除する決議を可決した（賛成453）。草案では、事業を停止したが税コードが残る納税者などが税コードを閉じる際、2025年末までの滞納分と延滞金を免除するとしていた（要確認）。",
+    "impact": "休眠中の子会社や支店・拠点の税コード整理を進めやすくなる可能性がある。対象条件と申請期限を確認したい。",
+    "src": {
+     "t": "VietnamPlus「Thông cáo báo chí số 27」／VCCI「Từ 21/11, đóng mã số thuế có thể được xóa nợ lệ phí môn bài」",
+     "url": "https://www.vietnamplus.vn/thong-cao-bao-chi-so-27-ky-hop-thu-2-quoc-hoi-khoa-xvi-post1149881.vnp",
+     "d": "2026-11-21"
+    }
+   },
+   {
+    "p": "S",
+    "title": "11月24日「ベトナム文化の日」、初の有給休日に",
+    "summary": "国会が2026年4月に可決した文化発展決議（7月1日施行）により、毎年11月24日は労働者が休み、全額の賃金を受ける日となった。今年は24日（火）が初の適用日となる。",
+    "impact": "日系企業も24日を有給休日として扱う必要がある。休日出勤の割増賃金や生産・納期の調整を確認したい。",
+    "src": {
+     "t": "Nhân Dân「Người lao động chính thức có thêm một ngày nghỉ lễ được hưởng nguyên lương vào 24/11」",
+     "url": "https://nhandan.vn/nguoi-lao-dong-chinh-thuc-co-them-mot-ngay-nghi-le-duoc-huong-nguyen-luong-vao-2411-post958053.html",
+     "d": "2026-04-24"
+    }
+   },
+   {
+    "p": "T",
+    "title": "国会、高速道路3路線の投資方針を承認",
+    "summary": "国会は11月21日、バオハー〜ライチャウ、クアンガイ〜コントゥム、モクチャウ〜ソンラ〜ディエンビエン（ソンラ区間）の3高速道路の投資方針を承認した。総延長は430km超、総投資額は約162兆ドン。",
+    "impact": "北西部・中部高原の物流改善につながる可能性がある。建設関連の受注機会や沿線の工業用地の動きに注目したい。",
+    "src": {
+     "t": "VietnamPlus「Thông cáo báo chí số 27, Kỳ họp thứ 2, Quốc hội khóa XVI」",
+     "url": "https://www.vietnamplus.vn/thong-cao-bao-chi-so-27-ky-hop-thu-2-quoc-hoi-khoa-xvi-post1149881.vnp",
+     "d": "2026-11-21"
+    }
+   }
+  ]
+ },
+ {
   "id": "2026-11-21",
   "date": "2026-11-21",
   "items": [
