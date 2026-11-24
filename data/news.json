@@ -1,5 +1,66 @@
 [
  {
+  "id": "2026-11-25",
+  "date": "2026-11-25",
+  "items": [
+   {
+    "p": "P",
+    "title": "鉱物分野の行政違反処罰で新政令　2027年1月施行",
+    "summary": "政府は鉱物分野の行政違反処罰に関する政令419/2026/NĐ-CPを11月23日付で公布した。1件あたりの罰金上限は個人10億ドン、組織20億ドン（個人の2倍）で、無許可採掘は鉱物価値に応じて段階的に罰金を科し、1〜12か月の操業停止や許可の効力取消などの付加処分も定める。施行は2027年1月15日。",
+    "impact": "鉱物資源を扱う、または工事で掘削・整地を行う日系企業は、国家鉱物保留区域内の報告義務などを確認し、社内手順を見直す必要がある可能性がある。",
+    "src": {
+     "t": "政府電子新聞（baochinhphu.vn）「Quy định mới về xử phạt vi phạm hành chính trong lĩnh vực khoáng sản」",
+     "url": "https://baochinhphu.vn/quy-dinh-moi-ve-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-khoang-san-10226112420083673.htm",
+     "d": "2026-11-24"
+    }
+   },
+   {
+    "p": "P",
+    "title": "11月28日にハノイでCLMV・ACMECS首脳会議",
+    "summary": "ベトナムは2026年のCLMV（カンボジア・ラオス・ミャンマー・ベトナム）協力議長国として、11月28日にハノイで第12回CLMV首脳会議を開く。同日、議長国ミャンマーと共同で第11回ACMECS（エーヤワディー・チャオプラヤー・メコン経済協力戦略）首脳会議も開催し、タイ首相やASEAN事務総長らが出席する予定。",
+    "impact": "メコン地域の連結性や越境物流に関する協力方針が示される可能性があり、域内サプライチェーンを持つ企業は成果文書を確認したい。会期中はハノイ中心部で交通規制が行われる可能性がある。",
+    "src": {
+     "t": "政府電子新聞（baochinhphu.vn）「Việt Nam sẽ tổ chức Hội nghị cấp cao CLMV lần thứ 12, Hội nghị cấp cao ACMECS lần thứ 11」",
+     "url": "https://baochinhphu.vn/viet-nam-se-to-chuc-hoi-nghi-cap-cao-clmv-lan-thu-12-hoi-nghi-cap-cao-acmecs-lan-thu-11-102261124212351323.htm",
+     "d": "2026-11-24"
+    }
+   },
+   {
+    "p": "E",
+    "title": "ハイフォン・ラックフェン港9〜12号バースが着工",
+    "summary": "ハイフォン市のラックフェン港で11月23日午後、9〜12号バースの建設が着工した。総投資額は24兆8,450億ドン（要確認）で、投資主体はスアンカウ社とシンガポールのPSAインターナショナルの合弁会社。一方、港湾の取扱量増加に伴い国道5号などの接続交通の過負荷も指摘されている。",
+    "impact": "北部の大型コンテナ船の受け入れ能力が高まり、北部に工場を持つ日系企業の輸出入の選択肢が広がる可能性がある。完成までは港湾周辺の陸上輸送の混雑に注意が必要。",
+    "src": {
+     "t": "Báo Tin tức（TTXVN）「Điểm tin kinh tế Việt Nam nổi bật ngày 24/11/2026」",
+     "url": "https://baotintuc.vn/diem-tin-kinh-te-viet-nam-noi-bat-ngay-24112026-post1405643.html",
+     "d": "2026-11-24"
+    }
+   },
+   {
+    "p": "S",
+    "title": "ハノイ・ドンダー坊の飲食店で爆発、6人死亡",
+    "summary": "11月24日午前8時ごろ、ハノイ市ドンダー坊グエンヴァントゥエット通りの飲食店で爆発があり、同日13時時点で死者6人、治療中10人となった。原因は調査中。政府は公電75/CĐ-TTgで救助・負傷者治療に加え、2027年テト（旧正月）まで全国で火災・爆発の安全対策を強化するよう指示した。",
+    "impact": "年末からテトにかけて、飲食店やオフィス・集合住宅で消防・ガス設備の点検が強化される可能性がある。駐在員は自宅や事業所のガス器具・避難経路を確認しておきたい。",
+    "src": {
+     "t": "政府電子新聞（baochinhphu.vn）「Thủ tướng tới bệnh viện, thăm các nạn nhân trong vụ nổ tại Hà Nội」",
+     "url": "https://baochinhphu.vn/thu-tuong-le-minh-hung-toi-benh-vien-tham-cac-nan-nhan-trong-vu-no-tai-ha-noi-102261124174815046.htm",
+     "d": "2026-11-24"
+    }
+   },
+   {
+    "p": "T",
+    "title": "商工・建設分野の重点事業指導委員会、運営規則を制定",
+    "summary": "商工・建設分野の国家重点事業指導委員会は、決定210/QĐ-BCĐCTTĐQGで運営規則を定めた。委員会はテーマ別会合を3か月ごと、総括会合を6か月ごとに開き、事業主は毎月25日に進捗を報告する。事務局は商工省と建設省に置く。",
+    "impact": "電力・交通などの国家重点事業で進捗管理が定例化され、関連工事を受注・納入する日系企業には報告対応や工程管理の厳格化が求められる可能性がある。",
+    "src": {
+     "t": "政府電子新聞（baochinhphu.vn）「Quy chế hoạt động của Ban Chỉ đạo các công trình trọng điểm lĩnh vực Công Thương và Xây dựng」",
+     "url": "https://baochinhphu.vn/quy-che-hoat-dong-cua-ban-chi-dao-cac-cong-trinh-trong-diem-linh-vuc-cong-thuong-va-xay-dung-102261124164644306.htm",
+     "d": "2026-11-24"
+    }
+   }
+  ]
+ },
+ {
   "id": "2026-11-24",
   "date": "2026-11-24",
   "items": [
