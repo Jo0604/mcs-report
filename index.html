@@ -172,6 +172,12 @@ body::before{content:"";display:block;height:4px;margin-inline:calc(-1 * max(16p
 footer.site{margin-top:14px !important}
 .fl{display:flex;align-items:center;flex-wrap:wrap}
 .navcard{position:relative}
+.st-item{padding:12px 0;border-top:1px dashed var(--line)}
+.st-item>.st-cat{display:inline-block;margin-bottom:4px}
+.st-item:first-of-type{border-top:none}
+.st-cat{font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;background:var(--gold-soft);color:var(--navy);white-space:nowrap;height:fit-content}
+.st-item p{margin:4px 0 0}
+.st-item .imp{margin-top:6px}
 .hot{position:absolute;top:12px;right:12px;font-size:11px;font-weight:700;letter-spacing:.06em;padding:2px 9px;border-radius:999px;background:#DA251D;color:#fff}
 .daily{font-size:10.5px;font-weight:700;padding:1px 7px;border-radius:999px;border:1px solid var(--gold);color:var(--gold);margin-left:6px;vertical-align:1px}
 .ai{display:inline-block;font-size:10.5px;padding:1px 8px;border-radius:999px;border:1px solid var(--line);color:var(--muted)}
@@ -278,6 +284,15 @@ footer.site{margin-top:56px;padding-top:16px;border-top:1px solid var(--line);fo
         <div class="card editor-card" style="margin-top:12px"><div class="editor-mark" aria-hidden="true">編</div>
           <div><b>編集長（ハノイ在住）</b><p style="margin:6px 0 0;max-width:68ch">ベトナム・ハノイに住んで約10年。さまざまなビジネスのお手伝いやコンサルティングを行ってきました。伴走型のコンサルティングとして、多くのお客様にご利用いただいています。このサイトでは、統計の数字を現地の目で読み直し、楽観論にも悲観論にも寄らない見方をお届けします。</p>
           <div class="copybar"><a class="btn" href="#contact">編集長に相談する</a></div></div></div></section>
+    </section>
+
+    <!-- 三面記事 -->
+    <section class="page" id="p-street" hidden>
+      <div class="eyebrow"><svg class="non" aria-hidden="true"><use href="#i-non"/></svg>STREET NEWS</div>
+      <h1>ベトナム三面記事<span class="daily">火・木更新</span></h1>
+      <p class="sub">事件・取り締まり、芸能、流行、旅行、日本との話題など、出張者・駐在員が「つい気になる」ベトナムの話題を週2回。各記事に「駐在員・出張者のチェックポイント」を添えています。<span class="ai">AI作成</span></p>
+      <div class="cats" id="streetCats" role="group" aria-label="ジャンルで絞り込む"></div>
+      <div id="street"></div>
     </section>
 
     <!-- 基本情報 -->
@@ -452,6 +467,7 @@ const MAP = {"W": 520, "H": 600, "shapes": {"VN": "M101.4,512.8L102,514.6L101.7,
 const PROV = [{"k": "ha-noi", "ja": "ハノイ", "vn": "Hà Nội", "rg": "北部", "type": "中央直轄市", "merged": [], "center": "", "note": "首都。政治・行政の中心。日本人居住者はキンマー、ドイカン、タイホー周辺に多い。北部の日系製造業はタンロン工業団地（ドンアイン）などに集まる。", "links": [["ハノイ市 公式ポータル", "https://hanoi.gov.vn/"]], "key": true}, {"k": "bac-ninh", "ja": "バクニン", "vn": "Bắc Ninh", "rg": "北部", "type": "省", "merged": ["Bắc Ninh", "Bắc Giang"], "center": "旧バクザン", "note": "旧バクザン省と統合。サムスン電子の工場を核にした電子部品の一大集積地で、ハノイ北東に隣接する。", "links": [["バクニン省 公式ポータル", "https://bacninh.gov.vn/"]], "key": true}, {"k": "quang-ninh", "ja": "クアンニン", "vn": "Quảng Ninh", "rg": "北部", "type": "省", "merged": [], "center": "", "note": "ハロン湾を抱える観光地で、中国と国境を接する。統合の対象外。", "links": [["クアンニン省 公式ポータル", "https://www.quangninh.gov.vn/"]], "key": true}, {"k": "hai-phong", "ja": "ハイフォン", "vn": "Hải Phòng", "rg": "北部", "type": "中央直轄市", "merged": ["Hải Phòng", "Hải Dương"], "center": "", "note": "旧ハイズオン省と統合。北部最大の港湾都市で、ラックフェン国際港を持つ。LGなど大型の外資製造業が立地。", "links": [["ハイフォン市 公式ポータル", "https://haiphong.gov.vn/"]], "key": true}, {"k": "hung-yen", "ja": "フンイエン", "vn": "Hưng Yên", "rg": "北部", "type": "省", "merged": ["Hưng Yên", "Thái Bình"], "center": "", "note": "旧タイビン省と統合。ハノイ東隣で、日系中小製造業の受け皿になってきたタンロン工業団地IIがある。", "links": [], "key": true}, {"k": "ninh-binh", "ja": "ニンビン", "vn": "Ninh Bình", "rg": "北部", "type": "省", "merged": ["Ninh Bình", "Nam Định", "Hà Nam"], "center": "", "note": "旧ナムディン・ハナム両省と統合。チャンアンなどの景勝地で知られる。", "links": [], "key": false}, {"k": "cao-bang", "ja": "カオバン", "vn": "Cao Bằng", "rg": "北部", "type": "省", "merged": [], "center": "", "note": "", "links": [], "key": false}, {"k": "tuyen-quang", "ja": "トゥエンクアン", "vn": "Tuyên Quang", "rg": "北部", "type": "省", "merged": ["Tuyên Quang", "Hà Giang"], "center": "", "note": "", "links": [], "key": false}, {"k": "lao-cai", "ja": "ラオカイ", "vn": "Lào Cai", "rg": "北部", "type": "省", "merged": ["Lào Cai", "Yên Bái"], "center": "旧イエンバイ", "note": "サパを含む山岳観光地。中国雲南省と国境を接する。", "links": [], "key": false}, {"k": "thai-nguyen", "ja": "タイグエン", "vn": "Thái Nguyên", "rg": "北部", "type": "省", "merged": ["Thái Nguyên", "Bắc Kạn"], "center": "", "note": "サムスンのスマートフォン工場が立地する。", "links": [], "key": true}, {"k": "lang-son", "ja": "ランソン", "vn": "Lạng Sơn", "rg": "北部", "type": "省", "merged": [], "center": "", "note": "中国との主要な陸路の玄関口。", "links": [], "key": false}, {"k": "phu-tho", "ja": "フート", "vn": "Phú Thọ", "rg": "北部", "type": "省", "merged": ["Phú Thọ", "Vĩnh Phúc", "Hòa Bình"], "center": "", "note": "旧ヴィンフック・ホアビン両省と統合。旧ヴィンフックにはトヨタ、ホンダの工場がある。", "links": [], "key": true}, {"k": "dien-bien", "ja": "ディエンビエン", "vn": "Điện Biên", "rg": "北部", "type": "省", "merged": [], "center": "", "note": "", "links": [], "key": false}, {"k": "lai-chau", "ja": "ライチャウ", "vn": "Lai Châu", "rg": "北部", "type": "省", "merged": [], "center": "", "note": "", "links": [], "key": false}, {"k": "son-la", "ja": "ソンラ", "vn": "Sơn La", "rg": "北部", "type": "省", "merged": [], "center": "", "note": "", "links": [], "key": false}, {"k": "thanh-hoa", "ja": "タインホア", "vn": "Thanh Hóa", "rg": "中部", "type": "省", "merged": [], "center": "", "note": "", "links": [], "key": false}, {"k": "nghe-an", "ja": "ゲアン", "vn": "Nghệ An", "rg": "中部", "type": "省", "merged": [], "center": "", "note": "", "links": [], "key": false}, {"k": "ha-tinh", "ja": "ハティン", "vn": "Hà Tĩnh", "rg": "中部", "type": "省", "merged": [], "center": "", "note": "", "links": [], "key": false}, {"k": "quang-tri", "ja": "クアンチ", "vn": "Quảng Trị", "rg": "中部", "type": "省", "merged": ["Quảng Trị", "Quảng Bình"], "center": "旧クアンビン", "note": "", "links": [], "key": false}, {"k": "hue", "ja": "フエ", "vn": "Huế", "rg": "中部", "type": "中央直轄市", "merged": [], "center": "", "note": "グエン朝の都が置かれた古都。統合の対象外。", "links": [], "key": true}, {"k": "da-nang", "ja": "ダナン", "vn": "Đà Nẵng", "rg": "中部", "type": "中央直轄市", "merged": ["Đà Nẵng", "Quảng Nam"], "center": "", "note": "旧クアンナム省と統合し、ホイアンも市域に入った。中部の中心都市で、観光とIT開発の拠点。", "links": [["ダナン市 公式ポータル", "https://danang.gov.vn/"]], "key": true}, {"k": "quang-ngai", "ja": "クアンガイ", "vn": "Quảng Ngãi", "rg": "中部", "type": "省", "merged": ["Quảng Ngãi", "Kon Tum"], "center": "", "note": "", "links": [], "key": false}, {"k": "khanh-hoa", "ja": "カインホア", "vn": "Khánh Hòa", "rg": "中部", "type": "省", "merged": ["Khánh Hòa", "Ninh Thuận"], "center": "", "note": "ニャチャン、カムランを含む。旧ニントゥアン省と統合。", "links": [], "key": true}, {"k": "gia-lai", "ja": "ザライ", "vn": "Gia Lai", "rg": "中部", "type": "省", "merged": ["Gia Lai", "Bình Định"], "center": "旧ビンディン", "note": "", "links": [], "key": false}, {"k": "dak-lak", "ja": "ダクラク", "vn": "Đắk Lắk", "rg": "中部", "type": "省", "merged": ["Đắk Lắk", "Phú Yên"], "center": "", "note": "コーヒー産地として知られる中部高原の省。", "links": [], "key": false}, {"k": "lam-dong", "ja": "ラムドン", "vn": "Lâm Đồng", "rg": "中部", "type": "省", "merged": ["Lâm Đồng", "Đắk Nông", "Bình Thuận"], "center": "", "note": "高原都市ダラットを含む。", "links": [], "key": false}, {"k": "tay-ninh", "ja": "タイニン", "vn": "Tây Ninh", "rg": "南部", "type": "省", "merged": ["Tây Ninh", "Long An"], "center": "旧ロンアン", "note": "旧ロンアン省と統合。ホーチミン西隣の工業団地が多い地域を含む。", "links": [], "key": true}, {"k": "dong-nai", "ja": "ドンナイ", "vn": "Đồng Nai", "rg": "南部", "type": "省", "merged": ["Đồng Nai", "Bình Phước"], "center": "", "note": "ホーチミン東隣の工業集積地。ロンタイン国際空港の建設地。", "links": [], "key": true}, {"k": "ho-chi-minh", "ja": "ホーチミン", "vn": "Hồ Chí Minh", "rg": "南部", "type": "中央直轄市", "merged": ["Hồ Chí Minh", "Bình Dương", "Bà Rịa - Vũng Tàu"], "center": "", "note": "旧ビンズオン・バリアブンタウ両省と統合し、国内最大の経済圏に。工業団地（旧ビンズオン）と深水港（旧バリアブンタウ）を市域に持つ。", "links": [["ホーチミン市 公式ポータル", "https://hochiminhcity.gov.vn/"]], "key": true}, {"k": "vinh-long", "ja": "ヴィンロン", "vn": "Vĩnh Long", "rg": "南部", "type": "省", "merged": ["Vĩnh Long", "Bến Tre", "Trà Vinh"], "center": "", "note": "", "links": [], "key": false}, {"k": "dong-thap", "ja": "ドンタップ", "vn": "Đồng Tháp", "rg": "南部", "type": "省", "merged": ["Đồng Tháp", "Tiền Giang"], "center": "旧ティエンザン", "note": "", "links": [], "key": false}, {"k": "an-giang", "ja": "アンザン", "vn": "An Giang", "rg": "南部", "type": "省", "merged": ["An Giang", "Kiên Giang"], "center": "旧キエンザン", "note": "フーコック島を含む。", "links": [], "key": false}, {"k": "can-tho", "ja": "カントー", "vn": "Cần Thơ", "rg": "南部", "type": "中央直轄市", "merged": ["Cần Thơ", "Hậu Giang", "Sóc Trăng"], "center": "", "note": "メコンデルタの中心都市。", "links": [["カントー市 公式ポータル", "https://cantho.gov.vn/"]], "key": true}, {"k": "ca-mau", "ja": "カマウ", "vn": "Cà Mau", "rg": "南部", "type": "省", "merged": ["Cà Mau", "Bạc Liêu"], "center": "", "note": "", "links": [], "key": false}];                // 34省・市の情報
 let POSTS = [];   // /data/ のJSONから読み込む
 let DIGS = [];   // /data/ のJSONから読み込む
+let STREET = [];   // 三面記事 /data/street.json
 let NEWS = [];   // /data/ のJSONから読み込む
 
 const BASICS = [
@@ -530,7 +546,7 @@ let isMember = SITE.member, canPreview = false;
 
 /* ============ タブ ============ */
 const PAGES = [
-  ["home","ホーム"],["basics","基本情報"],["map","地図"],["numbers","数字で読む"],["news","デイリーニュース"],["explore","現地探訪"],
+  ["home","ホーム"],["street","三面記事"],["basics","基本情報"],["map","地図"],["numbers","数字で読む"],["news","デイリーニュース"],["explore","現地探訪"],
   ["community","駐在員の投稿"],["report","月次レポート",1],["library","資料",1],["contact","ご相談・会員登録"]];
 for(let i=PAGES.length-1;i>=0;i--){ if(SITE.features[PAGES[i][0]]===false){ const sec=$("#p-"+PAGES[i][0]); if(sec) sec.remove(); PAGES.splice(i,1);} }
 $("#tabs").innerHTML = PAGES.map(([k,l,m])=>`<li><a href="#${k}" data-k="${k}">${esc(l)}${m?'<span class="lockmark" title="本文は会員向け">●会員</span>':''}</a></li>`).join("");
@@ -549,6 +565,7 @@ document.querySelectorAll("[data-reg]").forEach(a=>a.addEventListener("click",e=
 
 /* ============ ホーム ============ */
 $("#homeCards").innerHTML = [
+  ["street","STREET NEWS","ベトナム三面記事","事件・取り締まり、芸能、流行、旅行。気になる話題を週2回。","新着"],
   ["basics","BASICS","ベトナム基本情報","人口・GDP・所得区分・2025年の省再編まで。"],
   ["map","MAP","地図で見る34省・市","カーソルを合わせると各地の概要とリンク。"],
   ["numbers","NUMBERS","数字で読むベトナム","毎日のニュースを数字で深掘り。日本・ASEAN・世界と比較。","人気"],
@@ -559,8 +576,8 @@ $("#homeCards").innerHTML = [
   ["contact","CONTACT","視察・進出・物件のご相談","フォームから。担当者がメールでご連絡します。"]
 ].filter(c=>SITE.features[c[0]]!==false).map(([k,e,t,d,hot])=>`<a class="card navcard" href="#${k}">${hot?`<span class="hot">${hot}</span>`:""}<div class="k">${e}</div><b>${t}</b><p>${d}</p></a>`).join("");
 function renderHomeToday(){
-  const d=DIGS[0], n=SITE.features.news===false?null:NEWS[0]; const el=$("#homeToday"); if(!d&&!n){ el.innerHTML=`<p class="src">毎日の更新は近日開始します。</p>`; return; }
-  el.innerHTML = `<div class="today">${d?`<a class="card navcard" href="#numbers"><div class="k">DEEP DIVE　${esc(d.date)}</div><b>${esc(d.title)}</b><p><span style="font-family:var(--f-display);font-size:20px;color:var(--navy)">${esc(d.hook.value)}</span>　${esc(d.hook.label)}</p></a>`:""}
+  const d=DIGS[0], n=SITE.features.news===false?null:NEWS[0], st=SITE.features.street===false?null:STREET[0]; const el=$("#homeToday"); if(!d&&!n&&!st){ el.innerHTML=`<p class="src">毎日の更新は近日開始します。</p>`; return; }
+  el.innerHTML = `<div class="today">${st?`<a class="card navcard" href="#street"><span class="hot">新着</span><div class="k">STREET NEWS　${esc(st.date)}</div><b>${esc(st.items[0].title)}</b><p>${st.items.slice(1,4).map(i=>`<span class="st-cat" style="font-size:10px;padding:1px 6px;margin-right:4px">${esc(i.cat)}</span>${esc(i.title)}`).join("<br>")}</p></a>`:""}${d?`<a class="card navcard" href="#numbers"><div class="k">DEEP DIVE　${esc(d.date)}</div><b>${esc(d.title)}</b><p><span style="font-family:var(--f-display);font-size:20px;color:var(--navy)">${esc(d.hook.value)}</span>　${esc(d.hook.label)}</p></a>`:""}
     ${n?`<a class="card navcard" href="#news"><div class="k">DAILY NEWS　${esc(n.date)}</div><b>今日のデイリーニュース（${n.items.length}本）</b><p>${n.items.slice(0,3).map(i=>`<span class="pl ${esc(i.p)}" style="display:inline-grid;width:18px;height:18px;font-size:10px;margin-right:4px;vertical-align:-3px">${esc(i.p)}</span>${esc(i.title)}`).join("<br>")}</p></a>`:""}</div>`;
 }
 function renderHomeLatest(){
@@ -766,6 +783,24 @@ function renderNews(){
 }
 if(document.querySelector("#pestCats")) $("#pestCats").addEventListener("click",e=>{ const b=e.target.closest("[data-p]"); if(!b) return; pestSel=b.dataset.p; renderNews(); });
 
+/* ============ 三面記事（火・木） ============ */
+const ST_CATS=["事件・取り締まり","芸能・有名人","トレンド","旅行・おでかけ","日本とベトナム","暮らし"];
+let stSel="all", stShow=8;
+function renderStreet(){
+  const el=$("#street"); if(!el) return;
+  $("#streetCats").innerHTML=[["all","すべて"],...ST_CATS.map(c=>[c,c])].map(([k,l])=>`<button class="chip" type="button" aria-pressed="${k===stSel}" data-st="${esc(k)}">${esc(l)}</button>`).join("");
+  if(!STREET.length){ el.innerHTML=`<div class="notice" style="margin-top:14px">第1回を準備中です。毎週火曜・木曜の昼ごろに更新します。</div>`; return; }
+  el.innerHTML = STREET.slice(0,stShow).map(n=>{ const items=n.items.filter(i=>stSel==="all"||i.cat===stSel); if(!items.length) return "";
+    return `<article class="card pest-day"><div class="bhead" style="border:none;padding:0"><h3>${esc(n.date)}</h3><button class="btn" type="button" data-stcopy="${esc(n.id)}">この日をコピー</button></div>
+      ${items.map(i=>`<div class="st-item"><span class="st-cat">${esc(i.cat)}</span><div><b>${esc(i.title)}</b><p>${esc(i.body)}</p>${i.point?`<div class="imp">駐在員・出張者のチェックポイント：${esc(i.point)}</div>`:""}
+        <div class="src" style="margin-top:4px">出典：${i.src&&i.src.url?`<a href="${esc(i.src.url)}" target="_blank" rel="noopener">${esc(i.src.t)}</a>`:esc(i.src?i.src.t:"")}（${esc(i.src?i.src.d:"")}）</div></div></div>`).join("")}</article>`; }).join("")
+    + (STREET.length>stShow?`<div class="copybar"><button class="btn" type="button" id="moreStreet">さらに過去を表示</button></div>`:"");
+  const m=$("#moreStreet"); if(m) m.addEventListener("click",()=>{ stShow+=8; renderStreet(); });
+  el.querySelectorAll("[data-stcopy]").forEach(b=>b.addEventListener("click",()=>{ const n=STREET.find(x=>x.id===b.dataset.stcopy);
+    copy(`■ベトナム三面記事 ${n.date}\n`+n.items.map(i=>`[${i.cat}] ${i.title}\n  ${i.body}${i.point?"\n  チェックポイント："+i.point:""}\n  出典：${i.src?i.src.t+"（"+i.src.d+"）"+(i.src.url?" "+i.src.url:""):""}`).join("\n")+"\n"+citeSite("ベトナム三面記事"),b,b.closest("article")); }));
+}
+if(document.querySelector("#streetCats")) $("#streetCats").addEventListener("click",e=>{ const b=e.target.closest("[data-st]"); if(!b) return; stSel=b.dataset.st; renderStreet(); });
+
 /* ============ 探訪 ============ */
 function renderExplore(){
   const el=$("#explore");
@@ -908,10 +943,10 @@ pf.addEventListener("submit",async e=>{
 });
 
 /* ============ 起動 ============ */
-function renderAll(){ renderHomeToday(); renderHomeLatest(); renderExplore(); renderDocs(); if(SITE.features.community!==false) renderCommunity(); if(SITE.features.news!==false) renderNews(); show(); }
+function renderAll(){ renderHomeToday(); renderHomeLatest(); renderExplore(); renderDocs(); if(SITE.features.community!==false) renderCommunity(); if(SITE.features.news!==false) renderNews(); if(SITE.features.street!==false) renderStreet(); show(); }
 (async()=>{
   const get=async p=>{ try{ const r=await fetch(p,{cache:"no-cache"}); return r.ok? await r.json() : []; }catch(e){ return []; } };
-  [ISSUES,DIGS,NEWS,POSTS,EXPLORE,DOCS] = await Promise.all([SITE.issues,"/data/digs.json","/data/news.json","/data/posts.json","/data/explore.json",SITE.docs].map(get));
+  [ISSUES,DIGS,NEWS,POSTS,EXPLORE,DOCS,STREET] = await Promise.all([SITE.issues,"/data/digs.json","/data/news.json","/data/posts.json","/data/explore.json",SITE.docs,"/data/street.json"].map(get));
   renderAll();
 })();
 </script>

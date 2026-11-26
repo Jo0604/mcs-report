@@ -7,6 +7,7 @@
 | `index.html` | 公開ページ（基本情報・地図・数字・現地探訪・月次レポートの要点・相談フォーム） | 手動 |
 | `members/index.html` | 会員ページ（Cloudflare Access でメール確認） | 手動 |
 | `data/digs.json` | 数字で深掘り（新しい順） | 毎日 AI |
+| `data/street.json` | 三面記事（新しい順、事件・取締り／芸能／トレンド／旅行など） | 火・木 AI |
 | `data/news.json` | デイリーニュース（新しい順）※法的見解・反論・抜け道は載せない | 毎朝 AI |
 | `data/issues.json` | 月次レポートの公開部分（見出しと要点まで） | 毎月4日 AI |
 | `members/data/issues.json` | 月次レポート全文（会員のみ） | 毎月4日 AI |
