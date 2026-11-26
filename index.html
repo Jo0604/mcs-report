@@ -172,8 +172,12 @@ body::before{content:"";display:block;height:4px;margin-inline:calc(-1 * max(16p
 footer.site{margin-top:14px !important}
 .fl{display:flex;align-items:center;flex-wrap:wrap}
 .navcard{position:relative}
-.st-item{padding:12px 0;border-top:1px dashed var(--line)}
-.st-item>.st-cat{display:inline-block;margin-bottom:4px}
+.st-item{display:grid;grid-template-columns:150px 1fr;gap:14px;padding:14px 0;border-top:1px dashed var(--line)}
+.st-item>div>.st-cat{display:inline-block;margin-bottom:4px}
+.st-fig{margin:0}
+.st-fig img,.st-fig svg{display:block;width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:6px;border:1px solid var(--line);background:var(--gold-soft)}
+.st-fig figcaption{font-size:10.5px;color:var(--muted);margin-top:3px;line-height:1.4}
+@media (max-width:560px){.st-item{grid-template-columns:1fr}.st-fig{max-width:260px}}
 .st-item:first-of-type{border-top:none}
 .st-cat{font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;background:var(--gold-soft);color:var(--navy);white-space:nowrap;height:fit-content}
 .st-item p{margin:4px 0 0}
@@ -784,6 +788,20 @@ function renderNews(){
 if(document.querySelector("#pestCats")) $("#pestCats").addEventListener("click",e=>{ const b=e.target.closest("[data-p]"); if(!b) return; pestSel=b.dataset.p; renderNews(); });
 
 /* ============ 三面記事（火・木） ============ */
+/* ジャンル別のイメージイラスト（写真が無い記事に表示） */
+const ST_ART={
+ "事件・取り締まり":`<rect width="300" height="200" fill="#1F2E4A"/><circle cx="110" cy="60" r="30" fill="#DA251D" opacity=".85"/><circle cx="190" cy="60" r="30" fill="#2F6FD6" opacity=".85"/><rect x="120" y="70" width="60" height="26" rx="6" fill="#E9EEF5"/><path d="M150 108 l42 14 v28 c0 22-20 34-42 42 c-22-8-42-20-42-42 v-28z" fill="#C9A227"/><path d="M150 132 l6 12 13 2 -10 9 3 13 -12-7 -12 7 3-13 -10-9 13-2z" fill="#1F2E4A"/>`,
+ "芸能・有名人":`<rect width="300" height="200" fill="#2A1E3F"/><g fill="#F2C94C"><path d="M60 40l4 9 10 1-8 6 3 10-9-6-9 6 3-10-8-6 10-1z"/><path d="M240 60l3 7 8 1-6 5 2 8-7-5-7 5 2-8-6-5 8-1z"/><path d="M220 150l3 6 7 1-5 4 2 7-7-4-6 4 2-7-5-4 7-1z"/></g><ellipse cx="150" cy="70" rx="26" ry="30" fill="#C9C9D6"/><g stroke="#8E8EA6" stroke-width="2"><path d="M128 62h44M126 74h48M130 86h40"/></g><rect x="143" y="98" width="14" height="60" rx="5" fill="#555570"/><path d="M110 178h80" stroke="#555570" stroke-width="8" stroke-linecap="round"/>`,
+ "トレンド":`<rect width="300" height="200" fill="#F6EBDD"/><path d="M95 95h80l-8 70h-64z" fill="#7A4A2A"/><path d="M175 110c22 0 22 30 0 30" stroke="#7A4A2A" stroke-width="8" fill="none"/><rect x="105" y="70" width="60" height="22" rx="3" fill="#B9B9B9"/><path d="M118 70v-14h34v14" fill="#9C9C9C"/><path d="M110 98h60" stroke="#F2E1C8" stroke-width="6"/><path d="M205 150l25-35 20 18 25-45" stroke="#DA251D" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M262 82l13 6-2-14z" fill="#DA251D"/>`,
+ "旅行・おでかけ":`<rect width="300" height="200" fill="#DDEBF3"/><circle cx="235" cy="50" r="22" fill="#F6D88A"/><g fill="#8FAE9E"><path d="M20 160c8-60 26-90 40-92 16 2 24 44 28 92z"/><path d="M80 160c10-70 32-108 50-106 18 4 24 56 28 106z"/><path d="M190 160c8-46 26-66 40-64 14 4 20 36 22 64z"/></g><path d="M0 162h300v38H0z" fill="#9CC3D8"/><path d="M120 156h70l-10 12h-50z" fill="#1F2E4A"/><path d="M155 156v-40l26 36z" fill="#C9A227"/>`,
+ "日本とベトナム":`<rect width="300" height="200" fill="#F7F3EA"/><rect x="40" y="55" width="100" height="70" rx="6" fill="#fff" stroke="#DDD"/><circle cx="90" cy="90" r="20" fill="#BC002D"/><rect x="160" y="55" width="100" height="70" rx="6" fill="#DA251D"/><path d="M210 70l6 14 15 1-12 9 4 15-13-8-13 8 4-15-12-9 15-1z" fill="#FFCD00"/><path d="M110 150c20 20 60 20 80 0" stroke="#C9A227" stroke-width="6" fill="none" stroke-linecap="round"/>`,
+ "暮らし":`<rect width="300" height="200" fill="#EAF1E4"/><circle cx="240" cy="45" r="18" fill="#F6D88A"/><path d="M70 100l60-45 60 45v65H70z" fill="#E8C9A0"/><path d="M60 104l70-55 70 55" stroke="#9A5B3A" stroke-width="8" fill="none" stroke-linejoin="round"/><rect x="115" y="120" width="30" height="45" fill="#9A5B3A"/><ellipse cx="225" cy="120" rx="14" ry="18" fill="#DA251D"/><path d="M225 102v-12M225 138v10" stroke="#C9A227" stroke-width="3"/><path d="M0 165h300v35H0z" fill="#B9C9A8"/>`
+};
+function stFig(i){
+  if(i.img&&i.img.src) return `<figure class="st-fig"><img src="${esc(i.img.src)}" alt="${esc(i.img.alt||i.title)}" loading="lazy"><figcaption>写真：${i.img.credit_url?`<a href="${esc(i.img.credit_url)}" target="_blank" rel="noopener">${esc(i.img.credit||"出典")}</a>`:esc(i.img.credit||"")}</figcaption></figure>`;
+  const a=ST_ART[i.cat]||ST_ART["暮らし"];
+  return `<figure class="st-fig"><svg viewBox="0 0 300 200" role="img" aria-label="${esc(i.cat)}のイメージ">${a}</svg><figcaption>イメージ</figcaption></figure>`;
+}
 const ST_CATS=["事件・取り締まり","芸能・有名人","トレンド","旅行・おでかけ","日本とベトナム","暮らし"];
 let stSel="all", stShow=8;
 function renderStreet(){
@@ -792,7 +810,7 @@ function renderStreet(){
   if(!STREET.length){ el.innerHTML=`<div class="notice" style="margin-top:14px">第1回を準備中です。毎週火曜・木曜の昼ごろに更新します。</div>`; return; }
   el.innerHTML = STREET.slice(0,stShow).map(n=>{ const items=n.items.filter(i=>stSel==="all"||i.cat===stSel); if(!items.length) return "";
     return `<article class="card pest-day"><div class="bhead" style="border:none;padding:0"><h3>${esc(n.date)}</h3><button class="btn" type="button" data-stcopy="${esc(n.id)}">この日をコピー</button></div>
-      ${items.map(i=>`<div class="st-item"><span class="st-cat">${esc(i.cat)}</span><div><b>${esc(i.title)}</b><p>${esc(i.body)}</p>${i.point?`<div class="imp">駐在員・出張者のチェックポイント：${esc(i.point)}</div>`:""}
+      ${items.map(i=>`<div class="st-item">${stFig(i)}<div><span class="st-cat">${esc(i.cat)}</span><br><b>${esc(i.title)}</b><p>${esc(i.body)}</p>${i.point?`<div class="imp">駐在員・出張者のチェックポイント：${esc(i.point)}</div>`:""}
         <div class="src" style="margin-top:4px">出典：${i.src&&i.src.url?`<a href="${esc(i.src.url)}" target="_blank" rel="noopener">${esc(i.src.t)}</a>`:esc(i.src?i.src.t:"")}（${esc(i.src?i.src.d:"")}）</div></div></div>`).join("")}</article>`; }).join("")
     + (STREET.length>stShow?`<div class="copybar"><button class="btn" type="button" id="moreStreet">さらに過去を表示</button></div>`:"");
   const m=$("#moreStreet"); if(m) m.addEventListener("click",()=>{ stShow+=8; renderStreet(); });
