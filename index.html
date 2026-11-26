@@ -441,7 +441,7 @@ footer.site{margin-top:56px;padding-top:16px;border-top:1px solid var(--line);fo
 <script>
 /* ============ 設定 ============ */
 const SITE_URL = "https://mcs-report.com";
-const SITE = {"member": false, "features": {"news": false, "community": false}, "issues": "/data/issues.json", "docs": "/data/docs.json"};   // member: 会員ページか / features: 法律確認まで止める機能
+const SITE = {"member": false, "features": {"news": true, "community": false}, "issues": "/data/issues.json", "docs": "/data/docs.json"};   // member: 会員ページか / features: 表示を止める機能（false で非表示）
 const ENDPOINT = "https://script.google.com/a/macros/nikomix.vn/s/AKfycbwKm_YZtDMmOqgEQxLWMs6XU0ub1tfgy2dSsGo9SjISIquaJicb_LWqoFf_KcyJ1Tw-LQ/exec";       // 受付窓口（GASのWebアプリURL）。相談・投稿・いいねがここに届く
 
 /* ============ データ ============ */
