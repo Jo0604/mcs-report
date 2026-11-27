@@ -1,5 +1,96 @@
 [
  {
+  "id": "2026-11-27",
+  "date": "2026-11-27",
+  "tag": "環境（脱炭素・炭素市場）",
+  "title": "「排出枠2.7億トン」は大量排出国か：1人あたりは日本の半分、世界平均以下",
+  "hook": {
+   "value": "3.72トン",
+   "label": "1人あたりCO2排出量（世界銀行・2023年）"
+  },
+  "summary": "ベトナムは2026年6月に国内炭素市場の試行を始め、火力発電・鉄鋼・セメントの110施設に2026年分で約2億6,840万トン（CO2換算）の排出枠を割り当てた。枠は前年より約1割多く、「排出が増え続ける国」に見えやすい。ただし人口1人あたりのCO2排出量は3.72トンで、日本（7.59トン）の約半分、世界平均（4.76トン）も下回る。数字が示すのは「排出の水準」より「これからの伸び方」と「輸出先の規制」への備えだ。",
+  "facts": [
+   "国内炭素市場の試行段階は2026年6月29日に正式に始まり、国の炭素取引プラットフォームが稼働した。根拠は政令29/2026/ND-CP（VietnamPlus・2026年6月29日）",
+   "首相決定263/QD-TTg（2026年2月9日）による試行排出枠の総量は、2025年分が243,082,392トン、2026年分が268,391,454トン（CO2換算）。2026年分は2025年分より約10.4%多い（Vietnam Briefing・2026年3月3日、IKI Viet Nam・2026年3月30日をもとに編集部計算）",
+   "対象は110施設で、火力発電34、鉄鋼25、セメント51。排出枠の内訳は火力発電が約57%、セメント30%、鉄鋼13%（IKI Viet Nam・2026年3月30日、Vietnam Briefing・2026年3月3日）",
+   "試行は2028年まで続き、2029年から本格運用に移る予定。2028年以降は対象分野を広げる可能性がある（VietnamPlus・2026年10月14日、Vietnam Briefing・2026年3月3日）",
+   "人口1人あたりCO2排出量（土地利用を除く）は2023年にベトナム3.72トン、日本7.59トン、タイ3.82トン、マレーシア8.07トン、インドネシア2.40トン、フィリピン1.40トン、中国9.40トン、韓国11.09トン、世界平均4.76トン（世界銀行 WDI、2023年）",
+   "ベトナムのNDC（2022年更新）は、2030年までに温室効果ガスを対策なしの場合（BAU）比で15.8%削減、国際支援があれば最大43.5%削減とし、2050年のネットゼロを掲げる（Vietnam Briefing・2026年3月3日、UNFCCC提出文書を引用）"
+  ],
+  "compare": {
+   "title": "人口1人あたりCO2排出量（2023年）",
+   "unit": "トン",
+   "labels": [
+    "ベトナム",
+    "日本",
+    "タイ",
+    "マレーシア",
+    "インドネシア",
+    "フィリピン",
+    "中国",
+    "韓国",
+    "世界平均"
+   ],
+   "values": [
+    3.72,
+    7.59,
+    3.82,
+    8.07,
+    2.4,
+    1.4,
+    9.4,
+    11.09,
+    4.76
+   ],
+   "note": "2023年。土地利用・土地利用変化・林業（LULUCF）を除くCO2。世界銀行APIに直接接続できなかったため、同データを転載するtheglobaleconomy.comの値を使い、EU共同研究センター（EDGAR）の2023年値（ベトナム3.69、日本7.54、世界4.86トン）とおおむね一致することを確認した。世界平均は同サイトの集計値。",
+   "src": "世界銀行 World Development Indicators（theglobaleconomy.com経由）、EDGAR（EU JRC）"
+  },
+  "view": [
+   "「排出枠2億6,840万トン」「前年より1割増」という数字だけを見ると、ベトナムは排出を増やし続ける大量排出国に見える。だがこの数字は、国全体の排出量ではなく、火力発電・鉄鋼・セメントの110施設に配った「枠」の合計だ。この数字は削減目標そのものではなく試行段階で配った枠の総量で、1割増えた理由（生産の伸びか、施設ごとの算定の見直しか）は数字だけでは分からない。枠の増加を、そのまま「削減をやめた」と読むのは早い。",
+   "水準で見ると、ベトナムの1人あたりCO2排出量は2023年に3.72トンで、日本（7.59トン）の約半分、世界平均（4.76トン）の約8割にとどまる。タイ（3.82トン）とほぼ同じで、マレーシア（8.07トン）や中国（9.40トン）よりかなり低い。「大量排出国」という印象は、人口1億人という母数の大きさと、工業化の速さから来ている面が大きい。",
+   "焦点は水準ではなく伸び方と中身だ。排出枠の約57%を火力発電が占め、電力の脱炭素化がそのまま国全体の排出の行方を左右する。セメント・鉄鋼は輸出先の炭素規制の対象になりやすい分野でもある。2029年の本格運用に向けて、どの分野まで対象を広げ、枠をどの速さで絞るかがこれからの焦点になる。"
+  ],
+  "counter": "1人あたりが低いのは所得水準がまだ低いからで、経済が日本並みに近づけば排出も増えるという見方は根強い。また、GDPあたりの排出（排出原単位）で見れば、製造業と石炭火力の比重が高いベトナムは日本より高い可能性があり、「1人あたりが少ない＝クリーン」とは言えないという指摘もある。逆に、炭素市場の導入は東南アジアでも早い部類で、制度づくりが先行している点を評価する声もある。",
+  "impact": "火力発電・鉄鋼・セメントの3分野は、2028年までの試行段階から排出枠の管理対象になっている。日系の素材・部品メーカーにとっては、取引先の排出データの開示や算定方法の確認を求められる場面が増える。EUの炭素国境調整措置（CBAM）など輸出先の規制も重なるため、ベトナム拠点の排出量を製品単位で把握しておくことが、価格交渉や受注の条件になりやすい。投資家にとっては、排出枠の総量より、2029年の本格運用で枠がどの速さで絞られるか、対象分野がどこまで広がるかが、電力・素材セクターのコストを読む鍵になる。",
+  "sources": [
+   {
+    "t": "VietnamPlus「Vietnam launches pilot carbon market, opening new opportunities for green growth」",
+    "url": "https://en.vietnamplus.vn/vietnam-launches-pilot-carbon-market-opening-new-opportunities-for-green-growth-post347382.vnp",
+    "d": "2026-06-29"
+   },
+   {
+    "t": "Vietnam Briefing「Decree 29/2026: Vietnam Operationalises Its First Carbon Trading Market」",
+    "url": "https://www.vietnam-briefing.com/news/decree-29-2026-vietnam-operationalizes-its-first-carbon-trading-market.html/",
+    "d": "2026-03-03"
+   },
+   {
+    "t": "IKI Viet Nam「Viet Nam Advances Carbon Market Development with Pilot GHG Quota Allocation」",
+    "url": "https://www.climatechange.vn/climate_news/viet-nam-advances-carbon-market-development-with-pilot-ghg-quota-allocation/",
+    "d": "2026-03-30"
+   },
+   {
+    "t": "VietnamPlus「Vietnam eyes link between green credit and carbon market to unlock funding」",
+    "url": "https://en.vietnamplus.vn/vietnam-eyes-link-between-green-credit-and-carbon-market-to-unlock-funding-post353650.vnp",
+    "d": "2026-10-14"
+   },
+   {
+    "t": "LuatVietnam「Nghị định 396/2026/NĐ-CP（温室効果ガス削減規定の改正、2026年12月12日施行）」",
+    "url": "https://luatvietnam.vn/tai-nguyen/nghi-dinh-396-2026-nd-cp-sua-doi-quy-dinh-giam-phat-thai-khi-nha-kinh-va-bao-ve-tang-o-don-452797-d1.html",
+    "d": "2026-10-26"
+   },
+   {
+    "t": "世界銀行 WDI（CO2排出量・1人あたり、LULUCF除く）／theglobaleconomy.com",
+    "url": "https://www.theglobaleconomy.com/rankings/Carbon_dioxide_emissions_per_capita/",
+    "d": "2023年データ"
+   },
+   {
+    "t": "Wikipedia「List of countries by carbon dioxide emissions per capita」（EDGAR・EU JRCの2023年値）",
+    "url": "https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita",
+    "d": "2023年データ"
+   }
+  ]
+ },
+ {
   "id": "2026-11-26",
   "date": "2026-11-26",
   "tag": "物流（港湾・コンテナ）",
